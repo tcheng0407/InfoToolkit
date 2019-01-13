@@ -13,7 +13,7 @@
 - 综合信息
 
 
-- 技能工具
+- [技能工具](https://github.com/tcheng0407/InfoToolkit/blob/master/README.md#%E6%8A%80%E8%83%BD%E5%B7%A5%E5%85%B7)
   - [写作工具](https://github.com/tcheng0407/InfoToolkit/blob/master/README.md#%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7)
 
 
