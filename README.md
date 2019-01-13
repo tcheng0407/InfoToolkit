@@ -13,7 +13,17 @@
 - 综合信息
 
 
+- 技能工具
+  - 写作工具
 
+
+
+
+## 技能工具
+### 写作工具
+- [写匠](https://github.com/tcheng0407/InfoToolkit/edit/master/README.md)
+
+开智公司旗下，基于人工智能与认知科学的中文写作辅助工具
 
 
 
