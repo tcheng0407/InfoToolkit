@@ -14,7 +14,7 @@
 
 
 - 技能工具
-  - 写作工具
+  - [写作工具](https://github.com/tcheng0407/InfoToolkit/blob/master/README.md#%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7)
 
 
 
