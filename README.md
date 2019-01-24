@@ -25,7 +25,8 @@
 
 开智公司旗下，基于人工智能与认知科学的中文写作辅助工具
 
-
+## 其他工具
+起英文名：[Baby Name Trends](https://nametrends.net/)
 
 
 
