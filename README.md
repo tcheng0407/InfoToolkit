@@ -17,6 +17,12 @@
   - [写作工具](https://github.com/tcheng0407/InfoToolkit/blob/master/README.md#%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7)
 
 
+## 信息工具
+
+## 检索工具
+### 中国历史
+- [中国哲学书电子化计划](https://ctext.org/zh)
+
 
 
 ## 技能工具
