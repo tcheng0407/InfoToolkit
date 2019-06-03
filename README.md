@@ -11,7 +11,9 @@
 - 目前以个人使用为主，将来会逐渐开放
 ## 目录
 - 综合信息
-
+- [信息工具](https://github.com/tcheng0407/InfoToolkit#%E4%BF%A1%E6%81%AF%E5%B7%A5%E5%85%B7)
+- [检索工具](https://github.com/tcheng0407/InfoToolkit#%E6%A3%80%E7%B4%A2%E5%B7%A5%E5%85%B7)
+  - [中国古籍]（https://github.com/tcheng0407/InfoToolkit#%E4%B8%AD%E5%9B%BD%E5%8F%A4%E7%B1%8D）
 
 - [技能工具](https://github.com/tcheng0407/InfoToolkit/blob/master/README.md#%E6%8A%80%E8%83%BD%E5%B7%A5%E5%85%B7)
   - [写作工具](https://github.com/tcheng0407/InfoToolkit/blob/master/README.md#%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7)
