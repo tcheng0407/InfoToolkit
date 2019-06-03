@@ -13,7 +13,8 @@
 - 综合信息
 - [信息工具](https://github.com/tcheng0407/InfoToolkit#%E4%BF%A1%E6%81%AF%E5%B7%A5%E5%85%B7)
 - [检索工具](https://github.com/tcheng0407/InfoToolkit#%E6%A3%80%E7%B4%A2%E5%B7%A5%E5%85%B7)
-  - [中国古籍]（https://github.com/tcheng0407/InfoToolkit#%E4%B8%AD%E5%9B%BD%E5%8F%A4%E7%B1%8D）
+  - [中国古籍](https://github.com/tcheng0407/InfoToolkit#%E4%B8%AD%E5%9B%BD%E5%8F%A4%E7%B1%8D)
+  - [数学计算]()
 
 - [技能工具](https://github.com/tcheng0407/InfoToolkit/blob/master/README.md#%E6%8A%80%E8%83%BD%E5%B7%A5%E5%85%B7)
   - [写作工具](https://github.com/tcheng0407/InfoToolkit/blob/master/README.md#%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7)
@@ -26,6 +27,10 @@
 - [中国哲学书电子化计划](https://ctext.org/zh)
 
 十三经、二十四史、诸子百家、学科杂书等古籍，便于文字检索。
+### 数学计算
+- [wolfram|Alpha](https://www.wolframalpha.com/)
+
+非常实用，可以输入算式直接解方程、不等式；绘制数学图表；也可以搜索自然科学、社会科学等相关人名、背景知识等。
 
 
 ## 技能工具
