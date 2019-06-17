@@ -47,7 +47,7 @@
 
 上市公司所有公开信息均可搜索。
 
-- [纽约公司查询](https://www.secstates.com/NY_New_York_Secretary_of_State_Corporation_Search)
+- [纽约州公司查询](https://www.secstates.com/NY_New_York_Secretary_of_State_Corporation_Search)
 
 美国其他州的公司信息均需去相应州查询，可以通过纽约州的网址导览到其他各州。
 
