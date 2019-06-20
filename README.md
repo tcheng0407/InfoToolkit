@@ -54,16 +54,16 @@
 ### 行业/公司信息
 
 #### 付费/订阅
-[乐晴智库](http://www.767stock.com/)
+- [乐晴智库](http://www.767stock.com/)
 
 低价的行业信息。
 
 #### 免费
-[互联网数据资讯中心](http://www.199it.com/)
+- [互联网数据资讯中心](http://www.199it.com/)
 
 互联网行业报告和信息汇总。
 
-[格隆汇](https://www.gelonghui.com/)
+- [格隆汇](https://www.gelonghui.com/)
 
 主要是上市公司。可以通过上市公司入手看行业数据，或中国公司对标美国公司等方法。
 
