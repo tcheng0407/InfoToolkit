@@ -65,6 +65,7 @@
 
 #### 英文世界（偶有和谐书籍）
 - [Library Genesis](http://gen.lib.rus.ec/)：最知名的免费英文书下载网站，经常被封。老毛子真是美帝一世之敌，只有这件事要感谢毛子。[备用链接1](http://libgen.io/)、[备用链接2](http://libgen.is/)
+- [ebook.farm](https://ebook.farm)：之前在美国上学时下载过一些书，需要付费。大部分收费较低的书Library Genesis上有，如果前者没有再来这里买。
 
 #### 港台
 
