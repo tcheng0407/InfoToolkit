@@ -89,6 +89,7 @@
 
 ## 其他工具
 - 起英文名：[Baby Name Trends](https://nametrends.net/)：查看英文名的流行程度和趋势
+- 快速阅读：[Readsy](http://www.readsy.co/)：将网址复制过来，可以快速阅读。附带一个网页版小工具Spritzlet。之前上学时快速读论文很好用。
 
 
 
