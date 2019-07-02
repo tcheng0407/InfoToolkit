@@ -64,7 +64,7 @@
 - [Vol.moe Kindle漫画](http://vol.moe/)：找漫画的好地方。于子不爱看漫画，需求不大，值得推荐给朋友。
 
 #### 英文世界（偶有和谐书籍）
-- [Library Genesis](http://gen.lib.rus.ec/)：最知名的免费英文书下载网站，经常被封。老毛子真是美帝一世之敌，只有这件事要感谢毛子。[备用链接](http://libgen.io/)
+- [Library Genesis](http://gen.lib.rus.ec/)：最知名的免费英文书下载网站，经常被封。老毛子真是美帝一世之敌，只有这件事要感谢毛子。[备用链接1](http://libgen.io/)、[备用链接2](http://libgen.is/)
 
 #### 港台
 
