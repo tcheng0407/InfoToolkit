@@ -119,8 +119,7 @@
 
 ### 设计工具
 - [稿定设计](https://www.gaoding.com)：提供设计模板，简单编辑文案可生成海报。
-- [ProcessOn在线作图](www.processon.com)：流程图、思维导图、线框图、原型图等。
-- 
+- [ProcessOn在线作图](www.processon.com)：流程图、思维导图、线框图、原型图等。 
 
 
 
