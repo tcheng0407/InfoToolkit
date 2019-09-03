@@ -50,8 +50,6 @@
 #### 检查新闻真实性
 - [Fact Checks Archive](https://www.snopes.com/fact-check/)：检索英文世界新闻的真实性。
 
-
-
 ### 查书和书评
 #### 中国
 - [豆瓣读书](https://book.douban.com/)：大陆目前最靠谱的找书和书评网站，优点是人多，逼格够，大部分书的总评分能反应书本身的好坏。缺点是很多书被……你懂的，也有一些刷分的现象，特别是新书。基本上说，老书更靠谱，没有情绪的书更靠谱。
@@ -62,7 +60,12 @@
 - [Goodreads](https://www.goodreads.com/)：世界版豆瓣，能连接Facebook好友，人气很旺，中文读物的书评匮乏。
 - [Anobii](https://www.anobii.com/)：台湾人推荐的“豆瓣”，人气远远不如。
 
-### 找电子书
+
+
+
+## 资源工具
+
+### 电子书
 #### 中国大陆（偶有港台）
 - [全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/)：PDF，读秀库，有大量即使在大陆出版的书籍都被陆续下架，港台版偶有漏网。出版时间超过1年、有试读的书，大概率能找到。找一元哥低价制作。
 - [无产阶级图书馆](http://45.32.41.3/My_library_table.php)：好书很多，各种类型，新书很快，五星级推荐。需要科学上网。
@@ -76,11 +79,12 @@
 
 #### 港台
 
+
 ### 图片类
 #### 图标
 - [Iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn)：阿里牵头的国产图标库，有设计师不断添加内容。
 - [IcoFont](https://icofont.com/)：国外网站，较多品牌图标，两个网站相互参考。
-
+#### 照片
 
 
 ## 检索工具
@@ -93,16 +97,21 @@
 
 ## 技能工具
 ### 写作工具
-- [写匠](https://github.com/tcheng0407/InfoToolkit/edit/master/README.md)：开智公司旗下，基于人工智能与认知科学的中文写作辅助工具
+- [写匠](https://github.com/tcheng0407/InfoToolkit/edit/master/README.md)：开智公司旗下，基于人工智能与认知科学的中文写作辅助工具。
+
 
 ## 办公工具
+### 办公软件
 
+### 图床
+-[路过图床](https://imgchr.com/)：国内图床，简单方便，已注册账号tcheng。
+-[Simple Free Image Hosting](https://sm.ms/)：海外图床，简单，估计限制较少。
 
 
 
 
 ## 其他工具
-- 起英文名：[Baby Name Trends](https://nametrends.net/)：查看英文名的流行程度和趋势
+- 起英文名：[Baby Name Trends](https://nametrends.net/)：查看英文名的流行程度和趋势。
 - 快速阅读：[Readsy](http://www.readsy.co/)：将网址复制过来，可以快速阅读。附带一个网页版小工具Spritzlet。之前上学时快速读论文很好用。
 
 
@@ -114,3 +123,4 @@
 - 20190620 增加几个付费及免费行业信息
 - 20190701 增加查找和下载书籍的信息
 - 20190702 增加图标和图片资源
+- 20190903 增加办公工具，含办公软件、图床等
