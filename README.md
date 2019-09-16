@@ -87,6 +87,9 @@
 #### 图标
 - [Iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn)：阿里牵头的国产图标库，有设计师不断添加内容。
 - [IcoFont](https://icofont.com/)：国外网站，较多品牌图标，两个网站相互参考。
+#### 图表
+- [Visual Paradigm](https://online.visual-paradigm.com/cn/)：在线图表绘制，高阶图表需要付费订阅，目前未订阅。
+
 #### 图片
 
 #### 设计素材
