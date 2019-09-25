@@ -109,6 +109,7 @@
 ## 技能工具
 ### 写作工具
 - [写匠](https://github.com/tcheng0407/InfoToolkit/edit/master/README.md)：开智公司旗下，基于人工智能与认知科学的中文写作辅助工具。
+- [去除文本中所有空格](http://www.txttool.com/wenben_alltrim.asp)：去掉OCR之后产生的空格，注意补回英文空格。
 
 
 ## 办公工具
