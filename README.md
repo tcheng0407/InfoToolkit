@@ -91,11 +91,15 @@
 - [IcoFont](https://icofont.com/)：国外网站，较多品牌图标，两个网站相互参考。
 #### 图表
 - [Visual Paradigm](https://online.visual-paradigm.com/cn/)：在线图表绘制，高阶图表需要付费订阅，目前未订阅。
-
 #### 图片
-
 #### 设计素材
 - [Free Stock Images & Videos](https://allthefreestock.com/)：整合近200个免费设计资源网站。注：点左边资源目录，不要点右下方（一些成果范例等）。
+
+### 娱乐类
+#### 体育直播
+- [MamaHD Live Sports Streams](https://www.mamahd.org/)：皮革厂推荐的体育直播网站，需要关闭广告插件才能使用。
+
+
 
 
 ## 检索工具
