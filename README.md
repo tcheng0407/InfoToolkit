@@ -25,9 +25,14 @@
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint)：Open-source intelligence，英文世界全面的信息搜索工具，需要经常看看，熟悉每个工具的功能和适用空间。
 - [开智信息分析工具箱]()：开智学堂研发，适合中文世界的信息搜索。
 - [搜狗微信](https://weixin.sogou.com/)：微信公众号的文章搜索，其中有不少有价值的文章和咨询，而Google、百度无法搜索到微信公众号。
-### 垂直搜索（总）
+### 元搜索
 - [大数据导航](http://hao.199it.com/)：不同垂直行业的数据搜索引擎汇总。
 - [猎手导航搜索](https://www.lsdhss.com/)：基于百度搜索引擎，可以了解不同领域的常用网站和信息来源。
+- [All the Internet](https://www.alltheinternet.com/)
+- [ZapMeta](https://www.zapmeta.com/)
+- [All in One](https://all-io.net/)
+### 垂直搜索
+
 
 ### 学术搜索
 - [万方数据知识服务平台](http://www.wanfangdata.com.cn/index.html)：搜索学术期刊、论文、专利等，可生成上位词、下位词等，形成可视化图谱。
