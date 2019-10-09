@@ -24,6 +24,7 @@
 ### 综合搜索
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint)：Open-source intelligence，英文世界全面的信息搜索工具，需要经常看看，熟悉每个工具的功能和适用空间。
 - [开智信息分析工具箱]()：开智学堂研发，适合中文世界的信息搜索。
+- [XLore](https://xlore.org/)：中英文跨语言百科知识图谱。便于搜索相应实体及上位词、下位词，可以切换语言，作为维基百科+百度百科的集合。
 - [搜狗微信](https://weixin.sogou.com/)：微信公众号的文章搜索，其中有不少有价值的文章和咨询，而Google、百度无法搜索到微信公众号。
 ### 垂直搜索（总）
 - [大数据导航](http://hao.199it.com/)：不同垂直行业的数据搜索引擎汇总。
