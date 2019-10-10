@@ -154,6 +154,7 @@
 - [在线PS](https://ps.gaoding.com/#/)：稿定设计旗下在线PS。注：稿定设计还有其他图片工具，如在线拼图、智能抠图等。
 - [TinyPNG图片压缩](https://tinypng.com/)：图片压缩神器，单张图片最大5M。
 - [Bigjpg图片智能放大](http://bigjpg.com/)：图片放大神器，单张最多支持10M，放大四倍，提供安装包工具。
+- [图虫EXIF信息查看器](https://exif.tuchong.com/)：查看照片的exif信息，如拍摄时间、拍摄地点、拍摄设备等。
 
 ### 设计工具
 - [稿定设计](https://www.gaoding.com)：提供设计模板，简单编辑文案可生成海报。
