@@ -46,7 +46,19 @@
 - [中国国家标准：学科分类与代码GBT/13745-2009](http://www.njitt.edu.cn/_upload/article/files/c5/cd/02d9a41641acb4de0cd31423f54d/0c66f222-11d6-483b-94db-7c7b07b55b7d.pdf)：中国2009年修订的学科分类，pdf文件，不便检索。
 #### 学术期刊
 - [Google经典论文](https://scholar.google.com/citations?view_op=list_classic_articles&hl=zh-CN&by=2006)：按学科分类的经典论文。
+- [Google核心期刊](https://scholar.google.com/citations?view_op=top_venues&hl=en)：页面同Google学术分类表，按H5指数顺序展示该领域顶级刊物。
+- [SJR期刊排名](https://www.scimagojr.com/journalrank.php)：可与Google核心期刊交叉验证。
+- [知网出版物检索](http://navi.cnki.net/knavi)：先在“出版来源导航”中选择“期刊导航”，再在左边选择相应学科，并勾选“核心期刊”。
+- [北大《中文核心期刊要目总览（2014年版）》](http://lib.hhu.edu.cn/upload/201704/12/201704121414100956.pdf)
+- [知网学者库](http://expert.cnki.net/)：可以查看某领域的中国学者排名，但查看论文、按年代排序等需要收费，恶臭。
+#### 文献下载
+- [维基百科-开放获取期刊列表](https://zh.wikipedia.org/wiki/%E9%96%8B%E6%94%BE%E7%8D%B2%E5%8F%96%E6%9C%9F%E5%88%8A%E5%88%97%E8%A1%A8)：了解不同期刊开放获取的规则，找到该期刊免费下载。
 - [知网的文献高级搜索](https://kns.cnki.net/kns/brief/result.aspx?dbprefix=SCDB&crossDbcodes=CJFQ,CDFD,CMFD,CPFD,IPFD,CCND,CCJD)：高级搜索页面，可以通过左边的学科而非个别关键词完成检索，勾选文献后选择导出参考文献为Refworks格式，便于Zotero抓取信息。
+- [阳志平-开放科学工具箱](https://www.yangzhiping.com/psy/open-science-toolbox.html)：解释了开放科学的原理，并整理相关资源。
+#### 知识图谱
+- [Acemap](https://www.acemap.info/)：用于知识图谱的搜索。
+- [知网](https://cnki.net/)：搜索关键词后，可选中全部或部分文献，点击“计量可视化分析”生产知识图谱。
+
 #### 学科数据库
 
 
