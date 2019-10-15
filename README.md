@@ -44,8 +44,10 @@
 - [Google学术分类表](https://scholar.google.com/citations?view_op=top_venues&hl=en)：可以了解各个学科的分类，同时了解该学科的顶级刊物。
 - [美国CIP分类表](https://nces.ed.gov/ipeds/cipcode/browse.aspx?y=56)：美国教育部的学科分类。
 - [中国国家标准：学科分类与代码GBT/13745-2009](http://www.njitt.edu.cn/_upload/article/files/c5/cd/02d9a41641acb4de0cd31423f54d/0c66f222-11d6-483b-94db-7c7b07b55b7d.pdf)：中国2009年修订的学科分类，pdf文件，不便检索。
-#### 顶级学术期刊
-
+#### 学术期刊
+- [Google经典论文](https://scholar.google.com/citations?view_op=list_classic_articles&hl=zh-CN&by=2006)：按学科分类的经典论文。
+- [知网的文献高级搜索](https://kns.cnki.net/kns/brief/result.aspx?dbprefix=SCDB&crossDbcodes=CJFQ,CDFD,CMFD,CPFD,IPFD,CCND,CCJD)：高级搜索页面，可以通过左边的学科而非个别关键词完成检索，勾选文献后选择导出参考文献为Refworks格式，便于Zotero抓取信息。
+#### 学科数据库
 
 
 ### 公司查询
@@ -107,10 +109,6 @@
 
 #### 港台
 
-### 文献
-#### 免费
-
-#### 付费
 
 
 ### 设计类
@@ -184,3 +182,4 @@
 - 20190702 增加图标和图片资源
 - 20190903 增加办公工具，含办公软件、图床等
 - 20191009 增加世界名画等图片资源
+- 20191015 增加学术文献搜索
