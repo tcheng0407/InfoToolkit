@@ -56,7 +56,7 @@
 - [知网的文献高级搜索](https://kns.cnki.net/kns/brief/result.aspx?dbprefix=SCDB&crossDbcodes=CJFQ,CDFD,CMFD,CPFD,IPFD,CCND,CCJD)：高级搜索页面，可以通过左边的学科而非个别关键词完成检索，勾选文献后选择导出参考文献为Refworks格式，便于Zotero抓取信息。
 - [阳志平-开放科学工具箱](https://www.yangzhiping.com/psy/open-science-toolbox.html)：解释了开放科学的原理，并整理相关资源。
 #### 知识图谱
-- [Acemap](https://www.acemap.info/)：用于知识图谱的搜索。
+- [Acemap](https://www.acemap.info/)：用于知识图谱的搜索，包括相关领域、父话题、子话题；论文地图、作者地图、作者师承关系地图；推荐作者、推荐论文。
 - [知网](https://cnki.net/)：搜索关键词后，可选中全部或部分文献，点击“计量可视化分析”生产知识图谱。
 
 #### 学科数据库
