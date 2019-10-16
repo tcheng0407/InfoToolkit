@@ -23,7 +23,7 @@
 ## 信息工具
 ### 综合搜索
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint)：Open-source intelligence，英文世界全面的信息搜索工具，需要经常看看，熟悉每个工具的功能和适用空间。
-- [开智信息分析工具箱]()：开智学堂研发，适合中文世界的信息搜索。
+- [开智信息分析工具箱](https://m.openmindclub.com/stu/IA006/homework/548ca640-2422-476e-854b-06e4f23f05be)：开智学堂研发，适合中文世界的信息搜索。
 - [互联网时光机](https://web.archive.org/)：可查看网站在历史某时间点的样子，需梯子；还存放有历史存档的音乐、视频、书籍、软件等资源，便于查看历史新闻、早期视频等。
 - [虫部落](https://www.chongbuluo.com/)：搜索引擎的聚合，但需要一个一个尝试。
 - [搜狗微信](https://weixin.sogou.com/)：微信公众号的文章搜索，其中有不少有价值的文章和咨询，而Google、百度无法搜索到微信公众号。
