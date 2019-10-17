@@ -44,16 +44,19 @@
 - [Google学术分类表](https://scholar.google.com/citations?view_op=top_venues&hl=en)：可以了解各个学科的分类，同时了解该学科的顶级刊物。
 - [美国CIP分类表](https://nces.ed.gov/ipeds/cipcode/browse.aspx?y=56)：美国教育部的学科分类。
 - [中国国家标准：学科分类与代码GBT/13745-2009](http://www.njitt.edu.cn/_upload/article/files/c5/cd/02d9a41641acb4de0cd31423f54d/0c66f222-11d6-483b-94db-7c7b07b55b7d.pdf)：中国2009年修订的学科分类，pdf文件，不便检索。
-#### 学术期刊
+#### 学术期刊/学者
 - [Google经典论文](https://scholar.google.com/citations?view_op=list_classic_articles&hl=zh-CN&by=2006)：按学科分类的经典论文。
 - [Google核心期刊](https://scholar.google.com/citations?view_op=top_venues&hl=en)：页面同Google学术分类表，按H5指数顺序展示该领域顶级刊物。
 - [SJR期刊排名](https://www.scimagojr.com/journalrank.php)：可与Google核心期刊交叉验证。
 - [知网出版物检索](http://navi.cnki.net/knavi)：先在“出版来源导航”中选择“期刊导航”，再在左边选择相应学科，并勾选“核心期刊”。
 - [北大《中文核心期刊要目总览（2014年版）》](http://lib.hhu.edu.cn/upload/201704/12/201704121414100956.pdf)
 - [知网学者库](http://expert.cnki.net/)：可以查看某领域的中国学者排名，但查看论文、按年代排序等需要收费，恶臭。
-#### 文献下载
+#### 论文文献
 - [维基百科-开放获取期刊列表](https://zh.wikipedia.org/wiki/%E9%96%8B%E6%94%BE%E7%8D%B2%E5%8F%96%E6%9C%9F%E5%88%8A%E5%88%97%E8%A1%A8)：了解不同期刊开放获取的规则，找到该期刊免费下载。
 - [知网的文献高级搜索](https://kns.cnki.net/kns/brief/result.aspx?dbprefix=SCDB&crossDbcodes=CJFQ,CDFD,CMFD,CPFD,IPFD,CCND,CCJD)：高级搜索页面，可以通过左边的学科而非个别关键词完成检索，勾选文献后选择导出参考文献为Refworks格式，便于Zotero抓取信息。
+- [Altmetric Top 100](https://www.altmetric.com/top100/2018/)：历年Altmetric最高的100篇文献。（需注意：1. 不同学科之间的指数没有可比性；2. 该指数代表社交媒体的关注度，分数高未必代表质量高；3. 2010年，特别是2014年后，Altmetric指数与学术界影响力有正相关。）
+- [Crossref](https://www.crossref.org/)：查询文献的DOI（唯一），用于Altmetric分析（高亮DOI，点Altmetric）。
+- [中国社会科学引文索引（CSSCI）](http://cssci.nju.edu.cn/)：使用CiteSpace分析时，CSSCI比知网的数据更好，但需要用户名密码才能使用。
 - [阳志平-开放科学工具箱](https://www.yangzhiping.com/psy/open-science-toolbox.html)：解释了开放科学的原理，并整理相关资源。
 #### 知识图谱
 - [Acemap](https://www.acemap.info/)：用于知识图谱的搜索，包括相关领域、父话题、子话题；论文地图、作者地图、作者师承关系地图；推荐作者、推荐论文。
@@ -120,7 +123,9 @@
 - [Memory of the World Library](https://memoryoftheworld.org/#/books)：历史类英文书籍。
 
 #### 港台
+#### 杂志
 
+注：阳志平老师心目中最好的五本杂志：《哈佛商业评论》《麻省理工评论》《科学美国人》《纽约时报》《经济学人》
 
 
 ### 设计类
@@ -186,6 +191,7 @@
 ## 值得保存的博客与文章
 ### 博客
 - [阳志平的网志](https://www.yangzhiping.com/)：阳志平老师早期博客，有大量文章至今仍未过时，值得反复阅读。
+- [The 50 Most Influential Living Psychologists in the World](https://thebestschools.org/features/most-influential-psychologists-world/)：含每个人的介绍及主要著作。
 
 ### 历史类
 
@@ -193,7 +199,7 @@
 ### 商业类
 
 ### 技能工具类
-
+- [维基百科:更优秀条目写作指南](https://zh.wikipedia.org/wiki/Wikipedia:%E6%9B%B4%E4%BC%98%E7%A7%80%E6%9D%A1%E7%9B%AE%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97)：如何更清晰、更科学、更客观地写作。
 
 ### 启发类
 
