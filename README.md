@@ -124,9 +124,9 @@
 
 #### 港台
 #### 杂志
-
 注：阳志平老师心目中最好的五本杂志：《哈佛商业评论》《麻省理工评论》《科学美国人》《纽约时报》《经济学人》
-
+- [MagazineLib](https://magazinelib.com/)
+- [Magazine pdf](https://freemagazinepdf.com/)
 
 ### 设计类
 #### 图标
