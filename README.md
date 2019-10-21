@@ -151,9 +151,8 @@
 ### 中国古籍
 - [中国哲学书电子化计划](https://ctext.org/zh)：十三经、二十四史、诸子百家、学科杂书等古籍，便于文字检索。
 - [国学大师](http://www.guoxuedashi.com/)：四库全书及古典文献、历史类信息检索，部分书籍提供PDF下载。
-### 数学计算
-- [Wolfram|Alpha](https://www.wolframalpha.com/)：非常实用，可以输入算式直接解方程、不等式；绘制数学图表；也可以搜索自然科学、社会科学等相关人名、背景知识等。
-
+### 词频检索
+- [Google Ngram Viewer](https://books.google.com/ngrams)：了解一个词在某个时代的热度及其变化趋势。Google扫描了所有出版物（以英文为主，截至2008年），并将出版物中的词频进行统计与分析。
 
 ## 技能工具
 ### 写作工具
@@ -187,6 +186,7 @@
 - 综合工具：[爱资料在线工具](https://www.toolnb.com/)：斗图工具，及其他小工具。
 - 起英文名：[Baby Name Trends](https://nametrends.net/)：查看英文名的流行程度和趋势。
 - 快速阅读：[Readsy](http://www.readsy.co/)：将网址复制过来，可以快速阅读。附带一个网页版小工具Spritzlet。之前上学时快速读论文很好用。
+- 数学计算：[Wolfram|Alpha](https://www.wolframalpha.com/)：非常实用，可以输入算式直接解方程、不等式；绘制数学图表；也可以搜索自然科学、社会科学等相关人名、背景知识等。
 
 ## 值得保存的博客与文章
 ### 博客
