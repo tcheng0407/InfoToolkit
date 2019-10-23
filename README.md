@@ -125,7 +125,7 @@
 - [ONET Online](https://www.onetonline.org/)：ONET主页，世界最大的职业信息数据库，提供大量免费职业分析工具，可以快速建立对某一职业的全局认识。输入需要了解的职业，可以从多个维度了解到该职业的任职资格，还能了解到该职业的前景、是否环保、是否有学徒期等。
 - [ONET Resource](https://www.onetcenter.org/)
 - [ONET Taxonomy](https://www.onetcenter.org/taxonomy.html)：美国所有职业名称汇总，每年更新。
-- [ONET Content Model](https://www.onetcenter.org/content.html)：职业模型，将每个职业按照任职者导向（任职者特征、任职者要求、经验要求）和职业导向（经验要求、职业要求、职业特征）建立框架，方便了解任职资格。
+- [ONET Content Model](https://www.onetcenter.org/content.html)：职业模型，将每个职业按照任职者导向（任职者特征、任职者要求、经验要求）和职业导向（职业要求、劳动力特质、职业特定信息）建立框架，方便了解任职资格。
 ### 编程
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience)：神经科学的awesome清单。
 - [Awesome node.js](https://github.com/sindresorhus/awesome-nodejs)：node.js的awesome清单。
