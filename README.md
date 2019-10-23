@@ -122,7 +122,7 @@
 
 ## 职业发展
 ### 职业分析
-- [ONET](https://www.onetcenter.org/)：ONET主页，美国的免费职业分析工具，可以快速建立对某一职业的全局认识。输入需要了解的职业，可以从多个维度了解到该职业的任职资格，还能了解到该职业的前景、是否环保、是否有学徒期等。
+- [ONET](https://www.onetcenter.org/)：ONET主页，世界最大的职业信息数据库，提供大量免费职业分析工具，可以快速建立对某一职业的全局认识。输入需要了解的职业，可以从多个维度了解到该职业的任职资格，还能了解到该职业的前景、是否环保、是否有学徒期等。
 - [ONET Taxonomy](https://www.onetcenter.org/taxonomy.html)：美国所有职业名称汇总，每年更新。
 - [ONET Content Model](https://www.onetcenter.org/content.html)：职业模型，将每个职业按照维度拆解，方便了解任职资格。
 ### 编程
