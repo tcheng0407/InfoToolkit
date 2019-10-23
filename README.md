@@ -152,6 +152,7 @@
 ## 设计素材
 ### 综合素材
 - [Free Stock Images & Videos](https://allthefreestock.com/)：整合近200个免费设计资源网站。注：点左边资源目录，不要点右下方（一些成果范例等）。
+- [比格PPT](http://www.tretars.com/)：PPT素材及模板。
 ### 设计工具
 - [稿定设计](https://www.gaoding.com)：提供设计模板，简单编辑文案可生成海报。
 - [ProcessOn在线作图](www.processon.com)：流程图、思维导图、线框图、原型图等。 
