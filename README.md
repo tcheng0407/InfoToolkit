@@ -19,6 +19,7 @@
 - [技能工具](https://github.com/tcheng0407/InfoToolkit/blob/master/README.md#%E6%8A%80%E8%83%BD%E5%B7%A5%E5%85%B7)
   - [写作工具](https://github.com/tcheng0407/InfoToolkit/blob/master/README.md#%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7)
 
+---
 
 ## 搜索
 ### 综合搜索
@@ -36,11 +37,10 @@
 ### 垂直搜索
 ### 搜索工具
 - [Google Ngram Viewer](https://books.google.com/ngrams)：了解一个词在某个时代的热度及其变化趋势。Google扫描了所有出版物（以英文为主，截至2008年），并将出版物中的词频进行统计与分析。
+- [Wolfram|Alpha](https://www.wolframalpha.com/)：非常实用的数学计算工具，可以输入算式直接解方程、不等式；绘制数学图表；也可以搜索自然科学、社会科学等相关人名、背景知识等。
+- [Baby Name Trends](https://nametrends.net/)：查看英文名的流行程度和趋势。
+
 ---
-
-
-
-
 
 ## 学术研究
 ### 学术搜索
@@ -70,8 +70,7 @@
 - [知网](https://cnki.net/)：搜索关键词后，可选中全部或部分文献，点击“计量可视化分析”生产知识图谱。
 ### 学科数据库
 
-
-
+---
 
 ## 读书
 ### 查书和书评
@@ -101,9 +100,7 @@
 - [中国哲学书电子化计划](https://ctext.org/zh)：十三经、二十四史、诸子百家、学科杂书等古籍，便于文字检索。
 - [国学大师](http://www.guoxuedashi.com/)：四库全书及古典文献、历史类信息检索，部分书籍提供PDF下载。
 
-
-
-
+---
 
 ## 商业
 ### 公司查询
@@ -121,89 +118,67 @@
 - [互联网数据资讯中心](http://www.199it.com/)：互联网行业报告和信息汇总。
 - [格隆汇](https://www.gelonghui.com/)：主要是上市公司。可以通过上市公司入手看行业数据，或中国公司对标美国公司等方法。
 
+---
+
 ## 职业发展
 ### 职业分析
-
+-[ONET](https://www.onetcenter.org/)：ONET主页，美国的免费职业分析工具，可以快速建立对某一职业的全局认识。输入需要了解的职业，可以从多个维度了解到该职业的任职资格，还能了解到该职业的前景、是否环保、是否有学徒期等。
+-[ONET Taxonomy](https://www.onetcenter.org/taxonomy.html)：美国所有职业名称汇总，每年更新。
+-[ONET Content Model](https://www.onetcenter.org/content.html)：职业模型，将每个职业按照维度拆解，方便了解任职资格。
 ### 自由职业者
 - [Awesome Indie清单](https://github.com/mezod/awesome-indie)：GitHub上关于自由职业者的清单。
 
-
-
-
-
-
+---
 
 ## 新闻资讯
 ### 常见靠谱新闻网站
 
 ### 检查新闻真实性
 - [Fact Checks Archive](https://www.snopes.com/fact-check/)：检索英文世界新闻的真实性。
-
-
-
-
-
-
-
-
-### 设计类
-#### 图标
-- [Iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn)：阿里牵头的国产图标库，有设计师不断添加内容。
-- [IcoFont](https://icofont.com/)：国外网站，较多品牌图标，两个网站相互参考。
-#### 图表
-- [Visual Paradigm](https://online.visual-paradigm.com/cn/)：在线图表绘制，高阶图表需要付费订阅，目前未订阅。
-#### 图片
-- [Gallerix](https://gallerix.asia/)：各大博物馆中的世界名画，可下载。
-- [Unsplash](https://unsplash.com/)：免费的大图，可根据主题和对象搜索，质量很高。
-#### 设计素材
-- [Free Stock Images & Videos](https://allthefreestock.com/)：整合近200个免费设计资源网站。注：点左边资源目录，不要点右下方（一些成果范例等）。
-
-### 娱乐类
-#### 体育直播
+### 体育直播
 - [MamaHD Live Sports Streams](https://www.mamahd.org/)：皮革厂推荐的体育直播网站，需要关闭广告插件才能使用。
 
+---
 
-
-
-## 检索工具
-### 中国古籍
-
-### 词频检索
-
-
-## 技能工具
-### 写作工具
-- [写匠](https://aiwriter.cn/home)：开智公司旗下，基于人工智能与认知科学的中文写作辅助工具。
-- [去除文本中所有空格](http://www.txttool.com/wenben_alltrim.asp)：去掉OCR之后产生的空格，注意补回英文空格。
-
-
-## 办公工具
-### 办公软件
-- [UZER.ME云端超级应用空间](uzer.me)：包括Office的三件套，甚至包含XMind、Photoshop、Matlab等常用付费软件。界面和电脑几乎完全一样，但只能保存（有1G储存空间）而无法在线同步编辑。已用微信和手机号注册。
-- [文件转换器](https://convertio.co/zh/)：多种格式的转化，界面简单，格式多，免费单文件最大100M（可付费增加）。
-
-### 图片工具
-#### 图床
+## 设计素材
+### 综合素材
+- [Free Stock Images & Videos](https://allthefreestock.com/)：整合近200个免费设计资源网站。注：点左边资源目录，不要点右下方（一些成果范例等）。
+### 设计工具
+- [稿定设计](https://www.gaoding.com)：提供设计模板，简单编辑文案可生成海报。
+- [ProcessOn在线作图](www.processon.com)：流程图、思维导图、线框图、原型图等。 
+### 图标
+- [Iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn)：阿里牵头的国产图标库，有设计师不断添加内容。
+- [IcoFont](https://icofont.com/)：国外网站，较多品牌图标，两个网站相互参考。
+### 图表
+- [Visual Paradigm](https://online.visual-paradigm.com/cn/)：在线图表绘制，高阶图表需要付费订阅，目前未订阅。
+### 图片资源
+- [Gallerix](https://gallerix.asia/)：各大博物馆中的世界名画，可下载。
+- [Unsplash](https://unsplash.com/)：免费的大图，可根据主题和对象搜索，质量很高。
+### 图床
 - [路过图床](https://imgchr.com/)：国内图床，简单方便，已注册账号tcheng。
 - [Simple Free Image Hosting](https://sm.ms/)：海外图床，界面简单，限制较少。
-#### 图片处理
+### 图片处理
 - [在线PS](https://ps.gaoding.com/#/)：稿定设计旗下在线PS。注：稿定设计还有其他图片工具，如在线拼图、智能抠图等。
 - [TinyPNG图片压缩](https://tinypng.com/)：图片压缩神器，单张图片最大5M。
 - [Bigjpg图片智能放大](http://bigjpg.com/)：图片放大神器，单张最多支持10M，放大四倍，提供安装包工具。
 - [图虫EXIF信息查看器](https://exif.tuchong.com/)：查看照片的exif信息，如拍摄时间、拍摄地点、拍摄设备等。
 
-### 设计工具
-- [稿定设计](https://www.gaoding.com)：提供设计模板，简单编辑文案可生成海报。
-- [ProcessOn在线作图](www.processon.com)：流程图、思维导图、线框图、原型图等。 
+---
 
-
-
-## 其他工具
+## 技能工具
+### 写作工具
+- [写匠](https://aiwriter.cn/home)：开智公司旗下，基于人工智能与认知科学的中文写作辅助工具。
+- [去除文本中所有空格](http://www.txttool.com/wenben_alltrim.asp)：去掉OCR之后产生的空格，注意补回英文空格。
+### 阅读工具
+- [Readsy](http://www.readsy.co/)：快速阅读工具。将网址复制过来，可以快速阅读。附带一个网页版小工具Spritzlet。之前上学时快速读论文很好用。
+### 软件工具
+- [UZER.ME云端超级应用空间](uzer.me)：包括Office的三件套，甚至包含XMind、Photoshop、Matlab等常用付费软件。界面和电脑几乎完全一样，但只能保存（有1G储存空间）而无法在线同步编辑。已用微信和手机号注册。
+- [文件转换器](https://convertio.co/zh/)：多种格式的转化，界面简单，格式多，免费单文件最大100M（可付费增加）。
+### 其他工具
 - 综合工具：[MikuTools](https://tools.imiku.me/)：视频批量下载，整合一些其他小工具。
 - 综合工具：[爱资料在线工具](https://www.toolnb.com/)：斗图工具，及其他小工具。
-- 起英文名：[Baby Name Trends](https://nametrends.net/)：查看英文名的流行程度和趋势。
-- 快速阅读：[Readsy](http://www.readsy.co/)：将网址复制过来，可以快速阅读。附带一个网页版小工具Spritzlet。之前上学时快速读论文很好用。
-- 数学计算：[Wolfram|Alpha](https://www.wolframalpha.com/)：非常实用，可以输入算式直接解方程、不等式；绘制数学图表；也可以搜索自然科学、社会科学等相关人名、背景知识等。
+
+---
 
 ## 值得保存的博客与文章
 ### 博客
@@ -212,7 +187,6 @@
 
 ### 历史类
 
-
 ### 商业类
 
 ### 技能工具类
@@ -220,9 +194,7 @@
 
 ### 启发类
 
-
-
-
+---
 
 ## ChangeLog
 - 20181230 于子创建
@@ -233,3 +205,4 @@
 - 20190903 增加办公工具，含办公软件、图床等
 - 20191009 增加世界名画等图片资源
 - 20191015 增加学术文献搜索
+- 20191023 调整结构，以目的而非信息种类为结构
