@@ -126,6 +126,8 @@
 - [ONET Resource](https://www.onetcenter.org/)
 - [ONET Taxonomy](https://www.onetcenter.org/taxonomy.html)：美国所有职业名称汇总，每年更新。
 - [ONET Content Model](https://www.onetcenter.org/content.html)：职业模型，将每个职业按照任职者导向（任职者特征、任职者要求、经验要求）和职业导向（职业要求、劳动力特质、职业特定信息）建立框架，方便了解任职资格。
+- [看准网](https://www.kanzhun.com)：公司员工评价公司，了解薪酬、福利、公司文化、工作体验等。
+- [职友集](https://www.jobui.com/)：了解雇主，可与看准网交叉验证。
 ### 编程
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience)：神经科学的awesome清单。
 - [Awesome node.js](https://github.com/sindresorhus/awesome-nodejs)：node.js的awesome清单。
