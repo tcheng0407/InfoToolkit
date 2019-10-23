@@ -35,6 +35,7 @@
 - [ZapMeta](https://www.zapmeta.com/)
 - [All in One](https://all-io.net/)
 ### 垂直搜索
+- [如风搜](http://www.rufengso.net/)：原盘多多，搜索百度网盘中的公开资源。
 ### 搜索工具
 - [Google Ngram Viewer](https://books.google.com/ngrams)：了解一个词在某个时代的热度及其变化趋势。Google扫描了所有出版物（以英文为主，截至2008年），并将出版物中的词频进行统计与分析。
 - [Wolfram|Alpha](https://www.wolframalpha.com/)：非常实用的数学计算工具，可以输入算式直接解方程、不等式；绘制数学图表；也可以搜索自然科学、社会科学等相关人名、背景知识等。
