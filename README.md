@@ -164,6 +164,7 @@
 ### 图片资源
 - [Gallerix](https://gallerix.asia/)：各大博物馆中的世界名画，可下载。
 - [Unsplash](https://unsplash.com/)：免费的大图，可根据主题和对象搜索，质量很高。
+- [Pexels](https://www.pexels.com/)：免费图片，可搜索。
 ### 图床
 - [路过图床](https://imgchr.com/)：国内图床，简单方便，已注册账号tcheng。
 - [Simple Free Image Hosting](https://sm.ms/)：海外图床，界面简单，限制较少。
