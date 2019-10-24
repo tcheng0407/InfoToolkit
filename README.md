@@ -203,7 +203,7 @@
 ### 博客
 - [阳志平的网志](https://www.yangzhiping.com/)：阳志平老师早期博客，有大量文章至今仍未过时，值得反复阅读。
 - [The 50 Most Influential Living Psychologists in the World](https://thebestschools.org/features/most-influential-psychologists-world/)：含每个人的介绍及主要著作。
-
+- [Paul Graham个人博客](http://www.paulgraham.com/)
 ### 历史类
 
 ### 商业类
@@ -212,7 +212,7 @@
 - [维基百科:更优秀条目写作指南](https://zh.wikipedia.org/wiki/Wikipedia:%E6%9B%B4%E4%BC%98%E7%A7%80%E6%9D%A1%E7%9B%AE%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97)：如何更清晰、更科学、更客观地写作。
 
 ### 启发类
-
+- [Paul Graham：如何才能去做喜欢的事](https://mp.weixin.qq.com/s/-H8ZP45zbTCgYEUOGYvPnw)
 ---
 
 ## ChangeLog
