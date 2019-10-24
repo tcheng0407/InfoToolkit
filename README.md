@@ -136,6 +136,7 @@
 - [才储-大五类人格测试](https://www.apesk.com/bigfive/index.asp?language=cn)：免费测试，可以看到和平均水平的比较。
 - [VIA Institute on Character](http://www.viacharacter.org/)：积极心理学的24种美德测试，付费查看结果。
 - [才储-盖洛普优势识别](http://www.apesk.com/Advantage-detecting/)：汉化的盖洛普优势测试，收费查看报告。
+- [“可能的自我”问卷](https://dornsife.usc.edu/assets/sites/782/docs/possible_selves_measure.doc)：可下载，以一年为评估尺度。
 ### 编程
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience)：神经科学的awesome清单。
 - [Awesome node.js](https://github.com/sindresorhus/awesome-nodejs)：node.js的awesome清单。
