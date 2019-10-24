@@ -133,7 +133,7 @@
 ### 职业测试
 - [才储-霍兰德职业兴趣量表](http://www.apesk.com/holland/index.html)：含原始测试和修订版测试两种，可免费查看心理类型，查看完整版报告需付费。
 - [心理成长-霍兰德职业兴趣测试](https://types.yuzeli.com/survey/holland)：免费，可获得结果，无报告。
-
+- [才储-大五类人格测试](https://www.apesk.com/bigfive/index.asp?language=cn)：免费测试，可以看到和平均水平的比较。
 ### 编程
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience)：神经科学的awesome清单。
 - [Awesome node.js](https://github.com/sindresorhus/awesome-nodejs)：node.js的awesome清单。
