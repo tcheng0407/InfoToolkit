@@ -123,12 +123,17 @@
 
 ## 职业发展
 ### 职业分析
-- [ONET Online](https://www.onetonline.org/)：ONET主页，世界最大的职业信息数据库，提供大量免费职业分析工具，可以快速建立对某一职业的全局认识。输入需要了解的职业，可以从多个维度了解到该职业的任职资格，还能了解到该职业的前景、是否环保、是否有学徒期等。
+- [ONET Online](https://www.onetonline.org/)：ONET主页，世界最大的职业信息数据库，提供大量免费职业分析工具，可以快速建立对某一职业的全局认识。输入需要了解的职业，可以从多个维度了解到该职业的任职资格。
 - [ONET Resource](https://www.onetcenter.org/)
 - [ONET Taxonomy](https://www.onetcenter.org/taxonomy.html)：美国所有职业名称汇总，每年更新。
 - [ONET Content Model](https://www.onetcenter.org/content.html)：职业模型，将每个职业按照任职者导向（任职者特征、任职者要求、经验要求）和职业导向（职业要求、劳动力特质、职业特定信息）建立框架，方便了解任职资格。
+- [ONET职业兴趣搜索](https://www.onetonline.org/explore/interests/)：根据霍兰德类型提供择业建议，还能了解到该职业的前景、是否环保、是否有学徒期等。
 - [看准网](https://www.kanzhun.com)：公司员工评价公司，了解薪酬、福利、公司文化、工作体验等。
 - [职友集](https://www.jobui.com/)：了解雇主，可与看准网交叉验证。
+### 职业测试
+- [才储-霍兰德职业兴趣量表](http://www.apesk.com/holland/index.html)：含原始测试和修订版测试两种，可免费查看心理类型，查看完整版报告需付费。
+- [心理成长-霍兰德职业兴趣测试](https://types.yuzeli.com/survey/holland)：免费，可获得结果，无报告。
+
 ### 编程
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience)：神经科学的awesome清单。
 - [Awesome node.js](https://github.com/sindresorhus/awesome-nodejs)：node.js的awesome清单。
