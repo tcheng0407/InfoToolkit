@@ -121,6 +121,12 @@
 #### 免费
 - [互联网数据资讯中心](http://www.199it.com/)：互联网行业报告和信息汇总。
 - [格隆汇](https://www.gelonghui.com/)：主要是上市公司。可以通过上市公司入手看行业数据，或中国公司对标美国公司等方法。
+### 分析模型
+#### 战略
+- [战略控制指数](https://books.google.com/books?id=wDoWSocjGnkC&pg=PA287&lpg=PA287&dq=%E6%88%98%E7%95%A5%E6%8E%A7%E5%88%B6%E6%8C%87%E6%95%B0+%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA&source=bl&ots=e8dco9x2ey&sig=ACfU3U29eaOvSy0LxOI-q1SXcoHIMRfT6w&hl=en&sa=X&ved=2ahUKEwir75-Qh8jlAhXkG6YKHf3JBwoQ6AEwAXoECAcQBA#v=onepage&q=%E6%88%98%E7%95%A5%E6%8E%A7%E5%88%B6%E6%8C%87%E6%95%B0%20%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA&f=false)
+- [明茨伯格的战略5P模型](https://wiki.mbalib.com/wiki/%E6%98%8E%E8%8C%A8%E4%BC%AF%E6%A0%BC%E7%9A%84%E6%88%98%E7%95%A55P%E6%A8%A1%E5%9E%8B)：借鉴市场营销学中的四要素(4P)的提法，提出企业战略是由五种规范的定义阐述的，即计划（Plan）、计策（Ploy）、模式（Pattern）、定位（Position）和观念（Perspective）。
+- [3C战略三角模型](https://wiki.mbalib.com/wiki/3C%E6%88%98%E7%95%A5%E4%B8%89%E8%A7%92%E6%A8%A1%E5%9E%8B)：由日本战略研究的领军人物大前研一（Kenichi Ohmae）提出的，他强调成功战略有三个关键因素，在制定任何经营战略时，都必须考虑这三个因素，即公司自身（Corporation）、公司顾客（Customer）、竞争对手（Competition）。
+- [波特五力分析模型](https://wiki.mbalib.com/wiki/%E6%B3%A2%E7%89%B9%E4%BA%94%E5%8A%9B%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B)：五力分别是： 供应商的议价能力、购买者的议价能力、潜在竞争者进入的能力、替代品的替代能力、行业内竞争者现在的竞争能力。五种力量的不同组合变化最终影响行业利润潜力变化。
 
 ---
 
