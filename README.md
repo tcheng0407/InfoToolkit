@@ -115,9 +115,6 @@
 - [国际货币基金组织](https://www.imf.org/external/index.htm)：查询全世界经济数据。
 - [东方财富网-数据中心](http://data.eastmoney.com/center/)：可通过数据中心查询各国经济数据，也可查询股市等金融数据。
 - [中国物流与采购网——中国物流与采购联合会](http://www.chinawuliu.com.cn/)：查询物流行业数据，及采购经理人指数（PMI，追踪制造业等行业采购经理的信心状况）。
-
-
-
 ### 公司查询
 #### 中国公司
 - [企查查](https://www.qichacha.com/)：目前已购买两年账号。
@@ -125,16 +122,30 @@
 - [香港证券交易所](https://www.hkexnews.hk/)：港股上市公司财报。
 - [上海证券交易所](http://www.sse.com.cn/)：上交所上市公司财报。
 - [深圳证券交易所](http://www.szse.cn/)：深交所上市公司财报。
+- [IT桔子](https://www.itjuzi.com/)：泛互联网创业投融资信息查询。
 - [商业特许经营信息管理](http://txjy.syggs.mofcom.gov.cn/)：中国有特许经营资格（即加盟）的企业只有几千家，而无数企业宣称可以加盟，这些都是风险极高的加盟方式，可以通过此网站调查，凡是没有的资格的一律不考虑，同时也要注意合同上签约公司与品牌的持有者是否一致。
+- [鲸准](https://www.jingdata.com/)：36Kr旗下的信息网站，提供项目对接服务。
 #### 美国公司
 - [美国证券交易委员会](https://www.sec.gov/)：上市公司所有公开信息均可搜索。
 - [纽约州公司查询](https://www.secstates.com/NY_New_York_Secretary_of_State_Corporation_Search)：美国其他州的公司信息均需去相应州查询，可以通过纽约州的网址导览到其他各州。
+- [Crunchbase](https://www.crunchbase.com/)：海外版企查查，$29/月，需要时入手。
 ### 行业报告
 - [乐晴智库](http://www.767stock.com/)：低价的行业信息。
 - [互联网数据资讯中心](http://www.199it.com/)：互联网行业报告和信息汇总。
 - [格隆汇](https://www.gelonghui.com/)：主要是上市公司。可以通过上市公司入手看行业数据，或中国公司对标美国公司等方法。
 - [易观](https://www.analysys.cn/)：分析报告和易观千帆指数有一定价值。
 - [艾瑞网](https://www.iresearch.cn/)：互联网行业的报告。
+### 人物
+- [福布斯榜单](https://www.forbes.com/lists/list-directory/)：人物、公司、地点榜单，重点关注30 Under 30、The Midas List（年度最佳创投人）等。
+- [GitHub万人以上关注用户榜单](https://github.com/search?utf8=%E2%9C%93&q=followers%3A%3E%3D10000&type=Users)：发现优质程序员。
+- [清科研究中心历年榜单](https://www.pedata.cn/topranking/index.html)：投资界榜单，略有参考价值。
+- [CCTV中国经济年度人物](https://baike.baidu.com/item/CCTV%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9)：奖项为2001-2013年度，对最新商业信息了解作用不大，很可能有政治色彩。
+### 商标及专利
+- [中国专利局-专利检索与分析](http://pss-system.cnipa.gov.cn/)：权威信息，构建检索式高级检索更有效。
+- [中国商标网-商标网上检索系统](http://wsjs.saic.gov.cn)：权威信息，但有一定滞后性，选择“商标综合查询”更为实用。
+
+
+
 ### 分析模型
 #### 战略
 - [战略控制指数](https://books.google.com/books?id=wDoWSocjGnkC&pg=PA287&lpg=PA287&dq=%E6%88%98%E7%95%A5%E6%8E%A7%E5%88%B6%E6%8C%87%E6%95%B0+%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA&source=bl&ots=e8dco9x2ey&sig=ACfU3U29eaOvSy0LxOI-q1SXcoHIMRfT6w&hl=en&sa=X&ved=2ahUKEwir75-Qh8jlAhXkG6YKHf3JBwoQ6AEwAXoECAcQBA#v=onepage&q=%E6%88%98%E7%95%A5%E6%8E%A7%E5%88%B6%E6%8C%87%E6%95%B0%20%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA&f=false)
