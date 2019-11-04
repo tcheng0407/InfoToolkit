@@ -66,6 +66,12 @@
 - [Crossref](https://www.crossref.org/)：查询文献的DOI（唯一），用于Altmetric分析（高亮DOI，点Altmetric）。
 - [中国社会科学引文索引（CSSCI）](http://cssci.nju.edu.cn/)：使用CiteSpace分析时，CSSCI比知网的数据更好，但需要用户名密码才能使用。
 - [阳志平-开放科学工具箱](https://www.yangzhiping.com/psy/open-science-toolbox.html)：解释了开放科学的原理，并整理相关资源。
+### 文献订阅
+- [X-MOL](https://www.x-mol.com/paper/bio)：主要为生命科学、医学类，可订阅期刊和关键词，定期将新论文发送至邮箱。
+- [The Old Reader](https://theoldreader.com/)：增加了杂志的订阅，需要在此网站上浏览，界面美观。
+- [Web of Science](http://webofscience.com/)：增加引文跟踪。
+- [National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/)生物医学文献检索系统，可以通过“Create alert”跟踪关键词。
+注：以上四个网站及具体操作方法来自公众号丁香学术文章：[4个方便高效的文献订阅网站，助你实时紧追最新科研热点](https://mp.weixin.qq.com/s/EKbBk2ozAzv83ZEtOI3pJQ)，可参考使用方法。
 ### 知识图谱
 - [Acemap](https://www.acemap.info/)：用于知识图谱的搜索，包括相关领域、父话题、子话题；论文地图、作者地图、作者师承关系地图；推荐作者、推荐论文。
 - [知网](https://cnki.net/)：搜索关键词后，可选中全部或部分文献，点击“计量可视化分析”生产知识图谱。
