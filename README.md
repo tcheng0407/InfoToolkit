@@ -197,6 +197,8 @@
 ### 写作工具
 - [写匠](https://aiwriter.cn/home)：开智公司旗下，基于人工智能与认知科学的中文写作辅助工具。
 - [去除文本中所有空格](http://www.txttool.com/wenben_alltrim.asp)：去掉OCR之后产生的空格，注意补回英文空格。
+### 学习工具
+- [The  Learning Scientists](https://www.learningscientists.org/)：关于学习科学的理论和工具。
 ### 阅读工具
 - [Readsy](http://www.readsy.co/)：快速阅读工具。将网址复制过来，可以快速阅读。附带一个网页版小工具Spritzlet。之前上学时快速读论文很好用。
 ### 软件工具
