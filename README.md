@@ -142,8 +142,11 @@
 - [CCTV中国经济年度人物](https://baike.baidu.com/item/CCTV%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9)：奖项为2001-2013年度，对最新商业信息了解作用不大，很可能有政治色彩。
 ### 商标及专利
 - [中国专利局-专利检索与分析](http://pss-system.cnipa.gov.cn/)：权威信息，构建检索式高级检索更有效。
+- [SooPAT专利搜索](http://www.soopat.com/)：可搜索中国及海外专利。
 - [中国商标网-商标网上检索系统](http://wsjs.saic.gov.cn)：权威信息，但有一定滞后性，选择“商标综合查询”更为实用。
-
+- [United States Patent and Trademark Office](https://www.uspto.gov/)：美国专利商标局。
+- [猪八戒](https://www.zbj.com/)：一站式企业外包服务平台，包括注册公司、申请专利等。
+- [专利巴巴](http://www.zlbaba.com/)：专利申请垂直服务电商。
 
 
 ### 分析模型
