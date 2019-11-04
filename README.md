@@ -110,6 +110,13 @@
 ---
 
 ## 商业
+### 宏观经济
+- [中国国家统计局-统计数据](http://data.stats.gov.cn/)：官方数据，真假自辨。
+- [国际货币基金组织](https://www.imf.org/external/index.htm)：查询全世界经济数据。
+- [中国物流与采购网——中国物流与采购联合会](http://www.chinawuliu.com.cn/)：查询物流行业数据，及采购经理人指数（PMI，追踪制造业等行业采购经理的信心状况）。
+
+
+
 ### 公司查询
 #### 中国公司
 - [企查查](https://www.qichacha.com/)：目前已购买两年账号。
@@ -121,12 +128,11 @@
 #### 美国公司
 - [美国证券交易委员会](https://www.sec.gov/)：上市公司所有公开信息均可搜索。
 - [纽约州公司查询](https://www.secstates.com/NY_New_York_Secretary_of_State_Corporation_Search)：美国其他州的公司信息均需去相应州查询，可以通过纽约州的网址导览到其他各州。
-### 行业/公司信息
-#### 付费/订阅
+### 行业报告
 - [乐晴智库](http://www.767stock.com/)：低价的行业信息。
-#### 免费
 - [互联网数据资讯中心](http://www.199it.com/)：互联网行业报告和信息汇总。
 - [格隆汇](https://www.gelonghui.com/)：主要是上市公司。可以通过上市公司入手看行业数据，或中国公司对标美国公司等方法。
+- [易观](https://www.analysys.cn/)：分析报告和易观千帆指数有一定价值。
 ### 分析模型
 #### 战略
 - [战略控制指数](https://books.google.com/books?id=wDoWSocjGnkC&pg=PA287&lpg=PA287&dq=%E6%88%98%E7%95%A5%E6%8E%A7%E5%88%B6%E6%8C%87%E6%95%B0+%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA&source=bl&ots=e8dco9x2ey&sig=ACfU3U29eaOvSy0LxOI-q1SXcoHIMRfT6w&hl=en&sa=X&ved=2ahUKEwir75-Qh8jlAhXkG6YKHf3JBwoQ6AEwAXoECAcQBA#v=onepage&q=%E6%88%98%E7%95%A5%E6%8E%A7%E5%88%B6%E6%8C%87%E6%95%B0%20%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA&f=false)
