@@ -113,6 +113,7 @@
 ### 宏观经济
 - [中国国家统计局-统计数据](http://data.stats.gov.cn/)：官方数据，真假自辨。
 - [国际货币基金组织](https://www.imf.org/external/index.htm)：查询全世界经济数据。
+- [东方财富网-数据中心](http://data.eastmoney.com/center/)：可通过数据中心查询各国经济数据，也可查询股市等金融数据。
 - [中国物流与采购网——中国物流与采购联合会](http://www.chinawuliu.com.cn/)：查询物流行业数据，及采购经理人指数（PMI，追踪制造业等行业采购经理的信心状况）。
 
 
