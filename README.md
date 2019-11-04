@@ -134,6 +134,7 @@
 - [互联网数据资讯中心](http://www.199it.com/)：互联网行业报告和信息汇总。
 - [格隆汇](https://www.gelonghui.com/)：主要是上市公司。可以通过上市公司入手看行业数据，或中国公司对标美国公司等方法。
 - [易观](https://www.analysys.cn/)：分析报告和易观千帆指数有一定价值。
+- [艾瑞网](https://www.iresearch.cn/)：互联网行业的报告。
 ### 分析模型
 #### 战略
 - [战略控制指数](https://books.google.com/books?id=wDoWSocjGnkC&pg=PA287&lpg=PA287&dq=%E6%88%98%E7%95%A5%E6%8E%A7%E5%88%B6%E6%8C%87%E6%95%B0+%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA&source=bl&ots=e8dco9x2ey&sig=ACfU3U29eaOvSy0LxOI-q1SXcoHIMRfT6w&hl=en&sa=X&ved=2ahUKEwir75-Qh8jlAhXkG6YKHf3JBwoQ6AEwAXoECAcQBA#v=onepage&q=%E6%88%98%E7%95%A5%E6%8E%A7%E5%88%B6%E6%8C%87%E6%95%B0%20%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA&f=false)
