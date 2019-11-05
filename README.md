@@ -116,23 +116,23 @@
 - [东方财富网-数据中心](http://data.eastmoney.com/center/)：可通过数据中心查询各国经济数据，也可查询股市等金融数据。
 - [中国物流与采购网——中国物流与采购联合会](http://www.chinawuliu.com.cn/)：查询物流行业数据，及采购经理人指数（PMI，追踪制造业等行业采购经理的信心状况）。
 ### 公司查询
-#### 中国公司
 - [企查查](https://www.qichacha.com/)：目前已购买两年账号。
 - [天眼查](https://www.tianyancha.com/)：与“企查查”类似，可以互为参考。
+- [IT桔子](https://www.itjuzi.com/)：泛互联网创业投融资信息查询。
+- [商业特许经营信息管理](http://txjy.syggs.mofcom.gov.cn/)：中国有特许经营资格（即加盟）的企业只有几千家，而无数企业宣称可以加盟，这些都是风险极高的加盟方式，可以通过此网站调查，凡是没有的资格的一律不考虑，同时也要注意合同上签约公司与品牌的持有者是否一致。
+- [鲸准](https://www.jingdata.com/)：36Kr旗下的信息网站，提供项目对接服务。
+- [纽约州公司查询](https://www.secstates.com/NY_New_York_Secretary_of_State_Corporation_Search)：美国其他州的公司信息均需去相应州查询，可以通过纽约州的网址导览到其他各州。
+- [Crunchbase](https://www.crunchbase.com/)：海外版企查查，$29/月，需要时入手。
+### 证券/基金
 - [香港证券交易所](https://www.hkexnews.hk/)：港股上市公司财报。
 - [上海证券交易所](http://www.sse.com.cn/)：上交所上市公司财报。
 - [深圳证券交易所](http://www.szse.cn/)：深交所上市公司财报。
 - [东方财富网](http://www.eastmoney.com/)：部分经整理的财报，比看原始财报更友好，但需注意识别。
 - [雪球](https://xueqiu.com/)：APP比网页更好，行情查询和论坛都较好用。
+- [私募排排网](https://www.simuwang.com/)：查询各私募基金数据。
 - [金融界](http://www.jrj.com.cn/)：财经金融门户网站。
 - [巨潮资讯网](http://www.cninfo.com.cn/new/index)：查大陆上市公司行情及新闻，无港股或美股行情。
-- [IT桔子](https://www.itjuzi.com/)：泛互联网创业投融资信息查询。
-- [商业特许经营信息管理](http://txjy.syggs.mofcom.gov.cn/)：中国有特许经营资格（即加盟）的企业只有几千家，而无数企业宣称可以加盟，这些都是风险极高的加盟方式，可以通过此网站调查，凡是没有的资格的一律不考虑，同时也要注意合同上签约公司与品牌的持有者是否一致。
-- [鲸准](https://www.jingdata.com/)：36Kr旗下的信息网站，提供项目对接服务。
-#### 美国公司
 - [美国证券交易委员会](https://www.sec.gov/)：上市公司所有公开信息均可搜索。
-- [纽约州公司查询](https://www.secstates.com/NY_New_York_Secretary_of_State_Corporation_Search)：美国其他州的公司信息均需去相应州查询，可以通过纽约州的网址导览到其他各州。
-- [Crunchbase](https://www.crunchbase.com/)：海外版企查查，$29/月，需要时入手。
 ### 行业报告
 - [乐晴智库](http://www.767stock.com/)：低价的行业信息。
 - [互联网数据资讯中心](http://www.199it.com/)：互联网行业报告和信息汇总。
@@ -151,8 +151,6 @@
 - [United States Patent and Trademark Office](https://www.uspto.gov/)：美国专利商标局。
 - [猪八戒](https://www.zbj.com/)：一站式企业外包服务平台，包括注册公司、申请专利等。
 - [专利巴巴](http://www.zlbaba.com/)：专利申请垂直服务电商。
-
-
 ### 分析模型
 #### 战略
 - [战略控制指数](https://books.google.com/books?id=wDoWSocjGnkC&pg=PA287&lpg=PA287&dq=%E6%88%98%E7%95%A5%E6%8E%A7%E5%88%B6%E6%8C%87%E6%95%B0+%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA&source=bl&ots=e8dco9x2ey&sig=ACfU3U29eaOvSy0LxOI-q1SXcoHIMRfT6w&hl=en&sa=X&ved=2ahUKEwir75-Qh8jlAhXkG6YKHf3JBwoQ6AEwAXoECAcQBA#v=onepage&q=%E6%88%98%E7%95%A5%E6%8E%A7%E5%88%B6%E6%8C%87%E6%95%B0%20%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA&f=false)
