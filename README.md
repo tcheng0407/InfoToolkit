@@ -118,6 +118,7 @@
 ### 公司查询
 - [企查查](https://www.qichacha.com/)：目前已购买两年账号。
 - [天眼查](https://www.tianyancha.com/)：与“企查查”类似，可以互为参考。
+- [百度信用](https://xin.baidu.com/)：总体不如前两者好用，但增加了媒体舆情监控。
 - [IT桔子](https://www.itjuzi.com/)：泛互联网创业投融资信息查询。
 - [商业特许经营信息管理](http://txjy.syggs.mofcom.gov.cn/)：中国有特许经营资格（即加盟）的企业只有几千家，而无数企业宣称可以加盟，这些都是风险极高的加盟方式，可以通过此网站调查，凡是没有的资格的一律不考虑，同时也要注意合同上签约公司与品牌的持有者是否一致。
 - [鲸准](https://www.jingdata.com/)：36Kr旗下的信息网站，提供项目对接服务。
@@ -165,11 +166,11 @@
 - [产品大牛](https://www.pmdaniu.com/)：查看产品原型文档（PRD）。
 - [极光大数据](https://www.jiguang.cn/)：需付费使用，可以搜索想要的内容+极光大数据，获取引用情况。
 ### 舆情
-- [知微事见](https://ef.zhiweidata.com/#!/index)：了解事件的热度及趋势。
+- [知微事见](https://ef.zhiweidata.com/#!/index)：了解事件的热度及趋势，并可查看单个事件的传播趋势、重要渠道、词云等。
 - [Google Trends](https://trends.google.com/trends/)：选择所在区域后搜索。
 - [百度指数](https://index.baidu.com/v2/index.html#/)
 - [清博舆情分析系统](http://yq.gsdata.cn/)：输入关键词，构建舆情监控方案。
-- [新榜](https://www.newrank.cn/)：自媒体投放和内容运营数据查询，可通过趋势监控舆情。
+- [新榜](https://www.newrank.cn/)：自媒体投放和内容运营数据查询，可通过趋势监控舆情，可了解垂直领域的大号、某话题的最热文章等。
 - [搜狗指数](http://index.sogou.com/)
 - [微信指数]()：在微信小程序中打开，基于微信数据，最多只能查看90天。
 - [微指数](https://data.weibo.com/index)：微博指数，目前网页端无法使用，需下载APP。
@@ -289,3 +290,4 @@
 - 20191009 增加世界名画等图片资源
 - 20191015 增加学术文献搜索
 - 20191023 调整结构，以目的而非信息种类为结构
+- 20191105 增加商业分析工具
