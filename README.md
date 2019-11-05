@@ -142,6 +142,7 @@
 - [易观](https://www.analysys.cn/)：分析报告和易观千帆指数有一定价值。
 - [艾瑞网](https://www.iresearch.cn/)：互联网行业的报告。
 - [Frost Sullivan](https://ww2.frost.com/)：咨询公司沙利文首页。搜索行业的市场份额时，可尝试搜索“沙利文 市场份额/市场占有率 X行业”。
+- [国务院发展研究中心-调研报告](http://www.drc.gov.cn/dcyjbg/)：官方调查，可以搜索获得行业报告，但有些报告只提供摘要，可以去对应的发文处搜索。
 ### 人物
 - [福布斯榜单](https://www.forbes.com/lists/list-directory/)：人物、公司、地点榜单，重点关注30 Under 30、The Midas List（年度最佳创投人）等。
 - [GitHub万人以上关注用户榜单](https://github.com/search?utf8=%E2%9C%93&q=followers%3A%3E%3D10000&type=Users)：发现优质程序员。
