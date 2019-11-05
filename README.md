@@ -140,7 +140,9 @@
 - [互联网数据资讯中心](http://www.199it.com/)：互联网行业报告和信息汇总。
 - [格隆汇](https://www.gelonghui.com/)：主要是上市公司。可以通过上市公司入手看行业数据，或中国公司对标美国公司等方法。
 - [易观](https://www.analysys.cn/)：分析报告和易观千帆指数有一定价值。
-- [艾瑞网](https://www.iresearch.cn/)：互联网行业的报告。
+- [Quest Mobile](http://www.questmobile.com.cn/)：移动互联网报告，数据较可靠，可搜索全行业或细分行业。
+- [MSCI全球行业标准](https://www.msci.com/)：寻找某行业成功的核心指标，目前不是很会用该网站，待摸索。
+- [艾瑞网](https://www.iresearch.cn/)：互联网行业的报告，以咨询为主。
 - [Frost Sullivan](https://ww2.frost.com/)：咨询公司沙利文首页。搜索行业的市场份额时，可尝试搜索“沙利文 市场份额/市场占有率 X行业”。
 - [国务院发展研究中心-调研报告](http://www.drc.gov.cn/dcyjbg/)：官方调查，可以搜索获得行业报告，但有些报告只提供摘要，可以去对应的发文处搜索。
 ### 人物
@@ -156,6 +158,23 @@
 - [Brand Rankings and Reports](http://www.millwardbrown.com/brandz/rankings-and-reports)：搜索各国的品牌价值榜单。
 - [猪八戒](https://www.zbj.com/)：一站式企业外包服务平台，包括注册公司、申请专利等。
 - [专利巴巴](http://www.zlbaba.com/)：专利申请垂直服务电商。
+### 产品
+- [蝉大师](https://www.chandashi.com/)：获取产品版本迭代信息，查看ASO关键词、ASM投放词等信息。
+- [七麦数据（原ASO100）](https://www.qimai.cn/)：类似蝉大师，似乎互联网从业者使用七麦更多。
+- [艾瑞数据](https://data.iresearch.com.cn/Home.shtml)：艾瑞指数了解APP或Web产品的月活、日活等信息，也可购买艾瑞睿见获取第三方监测服务。
+- [产品大牛](https://www.pmdaniu.com/)：查看产品原型文档（PRD）。
+- [极光大数据](https://www.jiguang.cn/)：需付费使用，可以搜索想要的内容+极光大数据，获取引用情况。
+### 舆情
+- [知微事见](https://ef.zhiweidata.com/#!/index)：了解事件的热度及趋势。
+- [Google Trends](https://trends.google.com/trends/)：选择所在区域后搜索。
+- [百度指数](https://index.baidu.com/v2/index.html#/)
+- [搜狗指数](http://index.sogou.com/)
+- [微信指数]()：在微信小程序中打开，基于微信数据，最多只能查看90天。
+- [微指数](https://data.weibo.com/index)：微博指数，目前网页端无法使用，需下载APP。
+
+
+
+
 ### 分析模型
 #### 战略
 - [战略控制指数](https://books.google.com/books?id=wDoWSocjGnkC&pg=PA287&lpg=PA287&dq=%E6%88%98%E7%95%A5%E6%8E%A7%E5%88%B6%E6%8C%87%E6%95%B0+%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA&source=bl&ots=e8dco9x2ey&sig=ACfU3U29eaOvSy0LxOI-q1SXcoHIMRfT6w&hl=en&sa=X&ved=2ahUKEwir75-Qh8jlAhXkG6YKHf3JBwoQ6AEwAXoECAcQBA#v=onepage&q=%E6%88%98%E7%95%A5%E6%8E%A7%E5%88%B6%E6%8C%87%E6%95%B0%20%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA&f=false)：战略控制指数是企业为保护所创造的利润流的能力，从重要到次要包括：行业标准、价值链、市场占有率、客户信息流、品牌/专利/版权、产品提前期、10-20%的成本优势等。
