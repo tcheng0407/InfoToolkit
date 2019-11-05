@@ -168,13 +168,11 @@
 - [知微事见](https://ef.zhiweidata.com/#!/index)：了解事件的热度及趋势。
 - [Google Trends](https://trends.google.com/trends/)：选择所在区域后搜索。
 - [百度指数](https://index.baidu.com/v2/index.html#/)
+- [清博舆情分析系统](http://yq.gsdata.cn/)：输入关键词，构建舆情监控方案。
+- [新榜](https://www.newrank.cn/)：自媒体投放和内容运营数据查询，可通过趋势监控舆情。
 - [搜狗指数](http://index.sogou.com/)
 - [微信指数]()：在微信小程序中打开，基于微信数据，最多只能查看90天。
 - [微指数](https://data.weibo.com/index)：微博指数，目前网页端无法使用，需下载APP。
-
-
-
-
 ### 分析模型
 #### 战略
 - [战略控制指数](https://books.google.com/books?id=wDoWSocjGnkC&pg=PA287&lpg=PA287&dq=%E6%88%98%E7%95%A5%E6%8E%A7%E5%88%B6%E6%8C%87%E6%95%B0+%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA&source=bl&ots=e8dco9x2ey&sig=ACfU3U29eaOvSy0LxOI-q1SXcoHIMRfT6w&hl=en&sa=X&ved=2ahUKEwir75-Qh8jlAhXkG6YKHf3JBwoQ6AEwAXoECAcQBA#v=onepage&q=%E6%88%98%E7%95%A5%E6%8E%A7%E5%88%B6%E6%8C%87%E6%95%B0%20%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA&f=false)：战略控制指数是企业为保护所创造的利润流的能力，从重要到次要包括：行业标准、价值链、市场占有率、客户信息流、品牌/专利/版权、产品提前期、10-20%的成本优势等。
