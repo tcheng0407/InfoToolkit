@@ -141,21 +141,23 @@
 - [格隆汇](https://www.gelonghui.com/)：主要是上市公司。可以通过上市公司入手看行业数据，或中国公司对标美国公司等方法。
 - [易观](https://www.analysys.cn/)：分析报告和易观千帆指数有一定价值。
 - [艾瑞网](https://www.iresearch.cn/)：互联网行业的报告。
+- [Frost Sullivan](https://ww2.frost.com/)：咨询公司沙利文首页。搜索行业的市场份额时，可尝试搜索“沙利文 市场份额/市场占有率 X行业”。
 ### 人物
 - [福布斯榜单](https://www.forbes.com/lists/list-directory/)：人物、公司、地点榜单，重点关注30 Under 30、The Midas List（年度最佳创投人）等。
 - [GitHub万人以上关注用户榜单](https://github.com/search?utf8=%E2%9C%93&q=followers%3A%3E%3D10000&type=Users)：发现优质程序员。
 - [清科研究中心历年榜单](https://www.pedata.cn/topranking/index.html)：投资界榜单，略有参考价值。
 - [CCTV中国经济年度人物](https://baike.baidu.com/item/CCTV%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9)：奖项为2001-2013年度，对最新商业信息了解作用不大，很可能有政治色彩。
-### 商标及专利
+### 商标/品牌/专利
 - [中国专利局-专利检索与分析](http://pss-system.cnipa.gov.cn/)：权威信息，构建检索式高级检索更有效。
 - [SooPAT专利搜索](http://www.soopat.com/)：可搜索中国及海外专利。
 - [中国商标网-商标网上检索系统](http://wsjs.saic.gov.cn)：权威信息，但有一定滞后性，选择“商标综合查询”更为实用。
 - [United States Patent and Trademark Office](https://www.uspto.gov/)：美国专利商标局。
+- [Brand Rankings and Reports](http://www.millwardbrown.com/brandz/rankings-and-reports)：搜索各国的品牌价值榜单。
 - [猪八戒](https://www.zbj.com/)：一站式企业外包服务平台，包括注册公司、申请专利等。
 - [专利巴巴](http://www.zlbaba.com/)：专利申请垂直服务电商。
 ### 分析模型
 #### 战略
-- [战略控制指数](https://books.google.com/books?id=wDoWSocjGnkC&pg=PA287&lpg=PA287&dq=%E6%88%98%E7%95%A5%E6%8E%A7%E5%88%B6%E6%8C%87%E6%95%B0+%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA&source=bl&ots=e8dco9x2ey&sig=ACfU3U29eaOvSy0LxOI-q1SXcoHIMRfT6w&hl=en&sa=X&ved=2ahUKEwir75-Qh8jlAhXkG6YKHf3JBwoQ6AEwAXoECAcQBA#v=onepage&q=%E6%88%98%E7%95%A5%E6%8E%A7%E5%88%B6%E6%8C%87%E6%95%B0%20%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA&f=false)
+- [战略控制指数](https://books.google.com/books?id=wDoWSocjGnkC&pg=PA287&lpg=PA287&dq=%E6%88%98%E7%95%A5%E6%8E%A7%E5%88%B6%E6%8C%87%E6%95%B0+%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA&source=bl&ots=e8dco9x2ey&sig=ACfU3U29eaOvSy0LxOI-q1SXcoHIMRfT6w&hl=en&sa=X&ved=2ahUKEwir75-Qh8jlAhXkG6YKHf3JBwoQ6AEwAXoECAcQBA#v=onepage&q=%E6%88%98%E7%95%A5%E6%8E%A7%E5%88%B6%E6%8C%87%E6%95%B0%20%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA&f=false)：战略控制指数是企业为保护所创造的利润流的能力，从重要到次要包括：行业标准、价值链、市场占有率、客户信息流、品牌/专利/版权、产品提前期、10-20%的成本优势等。
 - [明茨伯格的战略5P模型](https://wiki.mbalib.com/wiki/%E6%98%8E%E8%8C%A8%E4%BC%AF%E6%A0%BC%E7%9A%84%E6%88%98%E7%95%A55P%E6%A8%A1%E5%9E%8B)：借鉴市场营销学中的四要素(4P)的提法，提出企业战略是由五种规范的定义阐述的，即计划（Plan）、计策（Ploy）、模式（Pattern）、定位（Position）和观念（Perspective）。
 - [3C战略三角模型](https://wiki.mbalib.com/wiki/3C%E6%88%98%E7%95%A5%E4%B8%89%E8%A7%92%E6%A8%A1%E5%9E%8B)：由日本战略研究的领军人物大前研一（Kenichi Ohmae）提出的，他强调成功战略有三个关键因素，在制定任何经营战略时，都必须考虑这三个因素，即公司自身（Corporation）、公司顾客（Customer）、竞争对手（Competition）。
 - [波特五力分析模型](https://wiki.mbalib.com/wiki/%E6%B3%A2%E7%89%B9%E4%BA%94%E5%8A%9B%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B)：五力分别是： 供应商的议价能力、购买者的议价能力、潜在竞争者进入的能力、替代品的替代能力、行业内竞争者现在的竞争能力。五种力量的不同组合变化最终影响行业利润潜力变化。
