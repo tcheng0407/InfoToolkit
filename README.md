@@ -131,7 +131,7 @@
 - [雪球](https://xueqiu.com/)：APP比网页更好，行情查询和论坛都较好用。
 - [私募排排网](https://www.simuwang.com/)：查询各私募基金数据。
 - [金融界](http://www.jrj.com.cn/)：财经金融门户网站。
-- [巨潮资讯网](http://www.cninfo.com.cn/new/index)：查大陆上市公司行情及新闻，无港股或美股行情。
+- [巨潮资讯网](http://www.cninfo.com.cn/new/index)：证监会指定的信息披露网站。查大陆上市公司行情及新闻，无港股或美股行情。
 - [美国证券交易委员会](https://www.sec.gov/)：上市公司所有公开信息均可搜索。
 ### 行业报告
 - [乐晴智库](http://www.767stock.com/)：低价的行业信息。
