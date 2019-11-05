@@ -133,6 +133,7 @@
 - [金融界](http://www.jrj.com.cn/)：财经金融门户网站。
 - [巨潮资讯网](http://www.cninfo.com.cn/new/index)：证监会指定的信息披露网站。查大陆上市公司行情及新闻，无港股或美股行情。
 - [美国证券交易委员会](https://www.sec.gov/)：上市公司所有公开信息均可搜索。
+- [美国证券交易委员会-搜索页面](https://www.sec.gov/edgar/searchedgar/companysearch.html)：搜索年报、季报、招股说明书等重要信息披露。
 注：美国上市公司，10-K为年报，10-Q为季报，8-K为重大事件说明，Form S-1为招股说明书。
 ### 行业报告
 - [乐晴智库](http://www.767stock.com/)：低价的行业信息。
