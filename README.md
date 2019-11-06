@@ -105,6 +105,7 @@
 - [Magazine pdf](https://freemagazinepdf.com/)
 ### 书籍检索
 - [中国哲学书电子化计划](https://ctext.org/zh)：十三经、二十四史、诸子百家、学科杂书等古籍，便于文字检索。
+- [国学导航](http://www.guoxue123.com/index.htm)：国学经典在线阅读，按经史子集排列，包括专题、今人新作，内容较全，质量高。
 - [国学大师](http://www.guoxuedashi.com/)：四库全书及古典文献、历史类信息检索，部分书籍提供PDF下载。
 
 ---
