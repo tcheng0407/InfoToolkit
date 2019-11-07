@@ -254,6 +254,7 @@
 - [写匠](https://aiwriter.cn/home)：开智公司旗下，基于人工智能与认知科学的中文写作辅助工具。
 - [去除文本中所有空格](http://www.txttool.com/wenben_alltrim.asp)：去掉OCR之后产生的空格，注意补回英文空格。
 - [纽扣词云](http://cloud.niucodata.com/)：词性分类、词频统计、词云图。
+- [句子汇](http://www.juzih.com/)：搜优美句子，有意思的地方在于，可以自动找到类似句子。
 ### 学习工具
 - [The  Learning Scientists](https://www.learningscientists.org/)：关于学习科学的理论和工具。
 ### 阅读工具
