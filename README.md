@@ -54,6 +54,7 @@
 - [知网学者库](http://expert.cnki.net/)：可以查看某领域的中国学者排名，但查看论文、按年代排序等需要收费，恶臭。
 ### 论文文献
 - [维基百科-开放获取期刊列表](https://zh.wikipedia.org/wiki/%E9%96%8B%E6%94%BE%E7%8D%B2%E5%8F%96%E6%9C%9F%E5%88%8A%E5%88%97%E8%A1%A8)：了解不同期刊开放获取的规则，找到该期刊免费下载。
+- [Q博士图书馆](http://lib.qboshi.net/e/member/login/)：中文文献高效搜索下载平台，已购买永久会员。
 - [知网的文献高级搜索](https://kns.cnki.net/kns/brief/result.aspx?dbprefix=SCDB&crossDbcodes=CJFQ,CDFD,CMFD,CPFD,IPFD,CCND,CCJD)：高级搜索页面，可以通过左边的学科而非个别关键词完成检索，勾选文献后选择导出参考文献为Refworks格式，便于Zotero抓取信息。
 - [Altmetric Top 100](https://www.altmetric.com/top100/2018/)：历年Altmetric最高的100篇文献。（需注意：1. 不同学科之间的指数没有可比性；2. 该指数代表社交媒体的关注度，分数高未必代表质量高；3. 2010年，特别是2014年后，Altmetric指数与学术界影响力有正相关。）
 - [Crossref](https://www.crossref.org/)：查询文献的DOI（唯一），用于Altmetric分析（高亮DOI，点Altmetric）。
@@ -280,7 +281,7 @@
 
 ### 技能工具类
 - [维基百科:更优秀条目写作指南](https://zh.wikipedia.org/wiki/Wikipedia:%E6%9B%B4%E4%BC%98%E7%A7%80%E6%9D%A1%E7%9B%AE%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97)：如何更清晰、更科学、更客观地写作。
-
+- [安人集团协作基础技能清单](https://github.com/OpenMindClub/Share/wiki/IdxCooperateBasicSkill)：闪闪写的清单，可以找到可靠的信息源与工具。
 ### 启发类
 - [Paul Graham：如何才能去做喜欢的事](https://mp.weixin.qq.com/s/-H8ZP45zbTCgYEUOGYvPnw)
 ---
