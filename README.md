@@ -10,14 +10,6 @@
 - 各组块下的工具尽量按照好用程度从高到低进行排序
 - 目前以个人使用为主，将来会逐渐开放
 ## 目录
-- 综合信息
-- [信息工具](https://github.com/tcheng0407/InfoToolkit#%E4%BF%A1%E6%81%AF%E5%B7%A5%E5%85%B7)
-- [检索工具](https://github.com/tcheng0407/InfoToolkit#%E6%A3%80%E7%B4%A2%E5%B7%A5%E5%85%B7)
-  - [中国古籍](https://github.com/tcheng0407/InfoToolkit#%E4%B8%AD%E5%9B%BD%E5%8F%A4%E7%B1%8D)
-  - [数学计算](https://github.com/tcheng0407/InfoToolkit#%E6%95%B0%E5%AD%A6%E8%AE%A1%E7%AE%97)
-
-- [技能工具](https://github.com/tcheng0407/InfoToolkit/blob/master/README.md#%E6%8A%80%E8%83%BD%E5%B7%A5%E5%85%B7)
-  - [写作工具](https://github.com/tcheng0407/InfoToolkit/blob/master/README.md#%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7)
 
 ---
 
@@ -39,6 +31,7 @@
 ### 搜索工具
 - [Google Ngram Viewer](https://books.google.com/ngrams)：了解一个词在某个时代的热度及其变化趋势。Google扫描了所有出版物（以英文为主，截至2008年），并将出版物中的词频进行统计与分析。
 - [Wolfram|Alpha](https://www.wolframalpha.com/)：非常实用的数学计算工具，可以输入算式直接解方程、不等式；绘制数学图表；也可以搜索自然科学、社会科学等相关人名、背景知识等。
+- [Magi](https://magi.com/)：搜索工具，类似于卡片，能迅速了解一个词的关键信息，但最近略有些不稳定。
 - [Baby Name Trends](https://nametrends.net/)：查看英文名的流行程度和趋势。
 
 ---
