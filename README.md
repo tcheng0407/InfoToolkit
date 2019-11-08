@@ -268,6 +268,7 @@
 ## 值得保存的博客与文章
 ### 博客
 - [阳志平的网志](https://www.yangzhiping.com/)：阳志平老师早期博客，有大量文章至今仍未过时，值得反复阅读。
+- [ishanshan's blog](https://ishanshan.im/)：闪闪的博客，左下角的一些清单，值得学习。
 - [The 50 Most Influential Living Psychologists in the World](https://thebestschools.org/features/most-influential-psychologists-world/)：含每个人的介绍及主要著作。
 - [Paul Graham个人博客](http://www.paulgraham.com/)
 - [认知与情绪新闻网](https://cogemonews.com/)：黄扬名博客，心理学论文的科普文章。
