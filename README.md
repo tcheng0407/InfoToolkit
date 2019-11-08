@@ -282,7 +282,7 @@
 
 ### 技能工具类
 - [维基百科:更优秀条目写作指南](https://zh.wikipedia.org/wiki/Wikipedia:%E6%9B%B4%E4%BC%98%E7%A7%80%E6%9D%A1%E7%9B%AE%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97)：如何更清晰、更科学、更客观地写作。
-- [安人集团协作基础技能清单](https://github.com/OpenMindClub/Share/wiki/IdxCooperateBasicSkill)：闪闪写的清单，可以找到可靠的信息源与工具。
+- [安人集团协作基础技能清单](https://github.com/OpenMindClub/Share/wiki/IdxCooperateBasicSkill)：闪闪写的清单，可以找到可靠的信息源与工具，右边sidebar有很多清单和工具。
 ### 启发类
 - [Paul Graham：如何才能去做喜欢的事](https://mp.weixin.qq.com/s/-H8ZP45zbTCgYEUOGYvPnw)
 ---
