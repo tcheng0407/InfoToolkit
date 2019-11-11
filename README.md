@@ -53,6 +53,7 @@
 - [北大《中文核心期刊要目总览（2014年版）》](http://lib.hhu.edu.cn/upload/201704/12/201704121414100956.pdf)
 - [知网学者库](http://expert.cnki.net/)：可以查看某领域的中国学者排名，但查看论文、按年代排序等需要收费，恶臭。
 ### 论文文献
+- [Sci-Hub](https://sci-hub.se/)：一个学术的开源计划，可以找到多数论文。网站地址不稳定，如果挂了可以上[Where is Sci-Hub](https://whereisscihub.now.sh/)、[SCI-HUB | ACADEMIC SEARCH ENGINE](https://sci-hub.tech/)，或微信公众号“科研炼金术”查找。
 - [维基百科-开放获取期刊列表](https://zh.wikipedia.org/wiki/%E9%96%8B%E6%94%BE%E7%8D%B2%E5%8F%96%E6%9C%9F%E5%88%8A%E5%88%97%E8%A1%A8)：了解不同期刊开放获取的规则，找到该期刊免费下载。
 - [Q博士图书馆](http://lib.qboshi.net/e/member/login/)：中文文献高效搜索下载平台，已购买永久会员。
 - [知网的文献高级搜索](https://kns.cnki.net/kns/brief/result.aspx?dbprefix=SCDB&crossDbcodes=CJFQ,CDFD,CMFD,CPFD,IPFD,CCND,CCJD)：高级搜索页面，可以通过左边的学科而非个别关键词完成检索，勾选文献后选择导出参考文献为Refworks格式，便于Zotero抓取信息。
