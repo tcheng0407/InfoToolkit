@@ -100,8 +100,12 @@
 - [Magazine pdf](https://freemagazinepdf.com/)
 ### 书籍检索
 - [中国哲学书电子化计划](https://ctext.org/zh)：十三经、二十四史、诸子百家、学科杂书等古籍，便于文字检索。
+- [中华古籍资源库](http://mylib.nlc.cn/web/guest/shanbenjiaojuan)：古籍影像、善本、敦煌遗书等，资源总量超过3.2万部。已通过手机号注册，无@。
 - [国学导航](http://www.guoxue123.com/index.htm)：国学经典在线阅读，按经史子集排列，包括专题、今人新作，内容较全，质量高。
 - [国学大师](http://www.guoxuedashi.com/)：四库全书及古典文献、历史类信息检索，部分书籍提供PDF下载。
+- [中国古籍保护网](http://www.nlc.cn/pcab/zhgjsmsjk/)：查编号、书号、版本、收藏单位等，无法检索书籍内容。
+- [碑帖菁华](http://mylib.nlc.cn/web/guest/beitiejinghua)：历代甲骨、青铜器、石刻等拓片23万余件为基础建设的数据库，含元数据2.3万条，影像2.9万幅。
+- [山东省图书馆佛经数据库](http://www.sdlib.com/channels/ch00762/)：佛经数据库，用户名密码均为“fojing”，可浏览全文影像。
 
 ---
 
