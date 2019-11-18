@@ -167,6 +167,7 @@
 - [艾瑞数据](https://data.iresearch.com.cn/Home.shtml)：艾瑞指数了解APP或Web产品的月活、日活等信息，也可购买艾瑞睿见获取第三方监测服务。
 - [产品大牛](https://www.pmdaniu.com/)：查看产品原型文档（PRD）。
 - [极光大数据](https://www.jiguang.cn/)：需付费使用，可以搜索想要的内容+极光大数据，获取引用情况。
+- [Product Hunt](https://www.producthunt.com/)：新产品的追踪与介绍。
 ### 舆情
 - [知微事见](https://ef.zhiweidata.com/#!/index)：了解事件的热度及趋势，并可查看单个事件的传播趋势、重要渠道、词云等。
 - [Google Trends](https://trends.google.com/trends/)：选择所在区域后搜索。
