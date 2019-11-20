@@ -273,6 +273,7 @@
 ### 写作工具
 - [写匠](https://aiwriter.cn/home)：开智公司旗下，基于人工智能与认知科学的中文写作辅助工具。
 - [去除文本中所有空格](http://www.txttool.com/wenben_alltrim.asp)：去掉OCR之后产生的空格，注意补回英文空格。
+- [微词云](https://www.weiciyun.com/)：生成有设计感的词云，可插入图片或按照形状生成词云。
 - [纽扣词云](http://cloud.niucodata.com/)：词性分类、词频统计、词云图。
 - [句子汇](http://www.juzih.com/)：搜优美句子，有意思的地方在于，可以自动找到类似句子。
 ### 学习工具
