@@ -164,6 +164,7 @@
 ### 产品
 - [蝉大师](https://www.chandashi.com/)：获取产品版本迭代信息，查看ASO关键词、ASM投放词等信息。
 - [七麦数据（原ASO100）](https://www.qimai.cn/)：类似蝉大师，似乎互联网从业者使用七麦更多。
+- [阿拉丁指数](http://www.aldzs.com/)：全网小程观察与连接平台。
 - [艾瑞数据](https://data.iresearch.com.cn/Home.shtml)：艾瑞指数了解APP或Web产品的月活、日活等信息，也可购买艾瑞睿见获取第三方监测服务。
 - [产品大牛](https://www.pmdaniu.com/)：查看产品原型文档（PRD）。
 - [极光大数据](https://www.jiguang.cn/)：需付费使用，可以搜索想要的内容+极光大数据，获取引用情况。
@@ -228,17 +229,13 @@
 - [裁判文书-中华人民共和国最高人民法院](http://www.court.gov.cn/wenshu.html)
 - [中国执行信息公开网](http://zxgk.court.gov.cn/)
 
-
-
 ### 法律法规
-
+- [中国法律法规数据库](http://search.chinalaw.gov.cn/search2.html)：中国法律法规权威集成，可以查到地方性法规、政府条文等，但页面友好度一般。
 
 
 ### 信息网站
-
-
-
-
+- [元典智库](https://www.chineselaw.com/)：运用人工智能的法律文书等查询工具。
+- [无讼案例](https://www.itslaw.com/)：法律案例及文书查询，似乎信息更全，但聚合不如元典友好。
 
 ---
 
