@@ -273,6 +273,7 @@
 - [微词云](https://www.weiciyun.com/)：生成有设计感的词云，可插入图片或按照形状生成词云。
 - [纽扣词云](http://cloud.niucodata.com/)：词性分类、词频统计、词云图。
 - [句子汇](http://www.juzih.com/)：搜优美句子，有意思的地方在于，可以自动找到类似句子。
+- [印象笔记Mac版快捷键](https://help.yinxiang.com/hc/articles/63059?api_name=)：学会使用一些快捷键，如cmd+J。
 ### 学习工具
 - [The  Learning Scientists](https://www.learningscientists.org/)：关于学习科学的理论和工具。
 ### 阅读工具
