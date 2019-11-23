@@ -236,6 +236,7 @@
 ### 信息网站
 - [元典智库](https://www.chineselaw.com/)：运用人工智能的法律文书等查询工具。
 - [无讼案例](https://www.itslaw.com/)：法律案例及文书查询，似乎信息更全，但聚合不如元典友好。
+- [OpenLaw](http://openlaw.cn/)：裁判文书检索。
 
 ---
 
