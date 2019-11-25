@@ -247,6 +247,7 @@
 ### 设计工具
 - [稿定设计](https://www.gaoding.com)：提供设计模板，简单编辑文案可生成海报。
 - [ProcessOn在线作图](www.processon.com)：流程图、思维导图、线框图、原型图等。 
+- [Paletton](http://paletton.com/)：配色工具，运用设计原理选择合适的主体色和配色。
 ### 图标
 - [Iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn)：阿里牵头的国产图标库，有设计师不断添加内容。
 - [IcoFont](https://icofont.com/)：国外网站，较多品牌图标，两个网站相互参考。
