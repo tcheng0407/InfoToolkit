@@ -106,6 +106,7 @@
 - [中国古籍保护网](http://www.nlc.cn/pcab/zhgjsmsjk/)：查编号、书号、版本、收藏单位等，无法检索书籍内容。
 - [碑帖菁华](http://mylib.nlc.cn/web/guest/beitiejinghua)：历代甲骨、青铜器、石刻等拓片23万余件为基础建设的数据库，含元数据2.3万条，影像2.9万幅。
 - [山东省图书馆佛经数据库](http://www.sdlib.com/channels/ch00762/)：佛经数据库，用户名密码均为“fojing”，可浏览全文影像。
+- [中正文教基金会-研究平台](http://www.ccfd.org.tw/ccef001/index.php?option=com_content&view=category&id=74&Itemid=201)：含《总统蒋公大事长编初稿》《总统蒋公思想言论总集》《民国十五年前蒋介石》《蒋夫人宋美龄女士言论选集》《蒋中正总统五记》等文献的文字索引。
 
 ---
 
@@ -221,9 +222,10 @@
 ### 体育直播
 - [MamaHD Live Sports Streams](https://www.mamahd.org/)：皮革厂推荐的体育直播网站，需要关闭广告插件才能使用。
 ### 电影
-[认知科学影视索引（Cognitive Science Movie Index）](https://www.indiana.edu/~cogfilms/index.php)
+- [认知科学影视索引（Cognitive Science Movie Index）](https://www.indiana.edu/~cogfilms/index.php)：阳老师推荐的认知电影清单，简单浏览了一下，比较全面但质量未必有保证。
 
 ---
+
 ## 法律
 ### 法律文书
 - [中国裁判文书网](http://wenshu.cour.gov.cn/)：查看判决文书。
