@@ -15,7 +15,7 @@
 
 ## 搜索
 ### 综合搜索
-- [Awesome OSINT](https://github.com/jivoi/awesome-osint)：Open-source intelligence，英文世界全面的信息搜索工具，需要经常看看，熟悉每个工具的功能和适用空间。
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint)：Open-source intelligence，英文世界全面的信息搜索工具，需要经常看看，熟悉每个工具的功能和适用空间。【待探索】
 - [开智信息分析工具箱](https://m.openmindclub.com/stu/IA006/homework/548ca640-2422-476e-854b-06e4f23f05be)：开智学堂研发，适合中文世界的信息搜索。
 - [互联网时光机](https://web.archive.org/)：可查看网站在历史某时间点的样子，需梯子；还存放有历史存档的音乐、视频、书籍、软件等资源，便于查看历史新闻、早期视频等。
 - [虫部落](https://www.chongbuluo.com/)：搜索引擎的聚合，但需要一个一个尝试。
@@ -60,7 +60,7 @@
 - [Altmetric Top 100](https://www.altmetric.com/top100/2018/)：历年Altmetric最高的100篇文献。（需注意：1. 不同学科之间的指数没有可比性；2. 该指数代表社交媒体的关注度，分数高未必代表质量高；3. 2010年，特别是2014年后，Altmetric指数与学术界影响力有正相关。）
 - [Crossref](https://www.crossref.org/)：查询文献的DOI（唯一），用于Altmetric分析（高亮DOI，点Altmetric）。
 - [中国社会科学引文索引（CSSCI）](http://cssci.nju.edu.cn/)：使用CiteSpace分析时，CSSCI比知网的数据更好，但需要用户名密码才能使用。
-- [阳志平-开放科学工具箱](https://www.yangzhiping.com/psy/open-science-toolbox.html)：解释了开放科学的原理，并整理相关资源。
+- [阳志平-开放科学工具箱](https://www.yangzhiping.com/psy/open-science-toolbox.html)：解释了开放科学的原理，并整理相关资源。【待探索】
 ### 文献订阅
 - [X-MOL](https://www.x-mol.com/paper/bio)：主要为生命科学、医学类，可订阅期刊和关键词，定期将新论文发送至邮箱。
 - [The Old Reader](https://theoldreader.com/)：增加了杂志的订阅，需要在此网站上浏览，界面美观。
@@ -71,7 +71,7 @@
 - [Acemap](https://www.acemap.info/)：用于知识图谱的搜索，包括相关领域、父话题、子话题；论文地图、作者地图、作者师承关系地图；推荐作者、推荐论文。
 - [知网](https://cnki.net/)：搜索关键词后，可选中全部或部分文献，点击“计量可视化分析”生产知识图谱。
 ### 学科数据库
-- [阳志平：认知科学与心理科学优质资源索引](https://www.yangzhiping.com/info/resources.html)：大量优质信息源，待整理和分析后补充到各个板块。
+- [阳志平：认知科学与心理科学优质资源索引](https://www.yangzhiping.com/info/resources.html)：大量优质信息源，待整理和分析后补充到各个板块。【待探索】
 ---
 
 ## 读书
