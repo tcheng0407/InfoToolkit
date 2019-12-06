@@ -309,6 +309,11 @@
 - [The 50 Most Influential Living Psychologists in the World](https://thebestschools.org/features/most-influential-psychologists-world/)：含每个人的介绍及主要著作。
 - [Paul Graham个人博客](http://www.paulgraham.com/)
 - [认知与情绪新闻网](https://cogemonews.com/)：黄扬名博客，心理学论文的科普文章。
+- [智识学院](https://app9ldom9eo2242.pc.xiaoe-tech.com/index)：L先生的资料库及在线课程。【待探索】
+- [996个值得订阅的微信公众号](https://github.com/lirenchong/FollowTheWeChat/blob/master/ListOfDingyuehao.md)：李仁冲整理的公众号。
+
+
+
 ### 成长行动类
 - [阳志平-如何成为内在动机驱使的人？](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149359&idx=1&sn=99b1eabcf753ab64114175cf3076a6c0&chksm=84f0bd39b387342f97eef22df453d69353d7512b7ff14038718db88be325918759ca57b1e5c0&scene=21#wechat_redirect)：关于自我决定论的文章，核心是找到真正的内在动机，而不是看似自我决定，实际暗中受到外部影响。
 
