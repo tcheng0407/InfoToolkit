@@ -298,6 +298,7 @@
 - 综合工具：[MikuTools](https://tools.imiku.me/)：视频批量下载，整合一些其他小工具。
 - 综合工具：[爱资料在线工具](https://www.toolnb.com/)：斗图工具，及其他小工具。
 - [维尼飞飞](https://hahaxixi.github.io/)：一个减压的小游戏，需梯子。
+- [高考数据库](https://gkcx.eol.cn/)：高考政策、历年真题、历年分数线、院校及专业查询等，高考必备。
 
 ---
 
