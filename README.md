@@ -266,7 +266,12 @@
 - [Paletton](http://paletton.com/)：配色工具，运用设计原理选择合适的主体色和配色。
 ### 图标
 - [Iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn)：阿里牵头的国产图标库，有设计师不断添加内容。
-- [IcoFont](https://icofont.com/)：国外网站，较多品牌图标，两个网站相互参考。
+- [EasyIcon](https://www.easyicon.net/)；秋叶六星推荐的图标网站，更新速度快，下载速度快。
+- [FlatIcon](www.flaticon.com):秋叶六星推荐，顾名思义以扁平类图标为主，可单个也可全套下载。另外可通过[图标平铺](https://pattern.flaticon.com/)进入背景平铺的功能，用于设计壁纸。
+- [Flat icon design](http://flat-icon-design.com/?paged=2)：日式扁平风格图标下载，数量约500个，全部免费可商用，可编辑。
+- [Human pictogram](http://pictogram2.com/)：火柴人图标，适合动作类，支持日文和英文检索。
+- [IcoFont](https://icofont.com/)：国外网站，较多品牌图标。
+- [60logo](60logo.com)：国内logo网站，需要关注公众号可下载。
 ### 图表
 - [Visual Paradigm](https://online.visual-paradigm.com/cn/)：在线图表绘制，高阶图表需要付费订阅，目前未订阅。
 ### 图片资源
@@ -337,4 +342,5 @@
 - 20191023 调整结构，以目的而非信息种类为结构，初步可用，v.1.0。
 - 20191105 增加商业分析工具。
 - 20191208 因将文章转入印象笔记储存，故删除博客文章，仅保留博客主页。
-- 20191208 增加历史类分类，将原书籍下古籍检索类移动至此，增补两个历史地理工具；增加西蒙纪念馆。v.1.1。
+- 20191208 增加历史类分类，将原书籍下古籍检索类移动至此，增补两个历史地理工具；
+- 20191209 增加西蒙纪念馆；增加几个图标设计类网站。v.1.1。
