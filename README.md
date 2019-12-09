@@ -220,6 +220,8 @@
 - [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp)
 ### 自由职业者
 - [Awesome Indie清单](https://github.com/mezod/awesome-indie)：GitHub上关于自由开发者的清单。
+### 职业资源
+- [HBS Working Knowledge](https://hbswk.hbs.edu/)：哈佛商学院提供与职业相关的论文与书籍。
 
 ---
 
