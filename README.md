@@ -90,14 +90,15 @@
 - [全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/)：PDF，读秀库，有大量即使在大陆出版的书籍都被陆续下架，港台版偶有漏网。出版时间超过1年、有试读的书，大概率能找到。找一元哥低价制作。
 - [无产阶级图书馆](http://45.32.41.3/My_library_table.php)：好书很多，各种类型，新书很快，五星级推荐。需要科学上网。注：此网站主页有一些社科类资料导览。
 - [猫师的小书屋](https://gd.maobot.workers.dev/)：社科类图书，港台和大陆书籍均有，需要好好研究一下目录。
+- [epubee](http://cn.epubee.com/)：一个神奇的网站，宣称是电子书格式转化，但资源海量，格式期权。已充值十年会员（ID：29269736，仅59.99元），可以直接推送到kindle上。作为小书屋更好的替代品。
+- [Library Genesis](http://gen.lib.rus.ec/)：最知名的免费英文书下载网站，经常被封。老毛子真是美帝一世之敌，只有这件事要感谢毛子。[备用链接1](http://libgen.io/)、[备用链接2](http://libgen.is/)
+- [鸠摩搜索](https://www.jiumodiary.com/)：电子书搜索引擎，主要用于找文字格式的电子书，扫描pdf不多。
+- [Vol.moe Kindle漫画](http://vol.moe/)：找漫画的好地方。于子不爱看漫画，需求不大，值得推荐给朋友。
 - [国学数典](http://bbs.gxsd.com.cn/forum.php)：曾经下载过很多书，四部之列，当在此先搜索。之前的账号已经无法找回，如果需要，可付费下载。
 - [书格](https://www.shuge.org/)：公版的古籍、史地等，均可下载，有较多影印本、刻本等。
 - [我的小书屋](http://mebook.cc/)：Kindle版电子书，上新速度较快。对于一些文学类书籍，对文本和排版要求没那么高，可以从这里下载（目前已失效）。
 - [三秋书屋](https://www.d4j.cn/)：小书屋被和谐后的替代品，体验不如前者，但书籍存量不少。
-- [epubee](http://cn.epubee.com/)：一个神奇的网站，宣称是电子书格式转化，但资源海量，格式期权。已充值十年会员（ID：29269736，仅59.99元），可以直接推送到kindle上。作为小书屋更好的替代品。
-- [Vol.moe Kindle漫画](http://vol.moe/)：找漫画的好地方。于子不爱看漫画，需求不大，值得推荐给朋友。
 - [好读](http://www.haodoo.net/)：台湾的电子书文本下载处，对本文的校勘很细，但自2017年12月不再更新，适合查找经典作品。
-- [Library Genesis](http://gen.lib.rus.ec/)：最知名的免费英文书下载网站，经常被封。老毛子真是美帝一世之敌，只有这件事要感谢毛子。[备用链接1](http://libgen.io/)、[备用链接2](http://libgen.is/)
 - [ebook.farm](https://ebook.farm)：之前在美国上学时下载过一些书，需要付费。大部分收费较低的书Library Genesis上有，如果前者没有再来这里买。
 - [Memory of the World Library](https://memoryoftheworld.org/#/books)：历史类英文书籍。
 ### 杂志
