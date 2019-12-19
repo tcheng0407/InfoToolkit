@@ -10,9 +10,6 @@
 - 各组块下的工具尽量按照好用程度从高到低进行排序
 - 目前以个人使用为主，将来会逐渐开放
 ## 目录
-[toc]
-
-
 - [搜索](https://github.com/tcheng0407/InfoToolkit#%E6%90%9C%E7%B4%A2)
   - [综合搜索](https://github.com/tcheng0407/InfoToolkit#%E7%BB%BC%E5%90%88%E6%90%9C%E7%B4%A2)
   - [元搜索](https://github.com/tcheng0407/InfoToolkit#%E5%85%83%E6%90%9C%E7%B4%A2)
