@@ -10,6 +10,20 @@
 - 各组块下的工具尽量按照好用程度从高到低进行排序
 - 目前以个人使用为主，将来会逐渐开放
 ## 目录
+- [搜索](https://github.com/tcheng0407/InfoToolkit#%E6%90%9C%E7%B4%A2)
+  - [综合搜索](https://github.com/tcheng0407/InfoToolkit#%E7%BB%BC%E5%90%88%E6%90%9C%E7%B4%A2)
+  - [元搜索](https://github.com/tcheng0407/InfoToolkit#%E5%85%83%E6%90%9C%E7%B4%A2)
+  - [垂直搜索](https://github.com/tcheng0407/InfoToolkit#%E5%9E%82%E7%9B%B4%E6%90%9C%E7%B4%A2)
+  - [搜索工具](https://github.com/tcheng0407/InfoToolkit#%E6%90%9C%E7%B4%A2%E5%B7%A5%E5%85%B7)
+- [学术研究](https://github.com/tcheng0407/InfoToolkit#%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6)
+  - [学术搜索](https://github.com/tcheng0407/InfoToolkit#%E5%AD%A6%E6%9C%AF%E6%90%9C%E7%B4%A2)
+  - [学科分类](https://github.com/tcheng0407/InfoToolkit#%E5%AD%A6%E7%A7%91%E5%88%86%E7%B1%BB)
+  - [学术期刊/学者](https://github.com/tcheng0407/InfoToolkit#%E5%AD%A6%E6%9C%AF%E6%9C%9F%E5%88%8A%E5%AD%A6%E8%80%85)
+  - [论文文献](https://github.com/tcheng0407/InfoToolkit#%E8%AE%BA%E6%96%87%E6%96%87%E7%8C%AE)
+  - [文献订阅](https://github.com/tcheng0407/InfoToolkit#%E6%96%87%E7%8C%AE%E8%AE%A2%E9%98%85)
+  - [知识图谱](https://github.com/tcheng0407/InfoToolkit#%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1)
+  - [学科数据库](https://github.com/tcheng0407/InfoToolkit#%E5%AD%A6%E7%A7%91%E6%95%B0%E6%8D%AE%E5%BA%93)
+  - [致敬大神](https://github.com/tcheng0407/InfoToolkit#%E8%87%B4%E6%95%AC%E5%A4%A7%E7%A5%9E)
 
 
 
@@ -92,6 +106,7 @@
 - [猫师的小书屋](https://gd.maobot.workers.dev/)：社科类图书，港台和大陆书籍均有，需要好好研究一下目录。
 - [epubee](http://cn.epubee.com/)：一个神奇的网站，宣称是电子书格式转化，但资源海量，格式期权。已充值十年会员（ID：29269736，仅59.99元），可以直接推送到kindle上。作为小书屋更好的替代品。
 - [Library Genesis](http://gen.lib.rus.ec/)：最知名的免费英文书下载网站，经常被封。老毛子真是美帝一世之敌，只有这件事要感谢毛子。[备用链接1](http://libgen.io/)、[备用链接2](http://libgen.is/)
+- [Zlibrary](https://b-ok.cc/)：搜索引擎，以英文为主，也可搜索中文书籍，全免费，试用了一下，新书pdf找不到，老书pdf或新老书文字版都较方便找到。
 - [鸠摩搜索](https://www.jiumodiary.com/)：电子书搜索引擎，主要用于找文字格式的电子书，扫描pdf不多。
 - [Vol.moe Kindle漫画](http://vol.moe/)：找漫画的好地方。于子不爱看漫画，需求不大，值得推荐给朋友。
 - [国学数典](http://bbs.gxsd.com.cn/forum.php)：曾经下载过很多书，四部之列，当在此先搜索。之前的账号已经无法找回，如果需要，可付费下载。
@@ -356,3 +371,4 @@
 - 20191208 增加历史类分类，将原书籍下古籍检索类移动至此，增补两个历史地理工具；
 - 20191209 增加西蒙纪念馆；增加几个图标设计类网站。v.1.1。
 - 20191213 历史分类下增加中世纪知识。
+- 20191219 增加目录。
