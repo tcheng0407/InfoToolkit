@@ -304,10 +304,11 @@
 - [去除文本中所有空格](http://www.txttool.com/wenben_alltrim.asp)：去掉OCR之后产生的空格，注意补回英文空格。
 - [微词云](https://www.weiciyun.com/)：生成有设计感的词云，可插入图片或按照形状生成词云。
 - [纽扣词云](http://cloud.niucodata.com/)：词性分类、词频统计、词云图。
+- [Workflowy](https://workflowy.com/)：在线树状结构及思维导图工具，类似幕布。
 - [句子汇](http://www.juzih.com/)：搜优美句子，有意思的地方在于，可以自动找到类似句子。
 - [印象笔记Mac版快捷键](https://help.yinxiang.com/hc/articles/63059?api_name=)：学会使用一些快捷键，如cmd+J。
 ### 学习工具
-- [The  Learning Scientists](https://www.learningscientists.org/)：关于学习科学的理论和工具。
+- [The Learning Scientists](https://www.learningscientists.org/)：关于学习科学的理论和工具。
 ### 阅读工具
 - [Readsy](http://www.readsy.co/)：快速阅读工具。将网址复制过来，可以快速阅读。附带一个网页版小工具Spritzlet。之前上学时快速读论文很好用。
 ### 软件工具
