@@ -63,7 +63,7 @@
 - [中国国家标准：学科分类与代码GBT/13745-2009](http://www.njitt.edu.cn/_upload/article/files/c5/cd/02d9a41641acb4de0cd31423f54d/0c66f222-11d6-483b-94db-7c7b07b55b7d.pdf)：中国2009年修订的学科分类，pdf文件，不便检索。
 ### 学术期刊/学者
 - [Neurotree](https://neurotree.org/neurotree/)：查询学者的师承关系。
-- [The Academic Family Tree](https://neurotree.org/neurotree/)：与Neurotree是同一个网站，该页面可以根据学科查询。
+- [The Academic Family Tree](https://academictree.org/)：与Neurotree是同一个网站，该页面可以根据学科查询。
 - [Google经典论文](https://scholar.google.com/citations?view_op=list_classic_articles&hl=zh-CN&by=2006)：按学科分类的经典论文。
 - [Google核心期刊](https://scholar.google.com/citations?view_op=top_venues&hl=en)：页面同Google学术分类表，按H5指数顺序展示该领域顶级刊物。
 - [SJR期刊排名](https://www.scimagojr.com/journalrank.php)：可与Google核心期刊交叉验证。
