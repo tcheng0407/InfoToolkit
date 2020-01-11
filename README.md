@@ -120,6 +120,7 @@
 - [Memory of the World Library](https://memoryoftheworld.org/#/books)：历史类英文书籍。
 ### 在线阅读
 - [ESV Bible](https://www.esv.org/)：ESV是现阶段《圣经》英文翻译中的较好版本，此网站含Study Bible，已注册kb8newton@gmail.com。
+- [OpenAudible](https://openaudible.org/)：有声书软件下载，可查找有声书。
 ### 杂志
 注：阳志平老师心目中最好的五本杂志：《哈佛商业评论》《麻省理工评论》《科学美国人》《纽约时报》《经济学人》。
 - [MagazineLib](https://magazinelib.com/)
