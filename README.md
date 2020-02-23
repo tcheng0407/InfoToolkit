@@ -103,6 +103,11 @@
 - [WorldCat](https://www.worldcat.org/)：宣称是世界上最庞大的图书馆目录。用于Zotero构建书目列表，但书评，特别是中文书评有所不足。
 - [Goodreads](https://www.goodreads.com/)：世界版豆瓣，能连接Facebook好友，人气很旺，中文读物的书评匮乏。
 - [Anobii](https://www.anobii.com/)：台湾人推荐的“豆瓣”，人气远远不如。
+### 找新书及名人推荐
+- [The New York Times Best Sellers](https://www.nytimes.com/books/best-sellers/)：纽约时报畅销书排行榜，查英文世界新书，Combined Print & E-Book Nonfiction 是最常用的类别。
+- [Amazon Charts](https://www.amazon.com/charts/mostread/fiction)；亚马逊的每周畅销榜，更好读者品味，更少营销干预。可以选择 fiction/nonfiction 以及 most read/sold。另外编辑每月推荐值得一看。
+- [Goodreads Choice Awards](https://www.goodreads.com/choiceawards/)：亚马逊旗下书评社区 Goodreads 每年大众选择奖。
+- 小技巧：Google 里搜索“人名+Book Recommendations”，可以找到经整理的名人推荐书单。
 ### 电子书资源
 - [全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/)：PDF，读秀库，有大量即使在大陆出版的书籍都被陆续下架，港台版偶有漏网。出版时间超过1年、有试读的书，大概率能找到。找一元哥低价制作。
 - [无产阶级图书馆](http://45.32.41.3/My_library_table.php)：好书很多，各种类型，新书很快，五星级推荐。需要科学上网。注：此网站主页有一些社科类资料导览。
@@ -382,3 +387,4 @@
 - 20191209 增加西蒙纪念馆；增加几个图标设计类网站。v.1.1。
 - 20191213 历史分类下增加中世纪知识。
 - 20191219 增加目录。
+- 20200223 增加新书寻找。
