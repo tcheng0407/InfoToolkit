@@ -75,6 +75,7 @@
 - [维基百科-开放获取期刊列表](https://zh.wikipedia.org/wiki/%E9%96%8B%E6%94%BE%E7%8D%B2%E5%8F%96%E6%9C%9F%E5%88%8A%E5%88%97%E8%A1%A8)：了解不同期刊开放获取的规则，找到该期刊免费下载。
 - [PunMedPro](https://pubmed.pro/)：医学文献检索，支持中英文，显示影响因子。
 - [Q博士图书馆](http://lib.qboshi.net/e/member/login/)：中文文献高效搜索下载平台，已购买永久会员，如需使用知网，请使用官方入口1检索2。
+- [中国集刊网](http://www.jikan.com.cn/)：中国第一家也是唯一一家专门介绍中国学术集刊的专业网站。目前支持在线阅读，不支持PDF下载。
 - [知网的文献高级搜索](https://kns.cnki.net/kns/brief/result.aspx?dbprefix=SCDB&crossDbcodes=CJFQ,CDFD,CMFD,CPFD,IPFD,CCND,CCJD)：高级搜索页面，可以通过左边的学科而非个别关键词完成检索，勾选文献后选择导出参考文献为Refworks格式，便于Zotero抓取信息。
 - [Altmetric Top 100](https://www.altmetric.com/top100/2018/)：历年Altmetric最高的100篇文献。（需注意：1. 不同学科之间的指数没有可比性；2. 该指数代表社交媒体的关注度，分数高未必代表质量高；3. 2010年，特别是2014年后，Altmetric指数与学术界影响力有正相关。）
 - [Crossref](https://www.crossref.org/)：查询文献的DOI（唯一），用于Altmetric分析（高亮DOI，点Altmetric）。
@@ -395,4 +396,4 @@
 - 20191219 增加目录。
 - 20200223 增加新书寻找。
 - 20200228 增加学科数据库-社会科学。
-- 20200303 增加写匠、爱贝睿语音合成。
+- 20200303 增加写匠、爱贝睿语音合成；增加中国集刊网。
