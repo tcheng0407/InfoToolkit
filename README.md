@@ -268,6 +268,8 @@
 
 ### 检查新闻真实性
 - [Fact Checks Archive](https://www.snopes.com/fact-check/)：检索英文世界新闻的真实性。
+### 媒体研究
+- [新闻实验室公众号文章汇总](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)：该账户所有境内社交媒体被封，此网站可查看新闻实验室过往公众号文章。来自方可成被封后的说明。
 ### 体育直播
 - [MamaHD Live Sports Streams](https://www.mamahd.org/)：皮革厂推荐的体育直播网站，需要关闭广告插件才能使用。
 ### 电影
