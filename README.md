@@ -341,6 +341,7 @@
 - [微词云](https://www.weiciyun.com/)：生成有设计感的词云，可插入图片或按照形状生成词云。
 - [纽扣词云](http://cloud.niucodata.com/)：词性分类、词频统计、词云图。
 - [Workflowy](https://workflowy.com/)：在线树状结构及思维导图工具，类似幕布。
+- [古诗文网](https://www.gushiwen.org/)：找古诗句用。
 - [句子汇](http://www.juzih.com/)：搜优美句子，有意思的地方在于，可以自动找到类似句子。
 - [印象笔记Mac版快捷键](https://help.yinxiang.com/hc/articles/63059?api_name=)：学会使用一些快捷键，如cmd+J。
 ### 学习工具
