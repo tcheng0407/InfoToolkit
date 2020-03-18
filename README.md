@@ -56,6 +56,7 @@
 ### 学术搜索
 - [万方数据知识服务平台](http://www.wanfangdata.com.cn/index.html)：搜索学术期刊、论文、专利等，可生成上位词、下位词等，形成可视化图谱。
 - [XLore](https://xlore.org/)：中英文跨语言百科知识图谱。便于搜索相应实体、概念，及其上位词、下位词（便于扩大/缩小搜索范围），可以切换语言，作为维基百科+百度百科的集合。
+- [ResearchGate](https://www.researchgate.net/)：寻找科学信息、文献和术语。需要注册使用。
 - [CNKI翻译助手](http://dict.cnki.net/)：学科与专业术语的翻译。
 ### 学科分类
 - [Google学术分类表](https://scholar.google.com/citations?view_op=top_venues&hl=en)：可以了解各个学科的分类，同时了解该学科的顶级刊物。
