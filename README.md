@@ -263,7 +263,7 @@
 - [Awesome Indie清单](https://github.com/mezod/awesome-indie)：GitHub上关于自由开发者的清单。
 ### 职业资源
 - [HBS Working Knowledge](https://hbswk.hbs.edu/)：哈佛商学院提供与职业相关的论文与书籍。
-- [myNotreDame]：ND 校友信息页面，可以查到校友信息和校友资源。我的账号为 tcheng0407， 绑定邮箱为 kb8newton@gmail.com。
+- [myNotreDame](http://my.nd.edu/)：ND 校友信息页面，可以查到校友信息和校友资源。我的账号为 tcheng0407， 绑定邮箱为 kb8newton@gmail.com。
 
 ---
 
