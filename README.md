@@ -252,6 +252,8 @@
 - [VIA Institute on Character](http://www.viacharacter.org/)：积极心理学的24种美德测试，付费查看结果。
 - [才储-盖洛普优势识别](http://www.apesk.com/Advantage-detecting/)：汉化的盖洛普优势测试，收费查看报告。
 - [“可能的自我”问卷](https://dornsife.usc.edu/assets/sites/782/docs/possible_selves_measure.doc)：可下载，以一年为评估尺度。
+### 工作搜寻
+- [MBA-Exchange](https://www.mba-exchange.com/)：MBA 学生的职业搜寻平台。
 ### 编程
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience)：神经科学的awesome清单。
 - [Awesome node.js](https://github.com/sindresorhus/awesome-nodejs)：node.js的awesome清单。
@@ -261,6 +263,7 @@
 - [Awesome Indie清单](https://github.com/mezod/awesome-indie)：GitHub上关于自由开发者的清单。
 ### 职业资源
 - [HBS Working Knowledge](https://hbswk.hbs.edu/)：哈佛商学院提供与职业相关的论文与书籍。
+- [myNotreDame]：ND 校友信息页面，可以查到校友信息和校友资源。我的账号为 tcheng0407， 绑定邮箱为 kb8newton@gmail.com。
 
 ---
 
