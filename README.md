@@ -270,6 +270,7 @@
 ## 新闻资讯
 ### 新闻网站
 
+-[中国数字时代](https://chinadigitaltimes.net/chinese/)：被 404 的和值得看的。
 ### 社交媒体
 - [今日热榜](https://tophub.today/)：聚集微信、微博、抖音、知乎、36氪、虎嗅等主流社交媒体的当天热榜文章。
 
@@ -280,6 +281,7 @@
 ### 体育直播
 - [MamaHD Live Sports Streams](https://www.mamahd.org/)：皮革厂推荐的体育直播网站，需要关闭广告插件才能使用。
 ### 电影
+- [禁片目录](https://chinadigitaltimes.net/space/%E7%A6%81%E7%89%87%E7%9B%AE%E5%BD%95)：中国数字时代整理。
 - [认知科学影视索引（Cognitive Science Movie Index）](https://www.indiana.edu/~cogfilms/index.php)：阳老师推荐的认知电影清单，简单浏览了一下，比较全面但质量未必有保证。
 
 ---
