@@ -360,6 +360,7 @@
 - [爱贝睿语音合成](https://tts.ibrainbaby.com/)：将文字转为语音，可导出mp3。可以将小说转为有声书。
 ### 软件工具
 - [UZER.ME云端超级应用空间](uzer.me)：包括Office的三件套，甚至包含XMind、Photoshop、Matlab等常用付费软件。界面和电脑几乎完全一样，但只能保存（有1G储存空间）而无法在线同步编辑。已用微信和手机号注册。
+- [新趣集](https://xinquji.com/)：公众号“网罗灯下黑”推荐，工具类 app 及软件的每日推荐。
 ### 转换格式工具
 - [Zamzar](https://www.zamzar.com/)：支持 1200 + 种格式的文件包括图片、音频和视频，大部分免费，如果需要快速及大文件需要付费，价格较贵。
 - [LightPDF](https://lightpdf.com/zh/)：PDF转文字和PPT、OCR等功能。轻量使用免费，重度使用价格也不贵。
