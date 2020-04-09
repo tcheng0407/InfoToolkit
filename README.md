@@ -221,6 +221,7 @@
 ### 舆情
 - [知微事见](https://ef.zhiweidata.com/#!/index)：了解事件的热度及趋势，并可查看单个事件的传播趋势、重要渠道、词云等。
 - [Google Trends](https://trends.google.com/trends/)：选择所在区域后搜索。
+- [Rank2traffic](http://rank2traffic.com/)：评估数百万个网站的访问量，包括历史流量、Alex 排名等。
 - [百度指数](https://index.baidu.com/v2/index.html#/)
 - [清博舆情分析系统](http://yq.gsdata.cn/)：输入关键词，构建舆情监控方案。
 - [新榜](https://www.newrank.cn/)：自媒体投放和内容运营数据查询，可通过趋势监控舆情，可了解垂直领域的大号、某话题的最热文章等。
