@@ -362,6 +362,7 @@
 - [The Learning Scientists](https://www.learningscientists.org/)：关于学习科学的理论和工具。
 ### 阅读工具
 - [Readsy](http://www.readsy.co/)：快速阅读工具。将网址复制过来，可以快速阅读。附带一个网页版小工具Spritzlet。之前上学时快速读论文很好用。
+- [DeepL](https://www.deepl.com/home)：可能是最好的机器翻译。
 - [爱贝睿语音合成](https://tts.ibrainbaby.com/)：将文字转为语音，可导出mp3。可以将小说转为有声书。
 ### 软件工具
 - [UZER.ME云端超级应用空间](uzer.me)：包括Office的三件套，甚至包含XMind、Photoshop、Matlab等常用付费软件。界面和电脑几乎完全一样，但只能保存（有1G储存空间）而无法在线同步编辑。已用微信和手机号注册。
@@ -416,4 +417,5 @@
 - 20200223 增加新书寻找。
 - 20200228 增加学科数据库-社会科学。
 - 20200303 增加写匠、爱贝睿语音合成；增加中国集刊网。
-- 20200408 增加聚BT、
+- 20200408 增加聚BT、WikiHow。
+- 20200414 增加翻译工具 DeepL。
