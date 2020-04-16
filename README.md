@@ -281,12 +281,6 @@
 - [Fact Checks Archive](https://www.snopes.com/fact-check/)：检索英文世界新闻的真实性。
 ### 媒体研究
 - [新闻实验室公众号文章汇总](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)：该账户所有境内社交媒体被封，此网站可查看新闻实验室过往公众号文章。来自方可成被封后的说明。
-### 体育直播
-- [MamaHD Live Sports Streams](https://www.mamahd.org/)：皮革厂推荐的体育直播网站，需要关闭广告插件才能使用。
-### 电影
-- [禁片目录](https://chinadigitaltimes.net/space/%E7%A6%81%E7%89%87%E7%9B%AE%E5%BD%95)：中国数字时代整理。
-- [聚BT](https://jubt.net/cn/index.html)：汇集各类 BT 下载资源，以影视、在线观看、软件为主。
-- [认知科学影视索引（Cognitive Science Movie Index）](https://www.indiana.edu/~cogfilms/index.php)：阳老师推荐的认知电影清单，简单浏览了一下，比较全面但质量未必有保证。
 
 ---
 
@@ -342,9 +336,18 @@
 ## 生活类信息
 ### 医疗类
 - [默沙东诊疗手册](https://www.msdmanuals.com/zh/)：包括专业版、大众版、兽医版，权威度较高。可以弥补丁香医生等的兽医领域。
-### 生活类
+### 知识类
 - [WikiHow](https://www.wikihow.com/Main-Page)：技能类问题解答，中文网站[戳此](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)。
-
+### 体育直播
+- [MamaHD Live Sports Streams](https://www.mamahd.org/)：皮革厂推荐的体育直播网站，需要关闭广告插件才能使用。
+### 电影
+- [禁片目录](https://chinadigitaltimes.net/space/%E7%A6%81%E7%89%87%E7%9B%AE%E5%BD%95)：中国数字时代整理。
+- [聚BT](https://jubt.net/cn/index.html)：汇集各类 BT 下载资源，以影视、在线观看、软件为主。
+- [认知科学影视索引（Cognitive Science Movie Index）](https://www.indiana.edu/~cogfilms/index.php)：阳老师推荐的认知电影清单，简单浏览了一下，比较全面但质量未必有保证。
+### 购物
+- [阿里巴巴1688](https://www.1688.com/index.html)：供给端的淘宝，购买一些小商品会更加便宜，另外可以用于淘宝比价。
+- [券妈妈优惠券](http://www.quanmama.com/)：购物之前先查一查，看看有什么优惠券。
+- [北美省钱快报](https://www.dealmoon.com/)：北美折扣信息。
 
 ---
 
@@ -421,3 +424,4 @@
 - 20200303 增加写匠、爱贝睿语音合成；增加中国集刊网。
 - 20200408 增加聚BT、WikiHow。
 - 20200414 增加翻译工具 DeepL、学术网站集智俱乐部。
+- 20200416 增加购物类信息，如1688、北美省钱快报、券妈妈。
