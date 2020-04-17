@@ -357,6 +357,7 @@
 ### 写作工具
 - [写匠](https://aiwriter.cn/home)：开智公司旗下，基于人工智能与认知科学的中文写作辅助工具，用于修改错别字，并根据古典风格和广告法修改。
 - [写匠金句](https://jinju.aiwriter.cn/)：来自张爱玲、王小波等伟大作家的金句，也有部分网友收集。小技巧：使用情绪词汇（喜悦、感激、宁静、兴趣、希望、自豪、逗趣、激励、敬佩、爱；悲伤、忧郁、愤怒、厌倦、空虚、恐惧、绝望、冷漠、抗拒、恨）和具体意象（星星、大海、沙漠；美女、野兽、婴儿；春夏秋冬、虫鸣鸟叫、风霜雨雪）查找。
+- [秘塔写作猫](https://xiezuocat.com/#/)：修改错别字和语法建议，有一定免费额度。
 - [去除文本中所有空格](http://www.txttool.com/wenben_alltrim.asp)：去掉OCR之后产生的空格，注意补回英文空格。
 - [Tables Generator](http://tablesgenerator.com/markdown_tables)：生成 Markdown 等格式的表格，不需手动输入。
 - [微词云](https://www.weiciyun.com/)：生成有设计感的词云，可插入图片或按照形状生成词云。
