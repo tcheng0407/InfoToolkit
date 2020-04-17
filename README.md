@@ -200,6 +200,8 @@
 - [Frost Sullivan](https://ww2.frost.com/)：咨询公司沙利文首页。搜索行业的市场份额时，可尝试搜索“沙利文 市场份额/市场占有率 X行业”。
 - [国务院发展研究中心-调研报告](http://www.drc.gov.cn/dcyjbg/)：官方调查，可以搜索获得行业报告，但有些报告只提供摘要，可以去对应的发文处搜索。
 ### 人物
+- [TruthFinder.com](https://www.truthfinder.com/)：海外背调网站，可以查询人物的基本信息、房产信息、职业信息等。
+- [SmartBackgroundChecks](http://smartbackgroundchecks.com/)：海外背调网站，墙内似乎无法使用。
 - [福布斯榜单](https://www.forbes.com/lists/list-directory/)：人物、公司、地点榜单，重点关注30 Under 30、The Midas List（年度最佳创投人）等。
 - [GitHub万人以上关注用户榜单](https://github.com/search?utf8=%E2%9C%93&q=followers%3A%3E%3D10000&type=Users)：发现优质程序员。
 - [清科研究中心历年榜单](https://www.pedata.cn/topranking/index.html)：投资界榜单，略有参考价值。
@@ -428,3 +430,4 @@
 - 20200408 增加聚BT、WikiHow。
 - 20200414 增加翻译工具 DeepL、学术网站集智俱乐部。
 - 20200416 增加购物类信息，如1688、北美省钱快报、券妈妈；增加软件下载网站 AppShopper、苹果网等。
+- 20200417 增加背调网站。
