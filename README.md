@@ -224,11 +224,15 @@
 - [Product Hunt](https://www.producthunt.com/)：新产品的追踪与介绍。
 ### 舆情
 - [知微事见](https://ef.zhiweidata.com/#!/index)：了解事件的热度及趋势，并可查看单个事件的传播趋势、重要渠道、词云等。
-- [Google Trends](https://trends.google.com/trends/)：选择所在区域后搜索。
 - [Rank2traffic](http://rank2traffic.com/)：评估数百万个网站的访问量，包括历史流量、Alex 排名等。
-- [百度指数](https://index.baidu.com/v2/index.html#/)
+- [Google Trends](https://trends.google.com/trends/)：选择所在区域后搜索。
+
+- [百度指数](https://index.baidu.com/v2/index.html#/)：用于与微信指数、阿里指数等对比，也可以从不同平台趋势中发现端倪。此外，还能分析用户需求图谱，即搜这个关键词的人还会搜哪些（红色代表上升，绿色代表下降）；还能做用户人群画像分析。
+- [阿里指数-1688](https://index.1688.com/)：了解不同商品的热度，支持关键词查询。
+- [阿里指数-淘宝](https://shu.taobao.com/)：不支持关键词查询，只能按类目看，了解每个类目靠前的用户搜索关键词。
 - [清博舆情分析系统](http://yq.gsdata.cn/)：输入关键词，构建舆情监控方案。
 - [新榜](https://www.newrank.cn/)：自媒体投放和内容运营数据查询，可通过趋势监控舆情，可了解垂直领域的大号、某话题的最热文章等。
+- [阿拉丁指数](http://www.aldzs.com/)：微信小程序指数工具。
 - [搜狗指数](http://index.sogou.com/)
 - [微信指数]()：在微信小程序中打开，基于微信数据，最多只能查看90天。
 - [微指数](https://data.weibo.com/index)：微博指数，目前网页端无法使用，需下载APP。
@@ -432,3 +436,4 @@
 - 20200414 增加翻译工具 DeepL、学术网站集智俱乐部。
 - 20200416 增加购物类信息，如1688、北美省钱快报、券妈妈；增加软件下载网站 AppShopper、苹果网等。
 - 20200417 增加背调网站、秘塔写作猫。
+- 20200419 增加指数搜索工具，如阿拉丁指数、百度指数、淘宝指数等。
