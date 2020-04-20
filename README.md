@@ -328,6 +328,7 @@
 - [Visual Paradigm](https://online.visual-paradigm.com/cn/)：在线图表绘制，高阶图表需要付费订阅，目前未订阅。
 ### 图片资源
 - [Gallerix](https://gallerix.asia/)：各大博物馆中的世界名画，可下载。
+- [日本四大国立博物馆库](https://colbase.nich.go.jp/?locale=ja)：东京、京都、奈良、九州四大国立博物馆，高清图片，可免费下载。
 - [Unsplash](https://unsplash.com/)：免费的大图，可根据主题和对象搜索，质量很高。
 - [Pexels](https://www.pexels.com/)：免费图片，可搜索。
 ### 图床
