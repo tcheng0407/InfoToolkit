@@ -395,6 +395,7 @@
 - 综合工具：[爱资料在线工具](https://www.toolnb.com/)：斗图工具，及其他小工具。
 - [维尼飞飞](https://hahaxixi.github.io/)：一个减压的小游戏，需梯子。
 - [高考数据库](https://gkcx.eol.cn/)：高考政策、历年真题、历年分数线、院校及专业查询等，高考必备。
+- [I Know What You Download](https://iknowwhatyoudownload.com/)：了解一个 IP 地址的 BT 下载记录；伪装成一个网址后，获取对方的 BT 下载记录；了解真实的最受欢迎的电影和剧集信息，可能比豆瓣等更加精确。
 
 
 ---
