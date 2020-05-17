@@ -124,7 +124,7 @@
 - [猫师的小书屋](https://gd.maobot.workers.dev/)：社科类图书，港台和大陆书籍均有，需要好好研究一下目录。
 - [epubee](http://cn.epubee.com/)：一个神奇的网站，宣称是电子书格式转化，但资源海量，格式齐全。已充值十年会员（ID：29269736，仅59.99元），可以直接推送到kindle上。作为小书屋更好的替代品。
 - [Library Genesis](http://gen.lib.rus.ec/)：最知名的免费英文书下载网站，经常被封。老毛子真是美帝一世之敌，只有这件事要感谢毛子。[备用链接1](http://libgen.io/)、[备用链接2](http://libgen.is/)
-- [Zlibrary](https://b-ok.cc/)：搜索引擎，以英文为主，也可搜索中文书籍，全免费，试用了一下，新书pdf找不到，老书pdf或新老书文字版都较方便找到。
+- [Zlibrary](https://b-ok.cc/)：搜索引擎，以英文为主，也可搜索中文书籍，全免费，试用了一下，新书pdf找不到，老书pdf或新老书文字版都较方便找到。发现很多港台版的书能找到，真是个宝藏网站。已注册 tcheng0407@gmail.com。
 - [鸠摩搜索](https://www.jiumodiary.com/)：电子书搜索引擎，主要用于找文字格式的电子书，扫描pdf不多。
 - [Vol.moe Kindle漫画](http://vol.moe/)：找漫画的好地方。于子不爱看漫画，需求不大，值得推荐给朋友。
 - [国学数典](http://bbs.gxsd.com.cn/forum.php)：曾经下载过很多书，四部之列，当在此先搜索。之前的账号已经无法找回，如果需要，可付费下载。
