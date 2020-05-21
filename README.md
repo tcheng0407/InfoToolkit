@@ -210,6 +210,8 @@
 - [中国专利局-专利检索与分析](http://pss-system.cnipa.gov.cn/)：权威信息，构建检索式高级检索更有效。
 - [SooPAT专利搜索](http://www.soopat.com/)：可搜索中国及海外专利。
 - [中国商标网-商标网上检索系统](http://wsjs.saic.gov.cn)：权威信息，但有一定滞后性，选择“商标综合查询”更为实用。
+- [商标分类表](http://www.sbfl.cn/)：查询商标分类，注册商标时避免类似名，或者避开已注册的品类。
+- [阿里云知识产权服务](https://tm.aliyun.com/)：与中国商标网信息类似，可查询商标注册情况，有一定滞后。
 - [United States Patent and Trademark Office](https://www.uspto.gov/)：美国专利商标局。
 - [Brand Rankings and Reports](http://www.millwardbrown.com/brandz/rankings-and-reports)：搜索各国的品牌价值榜单。
 - [猪八戒](https://www.zbj.com/)：一站式企业外包服务平台，包括注册公司、申请专利等。
@@ -450,3 +452,4 @@
 - 20200427 增加笔记可视化工具 Roam Research。
 - 20200506 增加写作工具 Gramara。
 - 20200516 增加写作工具写匠，增加百度权重排名工具爱站网。
+- 20200521 增加商标和商标分类信息。
