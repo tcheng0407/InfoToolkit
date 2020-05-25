@@ -360,7 +360,8 @@
 - [聚BT](https://jubt.net/cn/index.html)：汇集各类 BT 下载资源，以影视、在线观看、软件为主。
 - [认知科学影视索引（Cognitive Science Movie Index）](https://www.indiana.edu/~cogfilms/index.php)：阳老师推荐的认知电影清单，简单浏览了一下，比较全面但质量未必有保证。
 ### 购物
-- [阿里巴巴1688](https://www.1688.com/index.html)：供给端的淘宝，购买一些小商品会更加便宜，另外可以用于淘宝比价。
+- [阿里巴巴 1688 ](https://www.1688.com/index.html)：供给端的淘宝，购买一些小商品会更加便宜，另外可以用于淘宝比价。
+- [1688 源头好货](https://ye.1688.com/)：可点击“产业带”，了解每个产业产业地域集中情况，如晋江运动、佛山卫浴、温州皮具等。
 - [券妈妈优惠券](http://www.quanmama.com/)：购物之前先查一查，看看有什么优惠券。
 - [北美省钱快报](https://www.dealmoon.com/)：北美折扣信息。
 
