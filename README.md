@@ -298,8 +298,7 @@
 
 ## 法律
 ### 法律文书
-- [中国裁判文书网](http://wenshu.cour.gov.cn/)：查看判决文书。
-- [中国裁判文书网-老](http://oldwenshu.cour.gov.cn/)：老裁判文书网。
+- [中国裁判文书网](https://wenshu.court.gov.cn/)：查看判决文书，比最高法院的文书页面更容易检索。
 - [裁判文书-中华人民共和国最高人民法院](http://www.court.gov.cn/wenshu.html)
 - [中国执行信息公开网](http://zxgk.court.gov.cn/)
 
