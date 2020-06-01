@@ -404,9 +404,13 @@
 - [AppShopoer](https://appshopper.com/)：了解各 APP 的价格和价格变化、历史价格，可以添加心仪的 APP，降价时有提醒。现阶段大量 APP 采用订阅制，该网站价值下降。
 - [苹果网 Mac 软件下载](http://www.pc6.com/mac/soft/)：Mac 盗版软件下载，已经很久没浏览，大概率有更好的网站。
 #### Windows 平台
-
-
-
+- [懒得勤快](http://183.91.54.237:7080/masuit/soft/tree/master)：网盘形式，资源不多但比较实用。
+- [稀缺资源统一下载地址页](https://masuit.com/misc/5)：同 Mac 平台。
+- [吾爱破解](https://www.52pojie.cn/)
+- [软件缘](https://www.appcgn.com/)
+- [胡萝卜周](http://www.carrotchou.blog/category/windows)
+- [落尘之木](https://www.luochenzhimu.com/)
+- [奇客小栈](http://www.geekotg.com/)
 
 ### 转换格式工具
 - [Zamzar](https://www.zamzar.com/)：支持 1200 + 种格式的文件包括图片、音频和视频，大部分免费，如果需要快速及大文件需要付费，价格较贵。
@@ -468,4 +472,4 @@
 - 20200506 增加写作工具 Gramara。
 - 20200516 增加写作工具写匠，增加百度权重排名工具爱站网。
 - 20200521 增加商标和商标分类信息。
-- 20200601 增加软件下载网站。
+- 20200601 增加 Mac、Windows 软件下载网站。
