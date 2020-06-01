@@ -392,8 +392,22 @@
 - [UZER.ME云端超级应用空间](uzer.me)：包括Office的三件套，甚至包含XMind、Photoshop、Matlab等常用付费软件。界面和电脑几乎完全一样，但只能保存（有1G储存空间）而无法在线同步编辑。已用微信和手机号注册。
 - [新趣集](https://xinquji.com/)：公众号“网罗灯下黑”推荐，工具类 app 及软件的每日推荐。
 ### 软件下载
+#### Mac 平台
+- [瓜子云盘](https://yun.naodai.org/Software/)：常见 Mac 软件破解版下载，包括 PDF Expert、CleanMyMac 等有价值的软件。
+- [稀缺资源统一下载地址页](https://masuit.com/misc/5)：开发类软件和教程较多。
+- [MacStore](https://macstore.info/)：软件和游戏均有，数量取胜，建议先搜索。
+- [Mac 毒](https://www.macdo.cn/)
+- [MacWk](https://www.macwk.com/)
+- [精品 Mac 应用分享](https://xclient.info/)：部分需购买。
+- [胡萝卜周](http://www.carrotchou.blog/category/mac)
+- [下一个手游网](https://www.xia1ge.com/category/mac-software)
 - [AppShopoer](https://appshopper.com/)：了解各 APP 的价格和价格变化、历史价格，可以添加心仪的 APP，降价时有提醒。现阶段大量 APP 采用订阅制，该网站价值下降。
 - [苹果网 Mac 软件下载](http://www.pc6.com/mac/soft/)：Mac 盗版软件下载，已经很久没浏览，大概率有更好的网站。
+#### Windows 平台
+
+
+
+
 ### 转换格式工具
 - [Zamzar](https://www.zamzar.com/)：支持 1200 + 种格式的文件包括图片、音频和视频，大部分免费，如果需要快速及大文件需要付费，价格较贵。
 - [LightPDF](https://lightpdf.com/zh/)：PDF转文字和PPT、OCR等功能。轻量使用免费，重度使用价格也不贵。
@@ -454,3 +468,4 @@
 - 20200506 增加写作工具 Gramara。
 - 20200516 增加写作工具写匠，增加百度权重排名工具爱站网。
 - 20200521 增加商标和商标分类信息。
+- 20200601 增加软件下载网站。
