@@ -386,6 +386,7 @@
 - [The Learning Scientists](https://www.learningscientists.org/)：关于学习科学的理论和工具。
 ### 阅读工具
 - [Readsy](http://www.readsy.co/)：快速阅读工具。将网址复制过来，可以快速阅读。附带一个网页版小工具Spritzlet。之前上学时快速读论文很好用。
+- [白描网页版](https://web.baimiaoapp.com/)：OCR 工具，已购买普通会员版，注册邮箱 tcheng87@163.com。
 - [DeepL](https://www.deepl.com/home)：可能是最好的机器翻译。
 - [爱贝睿语音合成](https://tts.ibrainbaby.com/)：将文字转为语音，可导出mp3。可以将小说转为有声书。
 ### 软件工具
