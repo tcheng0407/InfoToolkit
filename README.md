@@ -221,6 +221,7 @@
 - [蝉大师](https://www.chandashi.com/)：获取产品版本迭代信息，查看ASO关键词、ASM投放词等信息。
 - [七麦数据（原ASO100）](https://www.qimai.cn/)：类似蝉大师，似乎互联网从业者使用七麦更多。
 - [阿拉丁指数](http://www.aldzs.com/)：全网小程观察与连接平台。
+- [SimilarWeb](https://www.similarweb.com/)：分安卓与 iOS，查看产品的排名、流量、用户画像、行业、竞品等。
 - [艾瑞数据](https://data.iresearch.com.cn/Home.shtml)：艾瑞指数了解APP或Web产品的月活、日活等信息，也可购买艾瑞睿见获取第三方监测服务。
 - [产品大牛](https://www.pmdaniu.com/)：查看产品原型文档（PRD）。
 - [极光大数据](https://www.jiguang.cn/)：需付费使用，可以搜索想要的内容+极光大数据，获取引用情况。
@@ -228,6 +229,7 @@
 ### 舆情
 - [知微事见](https://ef.zhiweidata.com/#!/index)：了解事件的热度及趋势，并可查看单个事件的传播趋势、重要渠道、词云等。
 - [Rank2traffic](http://rank2traffic.com/)：评估数百万个网站的访问量，包括历史流量、Alex 排名等。
+- [SimilarWeb](https://www.similarweb.com/)：输入网址，可评估网站流量及流量来源、领域排名、竞品网站等。
 - [Google Trends](https://trends.google.com/trends/)：选择所在区域后搜索。
 - [飞瓜数据](https://www.feigua.cn/)：短视频分析工具，寻找抖音、快手、B 站的热点视频，可按品类、按时间检索。
 - [百度指数](https://index.baidu.com/v2/index.html#/)：用于与微信指数、阿里指数等对比，也可以从不同平台趋势中发现端倪。此外，还能分析用户需求图谱，即搜这个关键词的人还会搜哪些（红色代表上升，绿色代表下降）；还能做用户人群画像分析。
@@ -479,3 +481,4 @@
 - 20200521 增加商标和商标分类信息。
 - 20200601 增加 Mac、Windows 软件下载网站。
 - 20200613 增加短视频工具飞瓜数据。
+- 20200617 增加 SimilarWeb。
