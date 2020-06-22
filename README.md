@@ -400,6 +400,11 @@
 ### 软件工具
 - [UZER.ME云端超级应用空间](uzer.me)：包括Office的三件套，甚至包含XMind、Photoshop、Matlab等常用付费软件。界面和电脑几乎完全一样，但只能保存（有1G储存空间）而无法在线同步编辑。已用微信和手机号注册。
 - [新趣集](https://xinquji.com/)：公众号“网罗灯下黑”推荐，工具类 app 及软件的每日推荐。
+### 网盘
+- [6盘](https://6pan.cn/)：免费、基本不限速、支持离线下载，但分享文件只能分享链接，已用手机号注册。
+
+
+
 ### 软件下载
 #### Mac 平台
 - [瓜子云盘](https://yun.naodai.org/Software/)：常见 Mac 软件破解版下载，包括 PDF Expert、CleanMyMac 等有价值的软件。
