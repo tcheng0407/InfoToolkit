@@ -219,7 +219,7 @@
 - [猪八戒](https://www.zbj.com/)：一站式企业外包服务平台，包括注册公司、申请专利等。
 - [专利巴巴](http://www.zlbaba.com/)：专利申请垂直服务电商。
 ### 产品
-- [Sensor Tower](https://sensortower.com/)：App 产品分析
+- [Sensor Tower](https://sensortower.com/)：App 产品分析，免费版可以基于可见度、国际化评分，并查看产品下载量和营收。付费版有更多信息。
 - [蝉大师](https://www.chandashi.com/)：获取产品版本迭代信息，查看ASO关键词、ASM投放词等信息。 
 - [七麦数据（原ASO100）](https://www.qimai.cn/)：类似蝉大师，似乎互联网从业者使用七麦更多。
 - [阿拉丁指数](http://www.aldzs.com/)：全网小程观察与连接平台。
