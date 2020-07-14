@@ -88,6 +88,7 @@
 - [Web of Science](http://webofscience.com/)：增加引文跟踪。
 - [National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/)生物医学文献检索系统，可以通过“Create alert”跟踪关键词。
 注：以上四个网站及具体操作方法来自公众号丁香学术文章：[4个方便高效的文献订阅网站，助你实时紧追最新科研热点](https://mp.weixin.qq.com/s/EKbBk2ozAzv83ZEtOI3pJQ)，可参考使用方法。
+- [领研网](https://www.linkresearcher.com/)：学术研究的最新论文及解读。
 ### 知识图谱
 - [Acemap](https://www.acemap.info/)：用于知识图谱的搜索，包括相关领域、父话题、子话题；论文地图、作者地图、作者师承关系地图；推荐作者、推荐论文。
 - [知网](https://cnki.net/)：搜索关键词后，可选中全部或部分文献，点击“计量可视化分析”生产知识图谱。
