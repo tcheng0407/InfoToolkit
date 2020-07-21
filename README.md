@@ -98,6 +98,7 @@
 #### 心理学
 - [阳志平：认知科学与心理科学优质资源索引](https://www.yangzhiping.com/info/resources.html)：大量优质信息源，待整理和分析后补充到各个板块。【待探索】
 - [Glossary of Psychology](https://www.psychology-lexicon.com/cms/)：心理学术语词典。
+- [Psychology Dictionary](https://psychologydictionary.org/)：心理学术语词典。
 #### 社会科学
 - [密歇根大学 ISPSR 社会科学数据中心](https://www.icpsr.umich.edu/icpsrweb/)：世界上最大的社会科学数据中心。涉及21个领域，如教育、老龄化、刑事司法、恐怖主义等，储存了超过50万种社会科学研究资料，包含一个拥有25万份关于研究社会和行为科学文件的档案库。提供数据搜索、数据上传和数据下载功能。
 - [中国国家调查数据库](http://www.cnsda.org/)：以“中国社会调查开放数据库（Chinese Social Survey Open Database,CSSOD)）和中国人民大学科学研究基金“数据高地项目”资助下的各项大型追踪项目和横截面调查数据为基础，数据涵盖了经济、综合、健康、社会、教育、企业、宗教、政治、科学和历史等领域。
@@ -496,4 +497,4 @@
 - 20200613 增加短视频工具飞瓜数据。
 - 20200617 增加 SimilarWeb。
 - 20200619 增加创造者日报、什么值得读。
-- 20200721 增加桥段网（tvtropes.org/）
+- 20200721 增加桥段网、心理学术语词典。
