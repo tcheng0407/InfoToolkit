@@ -365,6 +365,7 @@
 - [禁片目录](https://chinadigitaltimes.net/space/%E7%A6%81%E7%89%87%E7%9B%AE%E5%BD%95)：中国数字时代整理。
 - [片库](https://www.pianku.tv/)：支持下载和在线观看。
 - [聚BT](https://jubt.net/cn/index.html)：汇集各类 BT 下载资源，以影视、在线观看、软件为主。
+- [TV Tropes](https://tvtropes.org/)：各种电影中的桥段，把编剧从艺术变成了技术。
 - [认知科学影视索引（Cognitive Science Movie Index）](https://www.indiana.edu/~cogfilms/index.php)：阳老师推荐的认知电影清单，简单浏览了一下，比较全面但质量未必有保证。
 ### 购物
 - [阿里巴巴 1688 ](https://www.1688.com/index.html)：供给端的淘宝，购买一些小商品会更加便宜，另外可以用于淘宝比价。
@@ -494,3 +495,4 @@
 - 20200613 增加短视频工具飞瓜数据。
 - 20200617 增加 SimilarWeb。
 - 20200619 增加创造者日报、什么值得读。
+- 20200721 增加桥段网（tvtropes.org/）
