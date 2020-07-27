@@ -326,10 +326,11 @@
 
 ## 设计素材
 ### 综合素材
+- [爱给网](http://www.aigei.com/)：音乐、音效、短视频、人物素材、3D 模型、图片等综合设计资源。
 - [Free Stock Images & Videos](https://allthefreestock.com/)：整合近200个免费设计资源网站。注：点左边资源目录，不要点右下方（一些成果范例等）。
 - [比格PPT](http://www.tretars.com/)：PPT素材及模板。
 ### 设计工具
-- [稿定设计](https://www.gaoding.com)：提供设计模板，简单编辑文案可生成海报。
+- [稿定设计](https://www.gaoding.com)：提供设计模板，简单编辑文案可生成海报，可使用[稿定抠图](https://www.gaoding.com/koutu)，AI 抠图，需付费。
 - [ProcessOn在线作图](www.processon.com)：流程图、思维导图、线框图、原型图等。 
 - [Paletton](http://paletton.com/)：配色工具，运用设计原理选择合适的主体色和配色。
 ### 图标
@@ -340,6 +341,11 @@
 - [Human pictogram](http://pictogram2.com/)：火柴人图标，适合动作类，支持日文和英文检索。
 - [IcoFont](https://icofont.com/)：国外网站，较多品牌图标。
 - [60logo](60logo.com)：国内logo网站，需要关注公众号可下载。
+### 字体
+-[字由](https://www.hellofont.cn/home)：根据场景添加筛选条件（如语言、字体风格、粗细、是否能商用等），选择字体。
+-[求字体网](http://www.qiuziti.com/)：根据图片搜索对应字体。
+-[360 查字体](https://fonts.safe.360.cn/)：查看已安装的字体是否能商用。
+
 ### 图表
 - [Visual Paradigm](https://online.visual-paradigm.com/cn/)：在线图表绘制，高阶图表需要付费订阅，目前未订阅。
 ### 图片资源
@@ -500,3 +506,4 @@
 - 20200617 增加 SimilarWeb。
 - 20200619 增加创造者日报、什么值得读。
 - 20200721 增加桥段网、心理学术语词典、搜狗翻译。
+- 20200727 增加设计素材、字体等设计资源网站。
