@@ -441,6 +441,7 @@
 - [胡萝卜周](http://www.carrotchou.blog/category/windows)
 - [落尘之木](https://www.luochenzhimu.com/)
 - [奇客小栈](http://www.geekotg.com/)
+- [果核剥壳](https://www.ghpym.com/)：“网罗灯下黑”推荐的 Windows 和 Android 平台破解软件下载。
 
 ### 转换格式工具
 - [Zamzar](https://www.zamzar.com/)：支持 1200 + 种格式的文件包括图片、音频和视频，大部分免费，如果需要快速及大文件需要付费，价格较贵。
