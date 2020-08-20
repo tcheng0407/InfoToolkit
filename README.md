@@ -295,8 +295,7 @@
 
 ## 新闻资讯
 ### 新闻网站
-
--[中国数字时代](https://chinadigitaltimes.net/chinese/)：被 404 的和值得看的。
+- [中国数字时代](https://chinadigitaltimes.net/chinese/)：被 404 的和值得看的。
 ### 社交媒体
 - [今日热榜](https://tophub.today/)：聚集微信、微博、抖音、知乎、36氪、虎嗅等主流社交媒体的当天热榜文章。
 
@@ -342,9 +341,9 @@
 - [IcoFont](https://icofont.com/)：国外网站，较多品牌图标。
 - [60logo](60logo.com)：国内logo网站，需要关注公众号可下载。
 ### 字体
--[字由](https://www.hellofont.cn/home)：根据场景添加筛选条件（如语言、字体风格、粗细、是否能商用等），选择字体。
--[求字体网](http://www.qiuziti.com/)：根据图片搜索对应字体。
--[360 查字体](https://fonts.safe.360.cn/)：查看已安装的字体是否能商用。
+- [字由](https://www.hellofont.cn/home)：根据场景添加筛选条件（如语言、字体风格、粗细、是否能商用等），选择字体。
+- [求字体网](http://www.qiuziti.com/)：根据图片搜索对应字体。
+- [360 查字体](https://fonts.safe.360.cn/)：查看已安装的字体是否能商用。
 
 ### 图表
 - [Visual Paradigm](https://online.visual-paradigm.com/cn/)：在线图表绘制，高阶图表需要付费订阅，目前未订阅。
