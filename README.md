@@ -234,6 +234,9 @@
 - [产品大牛](https://www.pmdaniu.com/)：查看产品原型文档（PRD）。
 - [极光大数据](https://www.jiguang.cn/)：需付费使用，可以搜索想要的内容+极光大数据，获取引用情况。
 - [Product Hunt](https://www.producthunt.com/)：新产品的追踪与介绍。
+### 商品
+- [生意参谋](beta.sycm.taobao.com)：阿里巴巴电商数据，需要开店铺后打开。可查询品类中各品牌商品，也可查询某品牌的全部产品线等。
+
 ### 舆情
 - [知微事见](https://ef.zhiweidata.com/#!/index)：了解事件的热度及趋势，并可查看单个事件的传播趋势、重要渠道、词云等。
 - [Rank2traffic](http://rank2traffic.com/)：评估数百万个网站的访问量，包括历史流量、Alex 排名等。
