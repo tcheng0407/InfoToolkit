@@ -43,6 +43,7 @@
 - [ZapMeta](https://www.zapmeta.com/)
 - [All in One](https://all-io.net/)
 ### 垂直搜索
+- [The Pirate Bay](https://thepiratebay.org/index.html)：海盗湾，盗版资源共享网站，有电影、音乐、有声书、电子书等资源。
 - [如风搜](http://www.rufengso.net/)：原盘多多，搜索百度网盘中的公开资源。
 ### 搜索工具
 - [Google Ngram Viewer](https://books.google.com/ngrams)：了解一个词在某个时代的热度及其变化趋势。Google扫描了所有出版物（以英文为主，截至2008年），并将出版物中的词频进行统计与分析。
