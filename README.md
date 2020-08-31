@@ -107,6 +107,8 @@
 - [中国国家调查数据库](http://www.cnsda.org/)：以“中国社会调查开放数据库（Chinese Social Survey Open Database,CSSOD)）和中国人民大学科学研究基金“数据高地项目”资助下的各项大型追踪项目和横截面调查数据为基础，数据涵盖了经济、综合、健康、社会、教育、企业、宗教、政治、科学和历史等领域。
 #### 经济学
 - [The Library of Economics and Liberty](https://www.econlib.org/)：经济学论文、书籍，经济学家生平及学术介绍。
+#### 人工智能
+- [Aminer](https://www.aminer.cn/)：人工智能领域论文、专家、会议、资讯、历史等汇总。
 ### 致敬大神
 - [Herbert Simon Collection](http://diva.library.cmu.edu/simon/)：CMU公开的赫伯特·西蒙的所有论文、资料合集。点击“Access”跳转至资源。
 
@@ -512,3 +514,4 @@
 - 20200619 增加创造者日报、什么值得读。
 - 20200721 增加桥段网、心理学术语词典、搜狗翻译。
 - 20200727 增加设计素材、字体等设计资源网站。
+- 20200831 增加盗版共享网站 The Pirate Bay、人工智能信息集成网站 Aminer。
