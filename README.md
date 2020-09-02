@@ -304,6 +304,8 @@
 - [中国数字时代](https://chinadigitaltimes.net/chinese/)：被 404 的和值得看的。
 ### 社交媒体
 - [今日热榜](https://tophub.today/)：聚集微信、微博、抖音、知乎、36氪、虎嗅等主流社交媒体的当天热榜文章。
+### 富媒体
+- [BiliOB 观测者](https://www.biliob.com/)：B 站的最新最火视频，UP 主信息，关键词信息等。
 
 ### 检查新闻真实性
 - [Fact Checks Archive](https://www.snopes.com/fact-check/)：检索英文世界新闻的真实性。
