@@ -165,9 +165,10 @@
 - [山东省图书馆佛经数据库](http://www.sdlib.com/channels/ch00762/)：佛经数据库，用户名密码均为“fojing”，可浏览全文影像。
 - [中正文教基金会-研究平台](http://www.ccfd.org.tw/ccef001/index.php?option=com_content&view=category&id=74&Itemid=201)：含《总统蒋公大事长编初稿》《总统蒋公思想言论总集》《民国十五年前蒋介石》《蒋夫人宋美龄女士言论选集》《蒋中正总统五记》等文献的文字索引。
 - [域外汉籍](http://www.qdlib.com.cn:803/index.aspx)：有书籍介绍、作者介绍、版本信息、收藏机构等，无书籍内容索引或影印。
-### 历史地理工具
+### 工具
 - [太史古卷](http://hisgeomap.com/)：输入年代和地名，可以看到该年的区域信息。非常好用，优点是有地形，缺点是区域没有画边界线。
 - [发现中国-地图分享知识](https://www.ageeye.cn/)：集结历史地理类公众号资源，好处是可以搜索出对应区域或时期地图，与前者相比，缺少连贯性。
+- [历史车轮](https://www.lishichelun.com/wheel)：查一个年份下历史人物的年龄。
 ### 专题史
 - [Medievalists.net](https://www.medievalists.net/)：中世纪历史相关资料汇编。
 ---
