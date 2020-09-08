@@ -309,7 +309,12 @@
 - [BiliOB 观测者](https://www.biliob.com/)：B 站的最新最火视频，UP 主信息，关键词信息等。
 
 ### 检查新闻真实性
-- [Fact Checks Archive](https://www.snopes.com/fact-check/)：检索英文世界新闻的真实性。
+- [Snopes.com](https://www.snopes.com/)：检查英文世界新闻真实性。
+- [Snopes Fact Checks Archive](https://www.snopes.com/fact-check/)：检索英文世界新闻真实性，归档。
+- [FactCheck.org](https://www.factcheck.org/)：新闻真实性核实。
+- [Media Bias/Fact Check](https://mediabiasfactcheck.com/)：可以看到主要媒体的倾向选。
+- [PolitiFact](https://www.politifact.com/)：政治人物的言论真实性核实，如 Trump 的 Twitter，视觉效果较好。
+
 ### 媒体研究
 - [新闻实验室公众号文章汇总](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)：该账户所有境内社交媒体被封，此网站可查看新闻实验室过往公众号文章。来自方可成被封后的说明。
 
@@ -518,3 +523,5 @@
 - 20200721 增加桥段网、心理学术语词典、搜狗翻译。
 - 20200727 增加设计素材、字体等设计资源网站。
 - 20200831 增加盗版共享网站 The Pirate Bay、人工智能信息集成网站 Aminer。
+- 20200908 增加新闻真实性核实网站。
+
