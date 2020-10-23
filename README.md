@@ -256,6 +256,10 @@
 - [搜狗指数](http://index.sogou.com/)
 - [微信指数]()：在微信小程序中打开，基于微信数据，最多只能查看90天。
 - [微指数](https://data.weibo.com/index)：微博指数，目前网页端无法使用，需下载APP。
+- [accountanalysis](https://accountanalysis.app/)：推特（Twitter）账号分析，包括活跃时间、使用设备、标签、互相转载、推文分析等。
+- [Politwoops](https://www.politwoops.com/)：查找政治人物已删除的推文，即删除时间。
+- [First Tweet](http://ctrlq.org/first/)：输入关键词，查找提及该词最早的推文。
+
 ### SEO 与 ASO
 - [爱站网](https://www.aizhan.com/)：查询百度权重排名。来自生财有术的使用方法：检索哪些知乎的问题回答在百度搜索中排名靠前，寻找套利机会。
 
@@ -524,4 +528,5 @@
 - 20200727 增加设计素材、字体等设计资源网站。
 - 20200831 增加盗版共享网站 The Pirate Bay、人工智能信息集成网站 Aminer。
 - 20200908 增加新闻真实性核实网站。
+- 20201022 增加推特分析相关工具。
 
