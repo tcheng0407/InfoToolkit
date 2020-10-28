@@ -356,6 +356,7 @@
 - [FlatIcon](www.flaticon.com):秋叶六星推荐，顾名思义以扁平类图标为主，可单个也可全套下载。另外可通过[图标平铺](https://pattern.flaticon.com/)进入背景平铺的功能，用于设计壁纸。
 - [Flat icon design](http://flat-icon-design.com/?paged=2)：日式扁平风格图标下载，数量约500个，全部免费可商用，可编辑。
 - [Human pictogram](http://pictogram2.com/)：火柴人图标，适合动作类，支持日文和英文检索。
+- [Iconshock](https://www.iconshock.com/)：二百万图标，大量手机 APP 图标下载，可调整颜色和风格（用于 iOS 14 自编辑桌面）。
 - [IcoFont](https://icofont.com/)：国外网站，较多品牌图标。
 - [60logo](60logo.com)：国内logo网站，需要关注公众号可下载。
 ### 字体
