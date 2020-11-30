@@ -369,6 +369,7 @@
 ### 图片资源
 - [Gallerix](https://gallerix.asia/)：各大博物馆中的世界名画，可下载。
 - [日本四大国立博物馆库](https://colbase.nich.go.jp/?locale=ja)：东京、京都、奈良、九州四大国立博物馆，高清图片，可免费下载。
+- [正仓院](https://shosoin.kunaicho.go.jp/)：正仓院藏品、文书检索，可用壹伴云笔记保存图片。
 - [Unsplash](https://unsplash.com/)：免费的大图，可根据主题和对象搜索，质量很高。
 - [Pexels](https://www.pexels.com/)：免费图片，可搜索。
 - [Dynamic Wallpaper Club](https://dynamicwallpaper.club/)：MacOS 动态壁纸。
