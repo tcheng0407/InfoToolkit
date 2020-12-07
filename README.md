@@ -413,14 +413,16 @@
 - [Roam Research](https://roamresearch.com/)：便于视觉化的笔记工具，方便引用及建立笔记之间的超链接，适合学科研究使用。已注册，现阶段免费。
 - [写匠（原始版）](https://aiwriter.cn/home)：开智公司旗下，基于人工智能与认知科学的中文写作辅助工具，用于修改错别字，并根据古典风格和广告法修改。
 - [写匠金句](https://jinju.aiwriter.cn/)：来自张爱玲、王小波等伟大作家的金句，也有部分网友收集。小技巧：使用情绪词汇（喜悦、感激、宁静、兴趣、希望、自豪、逗趣、激励、敬佩、爱；悲伤、忧郁、愤怒、厌倦、空虚、恐惧、绝望、冷漠、抗拒、恨）和具体意象（星星、大海、沙漠；美女、野兽、婴儿；春夏秋冬、虫鸣鸟叫、风霜雨雪）查找。
-- [百度汉语](https://dict.baidu.com/)：查词语意思，可查同义词、反义词等。可以根据意思或结构查成语（注意语法）。
 - [Gramara](https://app.gramara.com/)：基于人工智能的英文写作工具，包括语法改错、用词建议等。已用 Google 账号注册，每月 1000 字英文的免费额度。
 - [秘塔写作猫](https://xiezuocat.com/#/)：修改错别字和语法建议，有一定免费额度。
 - [去除文本中所有空格](http://www.txttool.com/wenben_alltrim.asp)：去掉OCR之后产生的空格，注意补回英文空格。
 - [Tables Generator](http://tablesgenerator.com/markdown_tables)：生成 Markdown 等格式的表格，不需手动输入。
+- [Workflowy](https://workflowy.com/)：在线树状结构及思维导图工具，类似幕布。
+### 写作素材
+- [A-Z Quotes](https://www.azquotes.com/)：最大的英文名言库，收录了55000人的130万条名言。可按照主题、人物、情绪检索，另有最常引用名言、每日名言和名言配图等工具。
+- [百度汉语](https://dict.baidu.com/)：查词语意思，可查同义词、反义词等。可以根据意思或结构查成语（注意语法）。
 - [微词云](https://www.weiciyun.com/)：生成有设计感的词云，可插入图片或按照形状生成词云。
 - [纽扣词云](http://cloud.niucodata.com/)：词性分类、词频统计、词云图。
-- [Workflowy](https://workflowy.com/)：在线树状结构及思维导图工具，类似幕布。
 - [古诗文网](https://www.gushiwen.org/)：找古诗句用。
 - [句子汇](http://www.juzih.com/)：搜优美句子，有意思的地方在于，可以自动找到类似句子。
 - [印象笔记Mac版快捷键](https://help.yinxiang.com/hc/articles/63059?api_name=)：学会使用一些快捷键，如cmd+J。
@@ -531,4 +533,5 @@
 - 20200831 增加盗版共享网站 The Pirate Bay、人工智能信息集成网站 Aminer。
 - 20200908 增加新闻真实性核实网站。
 - 20201022 增加推特分析相关工具。
+- 20201207 将写作工具分拆出“素材工具”，增加 A-Z Quotes 名人名言。
 
