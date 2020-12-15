@@ -133,7 +133,7 @@
 - [猫师的小书屋](https://gd.maobot.workers.dev/)：社科类图书，港台和大陆书籍均有，需要好好研究一下目录。
 - [epubee](http://cn.epubee.com/)：一个神奇的网站，宣称是电子书格式转化，但资源海量，格式齐全。已充值十年会员（ID：29269736，仅59.99元），可以直接推送到kindle上。作为小书屋更好的替代品。
 - [Library Genesis](http://gen.lib.rus.ec/)：最知名的免费英文书下载网站，经常被封。老毛子真是美帝一世之敌，只有这件事要感谢毛子。[备用链接1](http://libgen.io/)、[备用链接2](http://libgen.is/)
-- [Zlibrary](https://b-ok.cc/)：搜索引擎，以英文为主，也可搜索中文书籍，全免费，试用了一下，新书pdf找不到，老书pdf或新老书文字版都较方便找到。发现很多港台版的书能找到，真是个宝藏网站。已注册 tcheng0407@gmail.com。
+- [Zlibrary](https://b-ok.cc/)：搜索引擎，以英文为主，也可搜索中文书籍，全免费，试用了一下，新书pdf找不到，老书pdf或新老书文字版都较方便找到。发现很多港台版的书能找到，真是个宝藏网站。已注册 tcheng0407@gmail.com。墙内可看[Zlibrary](https://1lib.net/)。
 - [ACLS Humanities E-Book](https://www.humanitiesebook.org/)：人文学科电子书，目前只有 5000 多本，但都来自学者推荐，很多是独家。需要北大或密歇根大学账号登录下载。可以作为推荐书目清单，需要时可找人下载。
 - [得到 Web 版本](https://www.biji.com/)：全部已购课程便于用印象笔记收藏。考虑购入电子书会员。
 - [鸠摩搜索](https://www.jiumodiary.com/)：电子书搜索引擎，主要用于找文字格式的电子书，扫描pdf不多。
