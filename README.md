@@ -212,6 +212,13 @@
 - [艾瑞网](https://www.iresearch.cn/)：互联网行业的报告，以咨询为主。
 - [Frost Sullivan](https://ww2.frost.com/)：咨询公司沙利文首页。搜索行业的市场份额时，可尝试搜索“沙利文 市场份额/市场占有率 X行业”。
 - [国务院发展研究中心-调研报告](http://www.drc.gov.cn/dcyjbg/)：官方调查，可以搜索获得行业报告，但有些报告只提供摘要，可以去对应的发文处搜索。
+### 商业模式与案例
+- [Starter Stroy](https://www.starterstory.com/)：海外的“生财有术”，每周会员费 $2-3。
+- [生财有术知识星球](https://wx.zsxq.com/dweb2/index/group/1824528822)：年费约 2500 元。
+
+
+
+
 ### 人物
 - [TruthFinder.com](https://www.truthfinder.com/)：海外背调网站，可以查询人物的基本信息、房产信息、职业信息等。
 - [SmartBackgroundChecks](http://smartbackgroundchecks.com/)：海外背调网站，墙内似乎无法使用。
@@ -536,3 +543,4 @@
 - 20201022 增加推特分析相关工具。
 - 20201207 将写作工具分拆出“素材工具”，增加 A-Z Quotes 名人名言。
 - 20201217 增加 Our World in Data。
+- 20210129 增加 Starter Story、生财有术。
