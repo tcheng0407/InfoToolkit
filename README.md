@@ -225,6 +225,13 @@
 - [福布斯榜单](https://www.forbes.com/lists/list-directory/)：人物、公司、地点榜单，重点关注30 Under 30、The Midas List（年度最佳创投人）等。
 - [GitHub万人以上关注用户榜单](https://github.com/search?utf8=%E2%9C%93&q=followers%3A%3E%3D10000&type=Users)：发现优质程序员。
 - [清科研究中心历年榜单](https://www.pedata.cn/topranking/index.html)：投资界榜单，略有参考价值。
+- 以下几个网站，来自丁爸的微信公众号文章[【技巧】跨越多个平台跟踪社交媒体用户](https://mp.weixin.qq.com/s/DhHT_ipUXH3b1Dwfvvt8rg)，方法是，核查该用户名在各大社交网站上是否已被注册，但注册者是否是本人，本人是否用该注册名，无法核对，因此可能只适合核查外国名人。
+    - [Username Search](https://usersearch.org/)
+    - [Spokeo](https://www.spokeo.com/)：需付费使用。
+    - [Name Vine](https://namevine.com/)
+    - [Name Checkr](https://www.namecheckr.com/)
+    - [Knowem](https://knowem.com/)
+    - [CheckUsernames](https://checkusernames.com/)
 - [CCTV中国经济年度人物](https://baike.baidu.com/item/CCTV%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9)：奖项为2001-2013年度，对最新商业信息了解作用不大，很可能有政治色彩。
 ### 商标/品牌/专利
 - [中国专利局-专利检索与分析](http://pss-system.cnipa.gov.cn/)：权威信息，构建检索式高级检索更有效。
@@ -544,3 +551,4 @@
 - 20201207 将写作工具分拆出“素材工具”，增加 A-Z Quotes 名人名言。
 - 20201217 增加 Our World in Data。
 - 20210129 增加 Starter Story、生财有术。
+- 20210201 增加跨越平台跟踪社交媒体用户的工具。
