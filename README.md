@@ -372,12 +372,20 @@
 ### 图标
 - [Iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn)：阿里牵头的国产图标库，有设计师不断添加内容。
 - [EasyIcon](https://www.easyicon.net/)；秋叶六星推荐的图标网站，更新速度快，下载速度快。
-- [FlatIcon](www.flaticon.com):秋叶六星推荐，顾名思义以扁平类图标为主，可单个也可全套下载。另外可通过[图标平铺](https://pattern.flaticon.com/)进入背景平铺的功能，用于设计壁纸。
+- [FlatIcon](https://www.flaticon.com):秋叶六星推荐，顾名思义以扁平类图标为主，可单个也可全套下载。另外可通过[图标平铺](https://pattern.flaticon.com/)进入背景平铺的功能，用于设计壁纸。
 - [Flat icon design](http://flat-icon-design.com/?paged=2)：日式扁平风格图标下载，数量约500个，全部免费可商用，可编辑。
 - [Human pictogram](http://pictogram2.com/)：火柴人图标，适合动作类，支持日文和英文检索。
 - [Iconshock](https://www.iconshock.com/)：二百万图标，大量手机 APP 图标下载，可调整颜色和风格（用于 iOS 14 自编辑桌面）。
 - [IcoFont](https://icofont.com/)：国外网站，较多品牌图标。
-- [60logo](60logo.com)：国内logo网站，需要关注公众号可下载。
+- [60logo](https://www.60logo.com/)：国内logo网站，需要关注公众号可下载。
+### 插画
+内容来自[南京路大表哥：8个免费插画网站，3分钟快速get插画风数据图](https://mp.weixin.qq.com/s?__biz=Mzg4MDMzMDM5Ng==&mid=2247490353&idx=1&sn=e526e3132136ada01d21c94c9b94f4af&chksm=cf7788c2f80001d4a7d71f0beb7a4d98add13129ed0409a7cabd3d5685e3e91ddfa753b88726&scene=21#wechat_redirect)
+- [manypixels ](https://www.manypixels.co/gallery/)：插画风格分为单色图、无透视三维图、双色图和线性扁平风。素材场景非常丰富，办公、社交、支付、学习等常见场景都可以找到很多实用的插画。调整页面右边的调色板，一键换色，再点击图片，就可以下载PNG或者SVG格式。
+- [Vector Creator](https://icons8.com/vector-creator/new)：一共有3000+元素，可以自选网站的元素进行搭配，同时也支持上传图片。素材库包括人物、动物、植物、小物件、背景等元素，选择元素以后可以对其做换色、缩放、镜像对称等处理，美中不足是默认字体里没有中文字体。下载PNG格式是免费的。
+- [Delesign](https://delesign.com/free-designs/graphics)：和 manypixels 类似。页面上方可以选择配色。并且支持搜索，工作场景的插画比较多，非常适合作为PPT和数据图表的插图，支持PNG和SVG格式。
+- [unDraw](https://undraw.co/illustrations)：画风比较简约，纯色风，适合偏商务的场景应用。页面右上角可以更改配色，可以下载PNG和SVG格式。
+- [Free Illustrations](https://freeillustrations.xyz/)：免费插画图库集合，网站按文件类型对插画进行了归类。优点是收录的插画风格各异，基本上能满足各种需求。
+
 ### 字体
 - [字由](https://www.hellofont.cn/home)：根据场景添加筛选条件（如语言、字体风格、粗细、是否能商用等），选择字体。
 - [求字体网](http://www.qiuziti.com/)：根据图片搜索对应字体。
@@ -559,4 +567,4 @@
 - 20201217 增加 Our World in Data。
 - 20210129 增加 Starter Story、生财有术。
 - 20210201 增加跨越平台跟踪社交媒体用户的工具。
-- 20210204 增加数据可视化工具和地图工具。
+- 20210204 增加数据可视化工具和地图工具；增加插画类素材。
