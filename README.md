@@ -365,6 +365,10 @@
 - [稿定设计](https://www.gaoding.com)：提供设计模板，简单编辑文案可生成海报，可使用[稿定抠图](https://www.gaoding.com/koutu)，AI 抠图，需付费。
 - [ProcessOn在线作图](www.processon.com)：流程图、思维导图、线框图、原型图等。 
 - [Paletton](http://paletton.com/)：配色工具，运用设计原理选择合适的主体色和配色。
+### 数据可视化
+- [Charticulator](https://charticulator.com/app/index.html)：生成变形、好看的柱状图。
+- [Kepler](https://kepler.gl/)：在线地图可视化平台。
+
 ### 图标
 - [Iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn)：阿里牵头的国产图标库，有设计师不断添加内容。
 - [EasyIcon](https://www.easyicon.net/)；秋叶六星推荐的图标网站，更新速度快，下载速度快。
@@ -388,6 +392,8 @@
 - [Unsplash](https://unsplash.com/)：免费的大图，可根据主题和对象搜索，质量很高。
 - [Pexels](https://www.pexels.com/)：免费图片，可搜索。
 - [Dynamic Wallpaper Club](https://dynamicwallpaper.club/)：MacOS 动态壁纸。
+- [标准地图服务系统](http://bzdt.ch.mnr.gov.cn/index.html)：可以找到国家、省级、市级地图。
+- [阿里云地图选择器](http://datav.aliyun.com/tools/atlas/)：可找到县级、区级地图，可以下载 geojson 格式用于 kepler 等可视化操作。
 ### 图床
 - [路过图床](https://imgchr.com/)：国内图床，简单方便，已注册账号tcheng。
 - [Simple Free Image Hosting](https://sm.ms/)：海外图床，界面简单，限制较少。
@@ -436,6 +442,7 @@
 ### 写作素材
 - [A-Z Quotes](https://www.azquotes.com/)：最大的英文名言库，收录了55000人的130万条名言。可按照主题、人物、情绪检索，另有最常引用名言、每日名言和名言配图等工具。
 - [百度汉语](https://dict.baidu.com/)：查词语意思，可查同义词、反义词等。可以根据意思或结构查成语（注意语法）。
+- [WordArt.com](https://wordart.com/)：全球最常用的词云生成网站，使用英文更方便，中文需要额外导入字体。
 - [微词云](https://www.weiciyun.com/)：生成有设计感的词云，可插入图片或按照形状生成词云。
 - [纽扣词云](http://cloud.niucodata.com/)：词性分类、词频统计、词云图。
 - [古诗文网](https://www.gushiwen.org/)：找古诗句用。
@@ -552,3 +559,4 @@
 - 20201217 增加 Our World in Data。
 - 20210129 增加 Starter Story、生财有术。
 - 20210201 增加跨越平台跟踪社交媒体用户的工具。
+- 20210204 增加数据可视化工具和地图工具。
