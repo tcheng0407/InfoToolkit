@@ -45,6 +45,8 @@
 ### 垂直搜索
 - [The Pirate Bay](https://thepiratebay.org/index.html)：海盗湾，盗版资源共享网站，有电影、音乐、有声书、电子书等资源。
 - [如风搜](http://www.rufengso.net/)：原盘多多，搜索百度网盘中的公开资源。
+- [imgops](http://imgops.com/)：综合图像挖掘和编辑工具，整合了谷歌、必应、tineye、reddit、yandex、baidu、so.com、sogou等多种图像反查工具，可上传一张图片点击不同的工具进行反查。另外还整合了编辑工具、exif信息查看工具、GIF制作工具、优化工具、转换工具等多种图像在线处理工具。
+
 ### 搜索工具
 - [Google Ngram Viewer](https://books.google.com/ngrams)：了解一个词在某个时代的热度及其变化趋势。Google扫描了所有出版物（以英文为主，截至2008年），并将出版物中的词频进行统计与分析。
 - [Wolfram|Alpha](https://www.wolframalpha.com/)：非常实用的数学计算工具，可以输入算式直接解方程、不等式；绘制数学图表；也可以搜索自然科学、社会科学等相关人名、背景知识等。
@@ -410,6 +412,12 @@
 - [TinyPNG图片压缩](https://tinypng.com/)：图片压缩神器，单张图片最大5M。
 - [Bigjpg图片智能放大](http://bigjpg.com/)：图片放大神器，单张最多支持10M，放大四倍，提供安装包工具。
 - [图虫EXIF信息查看器](https://exif.tuchong.com/)：查看照片的exif信息，如拍摄时间、拍摄地点、拍摄设备等。
+- [对比人脸相似度-Microsoft Azure](https://azure.microsoft.com/en-au/services/cognitive-services/face/)
+- [对比人脸相似度-kairos](https://www.kairos.com/demos)
+- [图像差异比对](https://www.diffchecker.com/image-diff/)：输入两个图像比较图片或其他图像之间的差异。
+- [blurity](https://www.blurity.com/)：使用军事级别的“盲反卷积”技术，blurity使模糊的照片和文字变得清晰。
+
+
 ---
 ## 生活类信息
 ### 医疗类
@@ -568,3 +576,7 @@
 - 20210129 增加 Starter Story、生财有术。
 - 20210201 增加跨越平台跟踪社交媒体用户的工具。
 - 20210204 增加数据可视化工具和地图工具；增加插画类素材。
+- 20210222 增加图片对比和模糊处理工具。
+
+- [聚BT](https://jubt.net/cn/index.html)：汇集各类 BT 下载资源，以影视、在线观看、软件为主。
+- [聚BT](https://jubt.net/cn/index.html)：汇集各类 BT 下载资源，以影视、在线观看、软件为主。
