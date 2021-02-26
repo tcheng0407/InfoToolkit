@@ -113,6 +113,7 @@
 - [Aminer](https://www.aminer.cn/)：人工智能领域论文、专家、会议、资讯、历史等汇总。
 ### 致敬大神
 - [Herbert Simon Collection](http://diva.library.cmu.edu/simon/)：CMU公开的赫伯特·西蒙的所有论文、资料合集。点击“Access”跳转至资源。
+- [Nassim Taleb](https://fs.blog/intellectual-giants/nassim-taleb/)
 
 ---
 
@@ -532,6 +533,7 @@
 - [维基百科:更优秀条目写作指南](https://zh.wikipedia.org/wiki/Wikipedia:%E6%9B%B4%E4%BC%98%E7%A7%80%E6%9D%A1%E7%9B%AE%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97)：如何更清晰、更科学、更客观地写作。
 - [安人集团协作基础技能清单](https://github.com/OpenMindClub/Share/wiki/IdxCooperateBasicSkill)：闪闪写的清单，可以找到可靠的信息源与工具，右边sidebar有很多清单和工具。
 - [太息燕然：桓大司马博客](http://blog.sina.com.cn/huandasima)：桓大司马早期博客，虽已停止更新，但之前文章部分仍有价值。
+- [Farnam Street](https://fs.blog/)：需要付费，$100 每年。
 
 ---
 
