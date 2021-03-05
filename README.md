@@ -264,6 +264,7 @@
 - [Rank2traffic](http://rank2traffic.com/)：评估数百万个网站的访问量，包括历史流量、Alex 排名等。
 - [SimilarWeb](https://www.similarweb.com/)：输入网址，可评估网站流量及流量来源、领域排名、竞品网站等。
 - [Google Trends](https://trends.google.com/trends/)：选择所在区域后搜索。
+- [勾股大数据舆情监控系统](https://pr.gogudata.com/)：格隆汇研发的舆情监测系统，发现舆情与当日股票走势相关。使用方法见[这里](https://www.gogudata.com/article/detail?id=23)。
 - [飞瓜数据](https://www.feigua.cn/)：短视频分析工具，寻找抖音、快手、B 站的热点视频，可按品类、按时间检索。
 - [百度指数](https://index.baidu.com/v2/index.html#/)：用于与微信指数、阿里指数等对比，也可以从不同平台趋势中发现端倪。此外，还能分析用户需求图谱，即搜这个关键词的人还会搜哪些（红色代表上升，绿色代表下降）；还能做用户人群画像分析。
 - [阿里指数-1688](https://index.1688.com/)：了解不同商品的热度，支持关键词查询。
@@ -482,6 +483,8 @@
 
 
 
+
+
 ### 软件下载
 #### Mac 平台
 - [瓜子云盘](https://yun.naodai.org/Software/)：常见 Mac 软件破解版下载，包括 PDF Expert、CleanMyMac 等有价值的软件。
@@ -580,6 +583,5 @@
 - 20210201 增加跨越平台跟踪社交媒体用户的工具。
 - 20210204 增加数据可视化工具和地图工具；增加插画类素材。
 - 20210222 增加图片对比和模糊处理工具。
+- 20210305 增加勾股大数据舆情监控系统。
 
-- [聚BT](https://jubt.net/cn/index.html)：汇集各类 BT 下载资源，以影视、在线观看、软件为主。
-- [聚BT](https://jubt.net/cn/index.html)：汇集各类 BT 下载资源，以影视、在线观看、软件为主。
