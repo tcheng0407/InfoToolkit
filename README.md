@@ -461,6 +461,7 @@
 - [搜韵](https://sou-yun.cn/)：几乎可以搜到从《诗经》到晚清的所有古诗词，支持指定条件检索。提供“律诗校验”和“词格校验”的功能，把写的诗粘贴进去，可以告诉你哪几个字的平仄、格律错了。
 - [Gramara](https://app.gramara.com/)：基于人工智能的英文写作工具，包括语法改错、用词建议等。已用 Google 账号注册，每月 1000 字英文的免费额度。
 - [秘塔写作猫](https://xiezuocat.com/#/)：修改错别字和语法建议，有一定免费额度。
+- [句易网](http://www.ju1.cn/)：微信公众号文章敏感词排查。
 - [去除文本中所有空格](http://www.txttool.com/wenben_alltrim.asp)：去掉OCR之后产生的空格，注意补回英文空格。
 - [Tables Generator](http://tablesgenerator.com/markdown_tables)：生成 Markdown 等格式的表格，不需手动输入。
 - [Workflowy](https://workflowy.com/)：在线树状结构及思维导图工具，类似幕布。
@@ -595,3 +596,4 @@
 - 20210305 增加勾股大数据舆情监控系统。
 - 20210331 增加维基语录。
 - 20210415 从李天飞的文章中增加汉典、国学迷等国学古籍查询网站。
+- 20210521 增加敏感词排查句易网。
