@@ -222,7 +222,7 @@
 ### 商业模式与案例
 - [Starter Stroy](https://www.starterstory.com/)：海外的“生财有术”，每周会员费 $2-3。
 - [生财有术知识星球](https://wx.zsxq.com/dweb2/index/group/1824528822)：年费约 2500 元。
-
+- [生财有术索引工具](http://search.shengcaiyoushu.com/)：可按照关键词搜索内容，需登录知识星球。
 
 
 
