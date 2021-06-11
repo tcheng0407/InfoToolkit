@@ -136,7 +136,7 @@
 - [无产阶级图书馆](http://45.32.41.3/My_library_table.php)：好书很多，各种类型，新书很快，五星级推荐。需要科学上网。注：此网站主页有一些社科类资料导览。
 - [Zlibrary](https://b-ok.cc/)：搜索引擎，以英文为主，也可搜索中文书籍，全免费，试用了一下，新书pdf找不到，老书pdf或新老书文字版都较方便找到。发现很多港台版的书能找到，真是个宝藏网站。已注册 tcheng0407@gmail.com。墙内可看[Zlibrary](https://1lib.net/)。
 - [Library Genesis](http://gen.lib.rus.ec/)：最知名的免费英文书下载网站，经常被封。老毛子真是美帝一世之敌，只有这件事要感谢毛子。[备用链接1](http://libgen.io/)、[备用链接2](http://libgen.is/)
-- [IReed](http://www.iread.cf/)：epubee 倒闭后找到的替代品，书总量挺多，每天可免费下载 3 本。
+- [IRead](http://www.iread.cf/)：epubee 倒闭后找到的替代品，书总量挺多，每天可免费下载 3 本。
 - [猫师的小书屋](https://gd.maobot.workers.dev/)：社科类图书，港台和大陆书籍均有，需要好好研究一下目录。
 - [epubee](http://cn.epubee.com/)：一个神奇的网站，宣称是电子书格式转化，但资源海量，格式齐全。已充值十年会员（ID：29269736，仅59.99元），可以直接推送到kindle上。作为小书屋更好的替代品。（该网站域名会更换，现域名：[OBook](http://www.obook.vip/books/)，或微信公众号“阅然书友会”查看最新网址。）2021 年 5 月底开始，无法正常使用。
 - [ACLS Humanities E-Book](https://www.humanitiesebook.org/)：人文学科电子书，目前只有 5000 多本，但都来自学者推荐，很多是独家。需要北大或密歇根大学账号登录下载。可以作为推荐书目清单，需要时可找人下载。
