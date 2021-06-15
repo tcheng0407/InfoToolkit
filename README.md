@@ -177,6 +177,8 @@
 - [太史古卷](http://hisgeomap.com/)：输入年代和地名，可以看到该年的区域信息。非常好用，优点是有地形，缺点是区域没有画边界线。
 - [发现中国-地图分享知识](https://www.ageeye.cn/)：集结历史地理类公众号资源，好处是可以搜索出对应区域或时期地图，与前者相比，缺少连贯性。
 - [历史车轮](https://www.lishichelun.com/wheel)：查一个年份下历史人物的年龄。
+- [日本战国精品地图](https://zhuanlan.zhihu.com/p/282061892)
+- [日本战国资料索引](https://zhuanlan.zhihu.com/p/340765947)：其中[日本战国历史精品](https://www.zhihu.com/collection/605761254)下，有不少好文章。
 ### 专题史
 - [Medievalists.net](https://www.medievalists.net/)：中世纪历史相关资料汇编。
 ---
@@ -598,3 +600,7 @@
 - 20210331 增加维基语录。
 - 20210415 从李天飞的文章中增加汉典、国学迷等国学古籍查询网站。
 - 20210521 增加敏感词排查句易网。
+- 20210615 增加来自知乎的日本战国资料、地图。
+
+- [All in One](https://all-io.net/)日本
+- [All in One](https://all-io.net/)
