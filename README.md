@@ -47,6 +47,7 @@
 - [The Pirate Bay](https://thepiratebay.org/index.html)：海盗湾，盗版资源共享网站，有电影、音乐、有声书、电子书等资源。
 - [如风搜](http://www.rufengso.net/)：原盘多多，搜索百度网盘中的公开资源。
 - [imgops](http://imgops.com/)：综合图像挖掘和编辑工具，整合了谷歌、必应、tineye、reddit、yandex、baidu、so.com、sogou等多种图像反查工具，可上传一张图片点击不同的工具进行反查。另外还整合了编辑工具、exif信息查看工具、GIF制作工具、优化工具、转换工具等多种图像在线处理工具。
+- [恰鹿后花园](https://hou.qialu999.com/)：电子书、在线工具等索引。
 
 ### 搜索工具
 - [Google Ngram Viewer](https://books.google.com/ngrams)：了解一个词在某个时代的热度及其变化趋势。Google扫描了所有出版物（以英文为主，截至2008年），并将出版物中的词频进行统计与分析。
@@ -604,5 +605,3 @@
 - 20210521 增加敏感词排查句易网。
 - 20210615 增加来自知乎的日本战国资料、地图。
 
-- [All in One](https://all-io.net/)日本
-- [All in One](https://all-io.net/)
