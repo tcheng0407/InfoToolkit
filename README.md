@@ -87,6 +87,7 @@
 - [Crossref](https://www.crossref.org/)：查询文献的DOI（唯一），用于Altmetric分析（高亮DOI，点Altmetric）。
 - [中国社会科学引文索引（CSSCI）](http://cssci.nju.edu.cn/)：使用CiteSpace分析时，CSSCI比知网的数据更好，但需要用户名密码才能使用。
 - [阳志平-开放科学工具箱](https://www.yangzhiping.com/psy/open-science-toolbox.html)：解释了开放科学的原理，并整理相关资源。【待探索】
+- [ReadPaper](https://readpaper.com/)：试用阶段的文献下载、阅读、管理平台。目前能找到一些论文，阅读、管理等功能待开发。
 ### 文献订阅
 - [X-MOL](https://www.x-mol.com/paper/bio)：主要为生命科学、医学类，可订阅期刊和关键词，定期将新论文发送至邮箱。
 - [The Old Reader](https://theoldreader.com/)：增加了杂志的订阅，需要在此网站上浏览，界面美观。
@@ -137,6 +138,9 @@
 - [无产阶级图书馆](http://45.32.41.3/My_library_table.php)：好书很多，各种类型，新书很快，五星级推荐。需要科学上网。注：此网站主页有一些社科类资料导览。
 - [Zlibrary](https://b-ok.cc/)：搜索引擎，以英文为主，也可搜索中文书籍，全免费，试用了一下，新书pdf找不到，老书pdf或新老书文字版都较方便找到。发现很多港台版的书能找到，真是个宝藏网站。已注册 tcheng0407@gmail.com。墙内可看[Zlibrary](https://1lib.net/)。
 - [Library Genesis](http://gen.lib.rus.ec/)：最知名的免费英文书下载网站，经常被封。老毛子真是美帝一世之敌，只有这件事要感谢毛子。[备用链接1](http://libgen.io/)、[备用链接2](http://libgen.is/)
+- [elib.cc](https://elib.cc/)：已注册，每日可下载三本。pdf 和 epub 等格式均有，清晰度普通。
+- [LoreFree](https://lorefree.com/)：基于区块链技术的电子书分享社区。目前书籍数量尚可，无需注册，可免费下载。
+- [搜书网](https://www.shudan.vip/)：搜索，跳转到其他网站下载。测试几本，效果不错。
 - [IRead](http://www.iread.cf/)：epubee 倒闭后找到的替代品，书总量挺多，每天可免费下载 3 本。
 - [编程随想的电子书清单](https://github.com/programthink/books#33_)：目录详细，可搜索。
 - [猫师的小书屋](https://gd.maobot.workers.dev/)：社科类图书，港台和大陆书籍均有，需要好好研究一下目录。
