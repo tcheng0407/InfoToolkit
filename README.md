@@ -164,6 +164,7 @@
 注：阳志平老师心目中最好的五本杂志：《哈佛商业评论》《麻省理工评论》《科学美国人》《纽约时报》《经济学人》。
 - [MagazineLib](https://magazinelib.com/)
 - [Magazine pdf](https://freemagazinepdf.com/)
+- [英语杂志社](https://www.emagazines.site/)：可免费下载最新几期杂志，主要是《经济学人》。下载全站需付费。
 ---
 ## 历史
 ### 书籍检索
