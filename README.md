@@ -117,6 +117,7 @@
 ### 致敬大神
 - [Herbert Simon Collection](http://diva.library.cmu.edu/simon/)：CMU公开的赫伯特·西蒙的所有论文、资料合集。点击“Access”跳转至资源。
 - [Nassim Taleb](https://fs.blog/intellectual-giants/nassim-taleb/)
+- [Thomas Sowell](https://www.tsowell.com/)
 
 ---
 
