@@ -484,6 +484,8 @@
 - [A-Z Quotes](https://www.azquotes.com/)：最大的英文名言库，收录了55000人的130万条名言。可按照主题、人物、情绪检索，另有最常引用名言、每日名言和名言配图等工具。
 - [Wikiquote](https://en.wikiquote.org/wiki/Main_Page)：维基语录（英文版），名人名言库，建议根据人名检索，可以查到不同主题的语录，还能看到被误认为是他说过的话。如果用名言中的关键词检索，效果不佳。
 - [维基语录](https://zh.wikiquote.org/wiki/)：维基语录中文版。如果是外国人，建议优先查询英文版，英文版内容更加丰富和全面。中国人可以查中文版。
+- [Synonyms and Antonyms of Words](https://www.thesaurus.com/)：英语同义词、反义词词典，可丰富英语写作词汇。
+- [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)：总结学术论文中的常用句型，如「提出问题」、「反驳前人研究」、「描述趋势」等。
 - [百度汉语](https://dict.baidu.com/)：查词语意思，可查同义词、反义词等。可以根据意思或结构查成语（注意语法）。
 - [WordArt.com](https://wordart.com/)：全球最常用的词云生成网站，使用英文更方便，中文需要额外导入字体。
 - [微词云](https://www.weiciyun.com/)：生成有设计感的词云，可插入图片或按照形状生成词云。
@@ -617,3 +619,4 @@
 - 20210521 增加敏感词排查句易网。
 - 20210615 增加来自知乎的日本战国资料、地图。
 - 20220510 增加两个 ISBN 书籍检索数据库。
+- 20220819 增加英文同义词、反义词查询；增加学术句型库。
