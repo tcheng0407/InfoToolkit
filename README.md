@@ -141,6 +141,7 @@
 - [无产阶级图书馆](http://45.32.41.3/My_library_table.php)：好书很多，各种类型，新书很快，五星级推荐。需要科学上网。注：此网站主页有一些社科类资料导览。
 - [Zlibrary](https://b-ok.cc/)：搜索引擎，以英文为主，也可搜索中文书籍，全免费，试用了一下，新书pdf找不到，老书pdf或新老书文字版都较方便找到。发现很多港台版的书能找到，真是个宝藏网站。已注册 tcheng0407@gmail.com。墙内可看[Zlibrary](https://1lib.net/)。
 - [Library Genesis](http://gen.lib.rus.ec/)：最知名的免费英文书下载网站，经常被封。老毛子真是美帝一世之敌，只有这件事要感谢毛子。[备用链接1](http://libgen.io/)、[备用链接2](http://libgen.is/)
+- [zhelper](https://www.zhelper.net/)：Z-lib 挂后，暂用镜像网站，也可找到 TG 群。
 - [PDF Drive](https://www.pdfdrive.com/)：PDF 格式电子书，有中文。
 - [IT 业界网（kindleer）](https://emebao.com/)：测试可下载书籍，较新。
 - [elib.cc](https://elib.cc/)：已注册，每日可下载三本。pdf 和 epub 等格式均有，清晰度普通。
@@ -621,3 +622,4 @@
 - 20210615 增加来自知乎的日本战国资料、地图。
 - 20220510 增加两个 ISBN 书籍检索数据库。
 - 20220819 增加英文同义词、反义词查询；增加学术句型库。
+- 20221111 Z-lib 挂后，增加一些备用下载电子书网站。
