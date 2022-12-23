@@ -67,12 +67,19 @@
 - [Google学术分类表](https://scholar.google.com/citations?view_op=top_venues&hl=en)：可以了解各个学科的分类，同时了解该学科的顶级刊物。
 - [美国CIP分类表](https://nces.ed.gov/ipeds/cipcode/browse.aspx?y=56)：美国教育部的学科分类。
 - [中国国家标准：学科分类与代码GBT/13745-2009](http://www.njitt.edu.cn/_upload/article/files/c5/cd/02d9a41641acb4de0cd31423f54d/0c66f222-11d6-483b-94db-7c7b07b55b7d.pdf)：中国2009年修订的学科分类，pdf文件，不便检索。
+### 文献检索
+- [Google Schorlar](https://scholar.google.com/)：谷歌学术。使用日本的服务器无法访问，可访问[谷歌学术镜像](http://scholar.scqylaw.com/)替代。
+- [Semantic Scholar](https://www.semanticscholar.org/)：文献量不逊谷歌学术。
+- [Scite](https://scite.ai/home)：使用 AI 技术分析文献，测算有多少文献支持或反对该文献。
+- [百度学术](https://xueshu.baidu.com/)：中文文献。
+
+
 ### 学术期刊/学者
 - [Neurotree](https://neurotree.org/neurotree/)：查询学者的师承关系。
 - [The Academic Family Tree](https://academictree.org/)：与Neurotree是同一个网站，该页面可以根据学科查询。
-- [Google经典论文](https://scholar.google.com/citations?view_op=list_classic_articles&hl=zh-CN&by=2006)：按学科分类的经典论文。
-- [Google核心期刊](https://scholar.google.com/citations?view_op=top_venues&hl=en)：页面同Google学术分类表，按H5指数顺序展示该领域顶级刊物。
-- [SJR期刊排名](https://www.scimagojr.com/journalrank.php)：可与Google核心期刊交叉验证。
+- [Google 经典论文](https://scholar.google.com/citations?view_op=list_classic_articles&hl=zh-CN&by=2006)：按学科分类的经典论文。
+- [Google 核心期刊](https://scholar.google.com/citations?view_op=top_venues&hl=en)：页面同 Google 学术分类表，按 H5 指数顺序展示该领域顶级刊物。
+- [SJR 期刊排名](https://www.scimagojr.com/journalrank.php)：可与 Google 核心期刊交叉验证。
 - [知网出版物检索](http://navi.cnki.net/knavi)：先在“出版来源导航”中选择“期刊导航”，再在左边选择相应学科，并勾选“核心期刊”。
 - [北大《中文核心期刊要目总览（2014年版）》](http://lib.hhu.edu.cn/upload/201704/12/201704121414100956.pdf)
 - [知网学者库](http://expert.cnki.net/)：可以查看某领域的中国学者排名，但查看论文、按年代排序等需要收费，恶臭。
@@ -626,3 +633,4 @@
 - 20220510 增加两个 ISBN 书籍检索数据库。
 - 20220819 增加英文同义词、反义词查询；增加学术句型库。
 - 20221111 Z-lib 挂后，增加一些备用下载电子书网站。
+- 20221223 增加几个文献信息源。
