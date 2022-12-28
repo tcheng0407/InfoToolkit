@@ -70,7 +70,7 @@
 ### 文献检索
 - [Google Schorlar](https://scholar.google.com/)：谷歌学术。使用日本的服务器无法访问，可访问[谷歌学术镜像](http://scholar.scqylaw.com/)替代。
 - [Semantic Scholar](https://www.semanticscholar.org/)：文献量不逊谷歌学术。
-- [JSTOR](https://www.jstor.org/)：文献网站。
+- [JSTOR](https://www.jstor.org/)：文献网站，不仅有学术论文，还有很多一手资料（primary source），如档案、图片等。
 - [Scite](https://scite.ai/home)：使用 AI 技术分析文献，测算有多少文献支持或反对该文献。
 - [百度学术](https://xueshu.baidu.com/)：中文文献。
 
